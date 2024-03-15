@@ -1,7 +1,7 @@
 import azure.functions as func
 import logging
 
-from ..common import Params
+from common import Params
 
 
 def calculate(req: func.HttpRequest) -> func.HttpResponse:
