@@ -26,8 +26,10 @@ class Params:
         value = self.__body
 
         for i in index.split("."):
-            value = value.get(i)
-            if value is None:
+            try:
+                value = value[i]
+            except (TypeError, KeyError):
+                value = None
                 break
 
         return value
