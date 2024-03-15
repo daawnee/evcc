@@ -17,10 +17,10 @@ class Params:
 
     @cache
     def __getitem__(self, index: str) -> Any:
-        if value := self.__headers.get(index) is not None:
+        if (value := self.__headers.get(index)) is not None:
             return value
 
-        if value := self.__get.get(index) is not None:
+        if (value := self.__get.get(index)) is not None:
             return value
 
         value = self.__body
