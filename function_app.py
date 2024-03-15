@@ -1,5 +1,6 @@
 import azure.functions as func
-from . import endpoints
+
+# from . import endpoints
 
 app = func.FunctionApp(http_auth_level=func.AuthLevel.ANONYMOUS)
 
@@ -9,4 +10,7 @@ app = func.FunctionApp(http_auth_level=func.AuthLevel.ANONYMOUS)
     methods=["GET", "POST"],
 )
 def calculate(req: func.HttpRequest) -> func.HttpResponse:
-    return endpoints.calculate(req=req)
+    # return endpoints.calculate(req=req)
+    return func.HttpResponse(
+        f"Hello! This HTTP triggered function executed successfully."
+    )
