@@ -1,7 +1,7 @@
 import azure.functions as func
 from functools import cache
 
-from typing import Any
+from typing import Any, Optional, Dict
 
 
 class Params:
@@ -16,7 +16,7 @@ class Params:
             self.__body = {}
 
     @cache
-    def __getitem__(self, index: str) -> Any:
+    def __getitem__(self, index: str) -> Optional[Any]:
         if (value := self.__headers.get(index)) is not None:
             return value
 
@@ -33,3 +33,15 @@ class Params:
                 break
 
         return value
+
+    @property
+    def headers(self) -> Dict[str, str]:
+        return self.__headers
+
+    @property
+    def get(self) -> Dict[str, str]:
+        return self.__get
+
+    @property
+    def body(self) -> Dict[str, Any]:
+        return self.__body

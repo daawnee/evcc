@@ -2,6 +2,8 @@ import azure.functions as func
 import logging
 
 from common import Params
+from models.calculate import Input
+from pydantic import ValidationError
 
 
 def calculate(req: func.HttpRequest) -> func.HttpResponse:
@@ -9,14 +11,12 @@ def calculate(req: func.HttpRequest) -> func.HttpResponse:
 
     params = Params(req)
 
-    name = params["name"]
-
-    if name:
+    try:
+        input = Input.model_validate(params.body)
+    except ValidationError as e:
         return func.HttpResponse(
-            f"Hello, {name}. This HTTP triggered function executed successfully."
+            f"Input parsing error:\n{e}",
+            status_code=401,
         )
     else:
-        return func.HttpResponse(
-            "This HTTP triggered function executed successfully. Pass a name in the query string or in the request body for a personalized response.",
-            status_code=200,
-        )
+        return func.HttpResponse(input.model_dump_json())
