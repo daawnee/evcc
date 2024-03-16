@@ -11,8 +11,6 @@ class Params:
         try:
             self.__body = req.get_json()
         except ValueError:
-            pass
-        else:
             self.__body = {}
 
     @cache

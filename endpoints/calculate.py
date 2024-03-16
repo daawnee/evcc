@@ -1,5 +1,6 @@
 import azure.functions as func
 import logging
+import json
 
 from common import Params
 from models.calculate import Input
@@ -15,7 +16,7 @@ def calculate(req: func.HttpRequest) -> func.HttpResponse:
         input = Input.model_validate(params.body)
     except ValidationError as e:
         return func.HttpResponse(
-            f"Input parsing error:\n{e}",
+            f"{e}\n{json.dumps(params.body)}",
             status_code=401,
         )
     else:
