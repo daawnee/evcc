@@ -5,8 +5,7 @@ from typing import List, Optional
 
 class VehicleType(str, Enum):
     bev = "bev"
-    petrol = "petrol"
-    diesel = "diesel"
+    ice = "ice"
 
 
 class Financing(BaseModel):
@@ -52,5 +51,6 @@ class Milage(BaseModel):
 
 
 class Root(BaseModel):
-    cars: List[Vehicle]
+    car: Vehicle
+    compares: List[Vehicle]
     milage: Milage
