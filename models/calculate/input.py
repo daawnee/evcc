@@ -35,14 +35,15 @@ class FuelInfo(BaseModel):
 
 
 class Vehicle(BaseModel):
-    model: str
     type: VehicleType
+    brand: str
+    model: str
     price: float
     financing: Optional[Financing] = None
-    consumption: Consumption
-    fees: Fees
-    depreciation: float
-    fuel: FuelInfo
+    consumption: Optional[Consumption]
+    fees: Optional[Fees]
+    depreciation: Optional[float]
+    fuel: Optional[FuelInfo]
 
 
 class Milage(BaseModel):
@@ -53,4 +54,4 @@ class Milage(BaseModel):
 class Root(BaseModel):
     car: Vehicle
     compares: List[Vehicle]
-    milage: Milage
+    milage: Optional[Milage]
