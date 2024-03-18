@@ -1,21 +1,39 @@
 from pydantic import BaseModel
 from enum import Enum
+from functools import cache
 from typing import List, Optional
 
 
 class VehicleType(str, Enum):
     bev = "bev"
-    ice = "ice"
+    petrol = "petrol"
+    diesel = "diesel"
 
 
 class Financing(BaseModel):
     loan: float
-    interest: float
-    maturity: int
+    rate: float
+    months: int
+
+    @cache
+    def monthly(self) -> float:
+        return (
+            (self.rate / 12)
+            * (1 / (1 - (1 + self.rate / 12) ** (-self.months)))
+            * self.loan
+        )
+
+    @cache
+    def total(self) -> float:
+        return self.monthly * self.months
+
+    @cache
+    def total_interest(self) -> float:
+        return self.total - self.loan
 
 
 class Consumption(BaseModel):
-    commute: float
+    average: float
     highway: float
 
 
@@ -30,8 +48,13 @@ class FuelPrice(BaseModel):
 
 
 class FuelInfo(BaseModel):
-    commute: FuelPrice
+    average: FuelPrice
     highway: FuelPrice
+
+
+class Amortization(BaseModel):
+    year: int
+    value: float
 
 
 class Vehicle(BaseModel):
@@ -39,6 +62,7 @@ class Vehicle(BaseModel):
     brand: str
     model: str
     price: float
+    amortization: Optional[List[Amortization]] = None
     financing: Optional[Financing] = None
     consumption: Optional[Consumption] = None
     fees: Optional[Fees] = None

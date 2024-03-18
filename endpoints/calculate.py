@@ -13,11 +13,19 @@ def calculate(req: func.HttpRequest) -> func.HttpResponse:
     params = Params(req)
 
     try:
-        input = Input.model_validate(params.body)
+        input = Input(**params.body)
     except ValidationError as e:
         return func.HttpResponse(
-            f"{e}\n{json.dumps(params.body)}",
+            str(e),
+            headers={
+                "Content-Type": "text/plain; charset=UTF-8",
+            },
             status_code=400,
         )
     else:
-        return func.HttpResponse(input.model_dump_json())
+        return func.HttpResponse(
+            input.model_dump_json(),
+            headers={
+                "Content-Type": "application/json; charset=UTF-8",
+            },
+        )
