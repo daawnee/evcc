@@ -38,8 +38,11 @@ class Consumption(BaseModel):
 
 
 class Fees(BaseModel):
+    tax: float
     service: float
     insurance: float
+    parking: float
+    vignette: float
 
 
 class FuelPrice(BaseModel):
@@ -74,6 +77,10 @@ class Vehicle(BaseModel):
             self.depreciation = depreciation[self.type]
         if self.fuel is None:
             self.fuel = fuel[self.type]
+        if consumption is None:
+            self.consumption = consumption[self.type]
+        if fees is None:
+            self.fees = fees[self.type]
         return self
 
 
@@ -130,4 +137,35 @@ depreciation = {
         Depreciation(year=3, value=63),
         Depreciation(year=5, value=37),
     ],
+}
+
+consumption = {
+    VehicleType.petrol: Consumption(average=6.0, highway=8.0),
+    VehicleType.diesel: Consumption(average=5.0, highway=7.0),
+    VehicleType.bev: Consumption(average=16.0, highway=21.0),
+}
+
+# https://penzugyi-tudakozo.hu/ennyibe-kerul-egy-auto-fenntartasa-2023-ban/
+fees = {
+    VehicleType.petrol: Fees(
+        tax=30_000,
+        service=120_000,
+        insurance=55_000 + 150_000,
+        parking=60_000,
+        vignette=50_000,
+    ),
+    VehicleType.diesel: Fees(
+        tax=30_000,
+        service=120_000,
+        insurance=55_000 + 150_000,
+        parking=60_000,
+        vignette=50_000,
+    ),
+    VehicleType.bev: Fees(
+        tax=0,
+        service=15_000,
+        insurance=55_000 + 35_0000,
+        parking=60_000,
+        vignette=50_000,
+    ),
 }
