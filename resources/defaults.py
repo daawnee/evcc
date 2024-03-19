@@ -3,7 +3,7 @@ from models.calculate.input import (
     FuelInfo,
     FuelPrice,
     Milage,
-    Amortization,
+    Depreciation,
 )
 
 # https://holtankoljak.hu/
@@ -24,24 +24,20 @@ fuel = {
 
 
 # https://villanyautosok.hu/2021/04/18/ennyi-uzemanyagot-fustolnek-el-a-magyar-autosok-minden-evben/
-milage = {
-    VehicleType.petrol: Milage(commute=8000, highway=2000),
-    VehicleType.diesel: Milage(commute=24000, highway=6000),
-    VehicleType.bev: Milage(commute=13600, highway=3400),
-}
+milage = Milage(commute=13600, highway=3400)
 
 # https://totalcar.hu/magazin/hirek/2023/05/24/hasznalt-elektromos-autok-vizsgalat-attekinthetobb-piac/
-amortization = {
+depreciation = {
     VehicleType.petrol: [
-        Amortization(year=3, value=66),
-        Amortization(year=5, value=46),
+        Depreciation(year=3, value=66),
+        Depreciation(year=5, value=46),
     ],
     VehicleType.diesel: [
-        Amortization(year=3, value=66),
-        Amortization(year=5, value=46),
+        Depreciation(year=3, value=66),
+        Depreciation(year=5, value=46),
     ],
     VehicleType.bev: [
-        Amortization(year=3, value=63),
-        Amortization(year=5, value=37),
+        Depreciation(year=3, value=63),
+        Depreciation(year=5, value=37),
     ],
 }

@@ -1,7 +1,8 @@
-from pydantic import BaseModel
+from pydantic import BaseModel, model_validator
 from enum import Enum
 from functools import cache
-from typing import List, Optional
+from resources import defaults
+from typing import List, Optional, Dict, Any
 
 
 class VehicleType(str, Enum):
@@ -52,7 +53,7 @@ class FuelInfo(BaseModel):
     highway: FuelPrice
 
 
-class Amortization(BaseModel):
+class Depreciation(BaseModel):
     year: int
     value: float
 
@@ -62,12 +63,19 @@ class Vehicle(BaseModel):
     brand: str
     model: str
     price: float
-    amortization: Optional[List[Amortization]] = None
+    depreciation: Optional[List[Depreciation]] = None
+    fuel: Optional[FuelInfo] = None
     financing: Optional[Financing] = None
     consumption: Optional[Consumption] = None
     fees: Optional[Fees] = None
-    depreciation: Optional[float] = None
-    fuel: Optional[FuelInfo] = None
+
+    @model_validator(mode="after")
+    def validate(self) -> "Vehicle":
+        if self.depreciation is None:
+            self.depreciation = defaults.depreciation[self.type]
+        if self.fuel is None:
+            self.fuel = defaults.fuel[self.type]
+        return self
 
 
 class Milage(BaseModel):
@@ -79,3 +87,9 @@ class Root(BaseModel):
     car: Vehicle
     compares: List[Vehicle]
     milage: Optional[Milage] = None
+
+    @model_validator(mode="after")
+    def validate(self) -> "Root":
+        if self.milage is None:
+            self.milage = defaults.milage
+        return self
