@@ -77,9 +77,9 @@ class Vehicle(BaseModel):
             self.depreciation = depreciation[self.type]
         if self.fuel is None:
             self.fuel = fuel[self.type]
-        if consumption is None:
+        if self.consumption is None:
             self.consumption = consumption[self.type]
-        if fees is None:
+        if self.fees is None:
             self.fees = fees[self.type]
         return self
 
