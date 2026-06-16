@@ -19,6 +19,7 @@ const assumptions = reactive({
   mileage: { commute: 13600, travel: 3400 },
   energy_cheap: { electricity: 72, petrol: 618.8, diesel: 642.1 },
   energy_expensive: { electricity: 225, petrol: 708.9, diesel: 722.9 },
+  energy_inflation: { electricity: 0.015, petrol: 0.045, diesel: 0.045 }, // yearly, per carrier
   horizon_months: HORIZON,
 })
 

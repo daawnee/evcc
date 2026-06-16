@@ -129,6 +129,15 @@ class EnergyPrices(BaseModel):
     diesel: float  # per litre
 
 
+class EnergyInflation(BaseModel):
+    """Annual price-increase rate per energy carrier (e.g. 0.02 = +2%/yr), compounded monthly.
+    Electricity typically rises slower than liquid fuels."""
+
+    electricity: float = 0.015
+    petrol: float = 0.045
+    diesel: float = 0.045
+
+
 class Mileage(BaseModel):
     commute: int  # km/year driven on the cheap energy tariff (home charging / local station)
     travel: int  # km/year driven on the expensive tariff (fast charging / highway)
@@ -145,8 +154,9 @@ class Assumptions(BaseModel):
     mileage: "Mileage" = Field(default_factory=lambda: DEFAULT_MILEAGE)
     energy_cheap: "EnergyPrices" = Field(default_factory=lambda: DEFAULT_ENERGY_CHEAP)
     energy_expensive: "EnergyPrices" = Field(default_factory=lambda: DEFAULT_ENERGY_EXPENSIVE)
+    energy_inflation: EnergyInflation = Field(default_factory=EnergyInflation)
     other_yearly: "OtherYearly" = Field(default_factory=lambda: DEFAULT_OTHER_YEARLY)
-    inflation: float = 0.05  # annual inflation applied to running costs
+    inflation: float = 0.05  # annual inflation applied to non-energy running costs
     horizon_months: int = 60  # default projection horizon: 5 years
 
 

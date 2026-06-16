@@ -24,11 +24,15 @@ month X; own it longer than that and the EV wins."*
   (legacy `{year, retained}` is auto-converted). We only have credible per-type figures, so the
   brand layer is empty and per-model `depreciation` has been **removed from metadata.json** (the
   engine resolves it from the type curve). `CarData.depreciation` is optional.
-- **Powertrains & energy model** (`engine._energy_nominal_monthly`): `bev` runs on electricity both
+- **Powertrains & energy model** (`engine._energy_components`): `bev` runs on electricity both
   legs; `petrol`/`diesel`/`hybrid` on a single combustion fuel (`CarData.fuel`, default petrol) both
   legs; **`phev` runs the commute leg on grid electricity (`electric_consumption`, kWh/100km) and the
   travel leg on the combustion fuel** — so the commute/travel mileage split *is* the
   electric-vs-fuel driving share. `consumption` is L/100km for combustion types and kWh/100km for bev.
+- **Energy price inflation** (`Assumptions.energy_inflation`): each carrier inflates at its own
+  yearly rate, compounded monthly — defaults electricity 1.5%, petrol/diesel 4.5%. Energy cost is
+  split by carrier so the two rates apply independently; the general `inflation` covers only the
+  non-energy running costs (service/insurance/tax/parking/vignette). Editable in the UI assumptions panel.
 - **Shared assumptions** (`Assumptions`, all defaulted/overridable): yearly `mileage` split into
   **commute** (cheap energy tariff) vs **travel** (expensive tariff); two energy price sets
   (`energy_cheap` = home charging / local station, `energy_expensive` = fast charging / highway);

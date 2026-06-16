@@ -41,6 +41,22 @@ defineProps({
         <label class="field"><span>{{ t.diesel }}</span>
           <input type="number" min="0" step="1" v-model.number="a.energy_expensive.diesel" /></label>
       </fieldset>
+
+      <fieldset>
+        <legend>{{ t.priceIncrease }}</legend>
+        <label class="field"><span>{{ t.inflElectricity }}</span>
+          <input type="number" min="0" step="0.5"
+            :value="(a.energy_inflation.electricity * 100).toFixed(1)"
+            @input="a.energy_inflation.electricity = (Number($event.target.value) || 0) / 100" /></label>
+        <label class="field"><span>{{ t.inflPetrol }}</span>
+          <input type="number" min="0" step="0.5"
+            :value="(a.energy_inflation.petrol * 100).toFixed(1)"
+            @input="a.energy_inflation.petrol = (Number($event.target.value) || 0) / 100" /></label>
+        <label class="field"><span>{{ t.inflDiesel }}</span>
+          <input type="number" min="0" step="0.5"
+            :value="(a.energy_inflation.diesel * 100).toFixed(1)"
+            @input="a.energy_inflation.diesel = (Number($event.target.value) || 0) / 100" /></label>
+      </fieldset>
     </div>
   </details>
 </template>

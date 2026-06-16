@@ -109,6 +109,25 @@ def test_phev_commute_electric_travel_fuel():
     assert phev_energy < ice_energy
 
 
+def test_energy_inflation_is_per_carrier():
+    # Petrol fuel inflates at 10%/yr, electricity at 0% — check each carrier compounds at its rate.
+    a = _assumptions(
+        horizon_months=24,
+        inflation=0,
+        energy_inflation={"electricity": 0.0, "petrol": 0.10, "diesel": 0.10},
+    )
+    petrol = engine.compute("ice", fallback_car_data(VehicleType.petrol, "ice"),
+                            CarSelection(model_id="ice", purchase_price=6_000_000), a)
+    # month 13 (one year on) energy ≈ month 1 × 1.10
+    e1, e13 = petrol.series[0].energy, petrol.series[12].energy
+    assert abs(e13 / e1 - 1.10) < 0.02
+
+    bev = engine.compute("ev", fallback_car_data(VehicleType.bev, "ev"),
+                         CarSelection(model_id="ev", purchase_price=6_000_000), a)
+    # electricity inflation 0 -> BEV energy is flat across months
+    assert abs(bev.series[0].energy - bev.series[12].energy) < 0.01
+
+
 def test_financing_adds_only_interest():
     car = fallback_car_data(VehicleType.petrol, "ice")
     a = _assumptions(horizon_months=12, inflation=0)

@@ -38,8 +38,13 @@ def _fuel_price(fuel: FuelType, a: Assumptions) -> tuple:
     return a.energy_cheap.petrol, a.energy_expensive.petrol
 
 
-def _energy_nominal_monthly(car: CarData, a: Assumptions) -> float:
-    """Nominal (pre-inflation) monthly energy/fuel cost.
+def _fuel_inflation(fuel: FuelType, a: Assumptions) -> float:
+    return a.energy_inflation.diesel if fuel == FuelType.diesel else a.energy_inflation.petrol
+
+
+def _energy_components(car: CarData, a: Assumptions):
+    """Nominal (pre-inflation) monthly energy cost split by carrier: (electricity, fuel, fuel_type).
+    Each carrier inflates at its own rate, so they must be tracked separately.
 
     The commute leg uses the cheap tariff (home charging / local fuel), the travel leg the expensive
     tariff (fast charging / highway). For a PHEV the commute leg runs on grid electricity and the
@@ -49,25 +54,28 @@ def _energy_nominal_monthly(car: CarData, a: Assumptions) -> float:
     travel_km_m = a.mileage.travel / 12
 
     if car.type == VehicleType.bev:
-        return (
+        electricity = (
             commute_km_m / 100 * car.consumption.average * a.energy_cheap.electricity
             + travel_km_m / 100 * car.consumption.highway * a.energy_expensive.electricity
         )
+        return electricity, 0.0, None
 
     if car.type == VehicleType.phev:
+        fuel = car.fuel or FuelType.petrol
         elec = car.electric_consumption or car.consumption
-        _, fuel_exp = _fuel_price(car.fuel or FuelType.petrol, a)
-        commute = commute_km_m / 100 * elec.average * a.energy_cheap.electricity
-        travel = travel_km_m / 100 * car.consumption.highway * fuel_exp
-        return commute + travel
+        _, fuel_exp = _fuel_price(fuel, a)
+        electricity = commute_km_m / 100 * elec.average * a.energy_cheap.electricity
+        fuel_cost = travel_km_m / 100 * car.consumption.highway * fuel_exp
+        return electricity, fuel_cost, fuel
 
     # petrol / diesel / hybrid: a single combustion fuel on both legs
     fuel = car.fuel or (FuelType.diesel if car.type == VehicleType.diesel else FuelType.petrol)
     cheap, exp = _fuel_price(fuel, a)
-    return (
+    fuel_cost = (
         commute_km_m / 100 * car.consumption.average * cheap
         + travel_km_m / 100 * car.consumption.highway * exp
     )
+    return 0.0, fuel_cost, fuel
 
 
 def compute(model_id: str, car: CarData, sel: CarSelection, a: Assumptions) -> CarResult:
@@ -83,7 +91,9 @@ def compute(model_id: str, car: CarData, sel: CarSelection, a: Assumptions) -> C
         retained = _retained_pct(curve, base_age + elapsed_months)
         return price * (retained / anchor) if anchor else price
 
-    energy_nominal = _energy_nominal_monthly(car, a)
+    elec_nominal, fuel_nominal, fuel_type = _energy_components(car, a)
+    elec_rate = a.energy_inflation.electricity
+    fuel_rate = _fuel_inflation(fuel_type, a) if fuel_type else 0.0
 
     service_m = car.service_yearly / 12
     insurance_m = car.insurance_yearly / 12
@@ -104,7 +114,11 @@ def compute(model_id: str, car: CarData, sel: CarSelection, a: Assumptions) -> C
         depreciation = prev_value - cur_value
         prev_value = cur_value
 
-        energy = energy_nominal * inflation_factor
+        # Energy uses per-carrier price inflation; other running costs use general inflation.
+        energy = (
+            elec_nominal * (1 + elec_rate) ** (m / 12)
+            + fuel_nominal * (1 + fuel_rate) ** (m / 12)
+        )
         service = service_m * inflation_factor
         insurance = insurance_m * inflation_factor
         other = other_m * inflation_factor
