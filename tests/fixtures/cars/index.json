@@ -1,0 +1,23 @@
+[
+  {
+    "model_id": "tesla-model-3",
+    "make": "Tesla",
+    "model": "Model 3",
+    "type": "bev",
+    "photo": null
+  },
+  {
+    "model_id": "vw-golf-15-tsi",
+    "make": "Volkswagen",
+    "model": "Golf 1.5 TSI",
+    "type": "petrol",
+    "photo": null
+  },
+  {
+    "model_id": "skoda-octavia-20-tdi",
+    "make": "Skoda",
+    "model": "Octavia 2.0 TDI",
+    "type": "diesel",
+    "photo": null
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "url": "https://ev-database.org/uk/",
+  "status": 200,
+  "headers": {
+    "Transfer-Encoding": [
+      "chunked"
+    ],
+    "Keep-Alive": [
+      "timeout=5, max=100"
+    ],
+    "Cache-Control": [
+      "no-store, no-cache, must-revalidate"
+    ],
+    "Server": [
+      "Apache"
+    ],
+    "Connection": [
+      "Keep-Alive"
+    ],
+    "Vary": [
+      "Accept-Encoding"
+    ],
+    "Set-Cookie": [
+      "PHPSESSID=vj1ar5fvhhqfb01v3mgqgk8lb2; path=/; secure; HttpOnly; SameSite=Strict"
+    ],
+    "Pragma": [
+      "no-cache"
+    ],
+    "Expires": [
+      "Thu, 19 Nov 1981 08:52:00 GMT"
+    ],
+    "Date": [
+      "Tue, 16 Jun 2026 11:01:48 GMT"
+    ],
+    "Content-Type": [
+      "text/html; charset=UTF-8"
+    ]
+  },
+  "_encoding": "utf-8"
+}

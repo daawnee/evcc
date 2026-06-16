@@ -5,4 +5,15 @@ __blobstorage__
 __queuestorage__
 local.settings.json
 test
+tests
 .venv
+.scrape
+ev_database_org
+*.jl
+data
+ui/node_modules
+ui/src
+ui/package.json
+ui/package-lock.json
+ui/vite.config.js
+ui/index.html

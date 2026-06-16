@@ -1,0 +1,5499 @@
+{
+  "items": [
+    {
+      "url": "https://ev-database.org/car/3403/Tesla-Model-3-RWD",
+      "text": "Tesla Model 3 RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1708/MG-MG4-Electric-64-kWh",
+      "text": "MG MG4 Electric 64 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3290/BMW-iX3-50-xDrive",
+      "text": "BMW iX3 50 xDrive"
+    },
+    {
+      "url": "https://ev-database.org/car/1285/Fiat-500e-Hatchback-42-kWh",
+      "text": "Fiat 500e Hatchback 42 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1472/BMW-iX-xDrive40",
+      "text": "BMW iX xDrive40"
+    },
+    {
+      "url": "https://ev-database.org/car/1516/CUPRA-Born-150-kW---58-kWh",
+      "text": "CUPRA Born 150 kW - 58 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1518/CUPRA-Born-170-kW---77-kWh",
+      "text": "CUPRA Born 170 kW - 77 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3139/Mercedes-Benz-CLA-250plus",
+      "text": "Mercedes-Benz CLA 250+"
+    },
+    {
+      "url": "https://ev-database.org/car/3488/Audi-Q6-Sportback-e-tron-quattro",
+      "text": "Audi Q6 Sportback e-tron quattro"
+    },
+    {
+      "url": "https://ev-database.org/car/3104/Tesla-Model-Y-Long-Range-AWD",
+      "text": "Tesla Model Y Long Range AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3296/Mercedes-Benz-GLC-400-4MATIC",
+      "text": "Mercedes-Benz GLC 400 4MATIC"
+    },
+    {
+      "url": "https://ev-database.org/car/2212/Kia-EV3-Long-Range",
+      "text": "Kia EV3 Long Range"
+    },
+    {
+      "url": "https://ev-database.org/car/1619/Tesla-Model-Y-Long-Range-AWD",
+      "text": "Tesla Model Y Long Range AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3643/Ferrari-Luce",
+      "text": "Ferrari Luce"
+    },
+    {
+      "url": "https://ev-database.org/car/3564/Leapmotor-B05-671-kWh",
+      "text": "Leapmotor B05 67.1 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3362/Tesla-Model-Y-RWD",
+      "text": "Tesla Model Y RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3404/Tesla-Model-3-Premium-RWD",
+      "text": "Tesla Model 3 Premium RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3443/Volvo-EX60-P12-AWD",
+      "text": "Volvo EX60 P12 AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3072/BYD-SEALION-7-913-kWh-AWD-Excellence",
+      "text": "BYD SEALION 7 91.3 kWh AWD Excellence"
+    },
+    {
+      "url": "https://ev-database.org/car/2135/Renault-5-E-Tech-52kWh-150hp",
+      "text": "Renault 5 E-Tech 52kWh 150hp"
+    },
+    {
+      "url": "https://ev-database.org/car/3233/Leapmotor-B10-671-kWh",
+      "text": "Leapmotor B10 67.1 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3034/Tesla-Model-3-Long-Range-RWD",
+      "text": "Tesla Model 3 Long Range RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3333/Tesla-Model-Y-Premium-AWD",
+      "text": "Tesla Model Y Premium AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3103/Tesla-Model-Y-RWD",
+      "text": "Tesla Model Y RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3394/Toyota-C-HRplus-77-kWh",
+      "text": "Toyota C-HR+ 77 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3268/BYD-ATTO-2-648-kWh",
+      "text": "BYD ATTO 2 64.8 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3367/Changan-Deepal-S05-RWD",
+      "text": "Changan Deepal S05 RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1591/Tesla-Model-3-Long-Range-AWD",
+      "text": "Tesla Model 3 Long Range AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/2236/Hyundai-IONIQ-5-84-kWh-RWD",
+      "text": "Hyundai IONIQ 5 84 kWh RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3124/Kia-EV4-Hatchback-814-kWh",
+      "text": "Kia EV4 Hatchback 81.4 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3392/Renault-Twingo-E-Tech-275-kWh",
+      "text": "Renault Twingo E-Tech 27.5 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3036/Dongfeng-Box-423-kWh",
+      "text": "Dongfeng Box 42.3 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3581/Volkswagen-ID-Polo-52-kWh",
+      "text": "Volkswagen ID. Polo 52 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3275/XPENG-G6-RWD-Long-Range",
+      "text": "XPENG G6 RWD Long Range"
+    },
+    {
+      "url": "https://ev-database.org/car/1666/Kia-Niro-EV",
+      "text": "Kia Niro EV"
+    },
+    {
+      "url": "https://ev-database.org/car/1910/Volvo-EX30-Single-Motor-ER",
+      "text": "Volvo EX30 Single Motor ER"
+    },
+    {
+      "url": "https://ev-database.org/car/3555/Hyundai-IONIQ-3-61-kWh",
+      "text": "Hyundai IONIQ 3 61 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3406/Mercedes-Benz-GLB-250plus",
+      "text": "Mercedes-Benz GLB 250+"
+    },
+    {
+      "url": "https://ev-database.org/car/1183/Tesla-Model-Y-Performance",
+      "text": "Tesla Model Y Performance"
+    },
+    {
+      "url": "https://ev-database.org/car/3269/Tesla-Model-Y-Performance",
+      "text": "Tesla Model Y Performance"
+    },
+    {
+      "url": "https://ev-database.org/car/1521/Renault-Megane-E-Tech-EV60-220hp",
+      "text": "Renault Megane E-Tech EV60 220hp"
+    },
+    {
+      "url": "https://ev-database.org/car/3289/Kia-PV5-Passenger-712-kWh",
+      "text": "Kia PV5 Passenger 71.2 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3039/Leapmotor-T03",
+      "text": "Leapmotor T03"
+    },
+    {
+      "url": "https://ev-database.org/car/1743/Tesla-Model-Y-RWD",
+      "text": "Tesla Model Y RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1355/Audi-e-tron-55-quattro",
+      "text": "Audi e-tron 55 quattro"
+    },
+    {
+      "url": "https://ev-database.org/car/1535/BMW-iX3",
+      "text": "BMW iX3"
+    },
+    {
+      "url": "https://ev-database.org/car/3474/BYD-ATTO-3-Evo-RWD-Design",
+      "text": "BYD ATTO 3 Evo RWD Design"
+    },
+    {
+      "url": "https://ev-database.org/car/3401/Toyota-bZ4X-Touring-AWD-747-kWh",
+      "text": "Toyota bZ4X Touring AWD 74.7 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3369/Changan-Deepal-S07-Standard",
+      "text": "Changan Deepal S07 Standard"
+    },
+    {
+      "url": "https://ev-database.org/car/3429/Zeekr-7GT-Long-Range-RWD",
+      "text": "Zeekr 7GT Long Range RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3336/Jaecoo-5-EV",
+      "text": "Jaecoo 5 EV"
+    },
+    {
+      "url": "https://ev-database.org/car/3405/Tesla-Model-3-Premium-AWD",
+      "text": "Tesla Model 3 Premium AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3033/Skoda-Elroq-85",
+      "text": "Skoda Elroq 85"
+    },
+    {
+      "url": "https://ev-database.org/car/1405/Tesla-Model-S-Plaid",
+      "text": "Tesla Model S Plaid"
+    },
+    {
+      "url": "https://ev-database.org/car/1782/BYD-ATTO-3",
+      "text": "BYD ATTO 3"
+    },
+    {
+      "url": "https://ev-database.org/car/3551/Mercedes-Benz-C-400-4MATIC",
+      "text": "Mercedes-Benz C 400 4MATIC"
+    },
+    {
+      "url": "https://ev-database.org/car/1087/Volkswagen-e-Golf",
+      "text": "Volkswagen e-Golf"
+    },
+    {
+      "url": "https://ev-database.org/car/3522/Volkswagen-ID3-Neo-79-kWh",
+      "text": "Volkswagen ID.3 Neo 79 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1485/Tesla-Model-3-Standard-Range-Plus",
+      "text": "Tesla Model 3 Standard Range Plus"
+    },
+    {
+      "url": "https://ev-database.org/car/2095/BYD-TANG-Flagship",
+      "text": "BYD TANG Flagship"
+    },
+    {
+      "url": "https://ev-database.org/car/1830/Hyundai-Kona-Electric-65-kWh",
+      "text": "Hyundai Kona Electric 65 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1988/Mercedes-Benz-EQB-250plus",
+      "text": "Mercedes-Benz EQB 250+"
+    },
+    {
+      "url": "https://ev-database.org/car/3622/Skoda-Epiq-55",
+      "text": "Skoda Epiq 55"
+    },
+    {
+      "url": "https://ev-database.org/car/1252/BMW-i4-eDrive40",
+      "text": "BMW i4 eDrive40"
+    },
+    {
+      "url": "https://ev-database.org/car/2231/Hyundai-INSTER-Long-Range",
+      "text": "Hyundai INSTER Long Range"
+    },
+    {
+      "url": "https://ev-database.org/car/3195/BYD-DOLPHIN-SURF-432-kWh-Comfort",
+      "text": "BYD DOLPHIN SURF 43.2 kWh Comfort"
+    },
+    {
+      "url": "https://ev-database.org/car/3107/Mazda-6e-688-kWh",
+      "text": "Mazda 6e 68.8 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/2039/Citroen-e-C3-Standard-Range-44-kWh",
+      "text": "Citroen e-C3 Standard Range 44 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1322/Tesla-Model-3-Performance",
+      "text": "Tesla Model 3 Performance"
+    },
+    {
+      "url": "https://ev-database.org/car/2188/Tesla-Model-3-Performance",
+      "text": "Tesla Model 3 Performance"
+    },
+    {
+      "url": "https://ev-database.org/car/3578/Mercedes-Benz-EQS-450plus",
+      "text": "Mercedes-Benz EQS 450+"
+    },
+    {
+      "url": "https://ev-database.org/car/1280/Skoda-Enyaq-iV-80",
+      "text": "Skoda Enyaq iV 80"
+    },
+    {
+      "url": "https://ev-database.org/car/1701/BMW-iX1-xDrive30",
+      "text": "BMW iX1 xDrive30"
+    },
+    {
+      "url": "https://ev-database.org/car/2002/BYD-SEAL-825-kWh-AWD-Excellence",
+      "text": "BYD SEAL 82.5 kWh AWD Excellence"
+    },
+    {
+      "url": "https://ev-database.org/car/3082/Zeekr-7X-Long-Range-RWD",
+      "text": "Zeekr 7X Long Range RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3219/Renault-Scenic-E-Tech-EV87-220hp",
+      "text": "Renault Scenic E-Tech EV87 220hp"
+    },
+    {
+      "url": "https://ev-database.org/car/2028/Volkswagen-ID4-Pro",
+      "text": "Volkswagen ID.4 Pro"
+    },
+    {
+      "url": "https://ev-database.org/car/3595/Tesla-Model-Y-Premium-RWD",
+      "text": "Tesla Model Y Premium RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3505/BMW-iX3-40",
+      "text": "BMW iX3 40"
+    },
+    {
+      "url": "https://ev-database.org/car/3417/Tesla-Model-Y-Long-Range-RWD",
+      "text": "Tesla Model Y Long Range RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/2193/Mercedes-Benz-EQS-450plus",
+      "text": "Mercedes-Benz EQS 450+"
+    },
+    {
+      "url": "https://ev-database.org/car/3300/Kia-EV5-814-kWh",
+      "text": "Kia EV5 81.4 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3147/MG-MGS5-EV-64-kWh",
+      "text": "MG MGS5 EV 64 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1177/Tesla-Model-3-Standard-Range-Plus",
+      "text": "Tesla Model 3 Standard Range Plus"
+    },
+    {
+      "url": "https://ev-database.org/car/3029/Kia-EV6-Long-Range-AWD",
+      "text": "Kia EV6 Long Range AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3363/Tesla-Model-Y-Premium-RWD",
+      "text": "Tesla Model Y Premium RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3127/Renault-4-E-Tech-52kWh-150hp",
+      "text": "Renault 4 E-Tech 52kWh 150hp"
+    },
+    {
+      "url": "https://ev-database.org/car/1164/Renault-Zoe-ZE50-R110",
+      "text": "Renault Zoe ZE50 R110"
+    },
+    {
+      "url": "https://ev-database.org/car/3519/Mercedes-Benz-VLE-300",
+      "text": "Mercedes-Benz VLE 300"
+    },
+    {
+      "url": "https://ev-database.org/car/3070/BYD-SEALION-7-825-kWh-RWD-Comfort",
+      "text": "BYD SEALION 7 82.5 kWh RWD Comfort"
+    },
+    {
+      "url": "https://ev-database.org/car/3046/Omoda-E5",
+      "text": "Omoda E5"
+    },
+    {
+      "url": "https://ev-database.org/car/1165/Hyundai-IONIQ-Electric",
+      "text": "Hyundai IONIQ Electric"
+    },
+    {
+      "url": "https://ev-database.org/car/3471/MG-MG4-Urban-Comfort-Long-Range",
+      "text": "MG MG4 Urban Comfort Long Range"
+    },
+    {
+      "url": "https://ev-database.org/car/2251/Fiat-Grande-Panda",
+      "text": "Fiat Grande Panda"
+    },
+    {
+      "url": "https://ev-database.org/car/3432/XPENG-P7plus-RWD-Long-Range",
+      "text": "XPENG P7+ RWD Long Range"
+    },
+    {
+      "url": "https://ev-database.org/car/2186/Tesla-Model-Y-Long-Range-RWD",
+      "text": "Tesla Model Y Long Range RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1423/Hyundai-Kona-Electric-64-kWh",
+      "text": "Hyundai Kona Electric 64 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3439/Hyundai-IONIQ-6-84-kWh-RWD",
+      "text": "Hyundai IONIQ 6 84 kWh RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1555/Tesla-Model-3-RWD",
+      "text": "Tesla Model 3 RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1525/Tesla-Model-3-Long-Range-AWD",
+      "text": "Tesla Model 3 Long Range AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1337/Mercedes-Benz-EQC-400-4MATIC",
+      "text": "Mercedes-Benz EQC 400 4MATIC"
+    },
+    {
+      "url": "https://ev-database.org/car/3396/Mercedes-Benz-CLA-Shooting-Brake-250plus",
+      "text": "Mercedes-Benz CLA Shooting Brake 250+"
+    },
+    {
+      "url": "https://ev-database.org/car/1992/Tesla-Model-3-Long-Range-AWD",
+      "text": "Tesla Model 3 Long Range AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1338/Kia-e-Niro-64-kWh",
+      "text": "Kia e-Niro 64 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3273/Lucid-Air-Grand-Touring",
+      "text": "Lucid Air Grand Touring"
+    },
+    {
+      "url": "https://ev-database.org/car/1541/MG-ZS-EV-Long-Range",
+      "text": "MG ZS EV Long Range"
+    },
+    {
+      "url": "https://ev-database.org/car/1138/Tesla-Model-3-Long-Range-AWD",
+      "text": "Tesla Model 3 Long Range AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3229/Opel-Frontera-Electric-54-kWh",
+      "text": "Opel Frontera Electric 54 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3192/BYD-ATTO-3",
+      "text": "BYD ATTO 3"
+    },
+    {
+      "url": "https://ev-database.org/car/3518/GAC-AION-UT-60-kWh",
+      "text": "GAC AION UT 60 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/2067/BYD-SEAL-U-87-kWh-Design",
+      "text": "BYD SEAL U 87 kWh Design"
+    },
+    {
+      "url": "https://ev-database.org/car/3228/Citroen-e-C3-Aircross-Extended-Range-54-kWh",
+      "text": "Citroen e-C3 Aircross Extended Range 54 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/2192/Mercedes-Benz-G-580",
+      "text": "Mercedes-Benz G 580"
+    },
+    {
+      "url": "https://ev-database.org/car/3302/TOGG-T10X-Long-Range-RWD",
+      "text": "TOGG T10X Long Range RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1145/BMW-i3-120-Ah",
+      "text": "BMW i3 120 Ah"
+    },
+    {
+      "url": "https://ev-database.org/car/3490/Kia-EV2-422-kWh",
+      "text": "Kia EV2 42.2 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1919/BYD-DOLPHIN-604-kWh",
+      "text": "BYD DOLPHIN 60.4 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3186/Tesla-Model-3-RWD",
+      "text": "Tesla Model 3 RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/2003/Peugeot-e-3008-73-kWh",
+      "text": "Peugeot e-3008 73 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3279/XPENG-G9-AWD-Performance",
+      "text": "XPENG G9 AWD Performance"
+    },
+    {
+      "url": "https://ev-database.org/car/3475/BYD-ATTO-3-Evo-AWD-Excellence",
+      "text": "BYD ATTO 3 Evo AWD Excellence"
+    },
+    {
+      "url": "https://ev-database.org/car/1314/Volkswagen-ID4-Pro-Performance",
+      "text": "Volkswagen ID.4 Pro Performance"
+    },
+    {
+      "url": "https://ev-database.org/car/1473/BMW-iX-xDrive50",
+      "text": "BMW iX xDrive50"
+    },
+    {
+      "url": "https://ev-database.org/car/1409/Mini-Cooper-SE",
+      "text": "Mini Cooper SE"
+    },
+    {
+      "url": "https://ev-database.org/car/3332/Tesla-Model-3-Performance",
+      "text": "Tesla Model 3 Performance"
+    },
+    {
+      "url": "https://ev-database.org/car/1182/Tesla-Model-Y-Long-Range-AWD",
+      "text": "Tesla Model Y Long Range AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3509/CUPRA-Raval-155-kW---52-kWh",
+      "text": "CUPRA Raval 155 kW - 52 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3140/Mercedes-Benz-CLA-350-4MATIC",
+      "text": "Mercedes-Benz CLA 350 4MATIC"
+    },
+    {
+      "url": "https://ev-database.org/car/3032/Skoda-Elroq-60",
+      "text": "Skoda Elroq 60"
+    },
+    {
+      "url": "https://ev-database.org/car/3653/Mercedes-Benz-GLC-250",
+      "text": "Mercedes-Benz GLC 250"
+    },
+    {
+      "url": "https://ev-database.org/car/3570/Skoda-Enyaq-85",
+      "text": "Skoda Enyaq 85"
+    },
+    {
+      "url": "https://ev-database.org/car/3389/KGM-Torres-EVX-806-kWh",
+      "text": "KGM Torres EVX 80.6 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3366/Nissan-LEAF-Extended-Range-75-kWh",
+      "text": "Nissan LEAF Extended Range 75 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3442/Volvo-EX60-P10-AWD",
+      "text": "Volvo EX60 P10 AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3370/Mercedes-Benz-CLA-200",
+      "text": "Mercedes-Benz CLA 200"
+    },
+    {
+      "url": "https://ev-database.org/car/2211/Kia-EV3-Standard-Range",
+      "text": "Kia EV3 Standard Range"
+    },
+    {
+      "url": "https://ev-database.org/car/1404/Tesla-Model-S-Dual-Motor",
+      "text": "Tesla Model S Dual Motor"
+    },
+    {
+      "url": "https://ev-database.org/car/1784/BYD-HAN",
+      "text": "BYD HAN"
+    },
+    {
+      "url": "https://ev-database.org/car/3626/Mercedes-Benz-AMG-GT-4-Door-Coupe-63-4MATICplus",
+      "text": "Mercedes-Benz AMG GT 4-Door Coupe 63 4MATIC+"
+    },
+    {
+      "url": "https://ev-database.org/car/2094/BYD-SEAL-U-718-kWh-Comfort",
+      "text": "BYD SEAL U 71.8 kWh Comfort"
+    },
+    {
+      "url": "https://ev-database.org/car/3388/Leapmotor-C10-AWD-819-kWh",
+      "text": "Leapmotor C10 AWD 81.9 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1947/Peugeot-e-2008-54-kWh",
+      "text": "Peugeot e-2008 54 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3384/Tesla-Model-S-Plaid",
+      "text": "Tesla Model S Plaid"
+    },
+    {
+      "url": "https://ev-database.org/car/3647/Ford-Capri-Standard-Range-RWD",
+      "text": "Ford Capri Standard Range RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3472/MG-MG4-Urban-Premium-Long-Range",
+      "text": "MG MG4 Urban Premium Long Range"
+    },
+    {
+      "url": "https://ev-database.org/car/3400/Toyota-bZ4X-Touring-FWD-747-kWh",
+      "text": "Toyota bZ4X Touring FWD 74.7 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/2069/Renault-Scenic-E-Tech-EV87-220hp",
+      "text": "Renault Scenic E-Tech EV87 220hp"
+    },
+    {
+      "url": "https://ev-database.org/car/3297/BYD-DOLPHIN-604-kWh",
+      "text": "BYD DOLPHIN 60.4 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1204/Hyundai-Kona-Electric-64-kWh",
+      "text": "Hyundai Kona Electric 64 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1106/Nissan-LEAF-40-kWh",
+      "text": "Nissan LEAF 40 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1996/BMW-iX1-eDrive20",
+      "text": "BMW iX1 eDrive20"
+    },
+    {
+      "url": "https://ev-database.org/car/3073/Ford-Puma-Gen-E",
+      "text": "Ford Puma Gen-E"
+    },
+    {
+      "url": "https://ev-database.org/car/1839/Volkswagen-ID7-Pro",
+      "text": "Volkswagen ID.7 Pro"
+    },
+    {
+      "url": "https://ev-database.org/car/3135/Toyota-bZ4X-AWD-731-kWh",
+      "text": "Toyota bZ4X AWD 73.1 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1519/BMW-i4-M50",
+      "text": "BMW i4 M50"
+    },
+    {
+      "url": "https://ev-database.org/car/2235/Hyundai-IONIQ-5-63-kWh-RWD",
+      "text": "Hyundai IONIQ 5 63 kWh RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1707/MG-MG4-Electric-51-kWh",
+      "text": "MG MG4 Electric 51 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/2013/Audi-Q4-e-tron-45",
+      "text": "Audi Q4 e-tron 45"
+    },
+    {
+      "url": "https://ev-database.org/car/1488/Polestar-2-Long-Range-Dual-Motor",
+      "text": "Polestar 2 Long Range Dual Motor"
+    },
+    {
+      "url": "https://ev-database.org/car/1070/Tesla-Model-S-75D",
+      "text": "Tesla Model S 75D"
+    },
+    {
+      "url": "https://ev-database.org/car/3565/Skoda-Elroq-60",
+      "text": "Skoda Elroq 60"
+    },
+    {
+      "url": "https://ev-database.org/car/3132/Renault-Megane-E-Tech-EV60-220hp",
+      "text": "Renault Megane E-Tech EV60 220hp"
+    },
+    {
+      "url": "https://ev-database.org/car/3521/Volkswagen-ID3-Neo-58-kWh",
+      "text": "Volkswagen ID.3 Neo 58 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1171/Honda-e",
+      "text": "Honda e"
+    },
+    {
+      "url": "https://ev-database.org/car/3408/Dacia-Spring-Electric-70",
+      "text": "Dacia Spring Electric 70"
+    },
+    {
+      "url": "https://ev-database.org/car/1985/Mercedes-Benz-EQA-250plus",
+      "text": "Mercedes-Benz EQA 250+"
+    },
+    {
+      "url": "https://ev-database.org/car/3650/Rolls-Royce-Spectre-Series-II",
+      "text": "Rolls-Royce Spectre Series II"
+    },
+    {
+      "url": "https://ev-database.org/car/1994/Mini-Countryman-E",
+      "text": "Mini Countryman E"
+    },
+    {
+      "url": "https://ev-database.org/car/3194/BYD-DOLPHIN-SURF-432-kWh-Boost",
+      "text": "BYD DOLPHIN SURF 43.2 kWh Boost"
+    },
+    {
+      "url": "https://ev-database.org/car/1481/Kia-EV6-Long-Range-2WD",
+      "text": "Kia EV6 Long Range 2WD"
+    },
+    {
+      "url": "https://ev-database.org/car/3566/Skoda-Elroq-85",
+      "text": "Skoda Elroq 85"
+    },
+    {
+      "url": "https://ev-database.org/car/3278/XPENG-G9-RWD-Long-Range",
+      "text": "XPENG G9 RWD Long Range"
+    },
+    {
+      "url": "https://ev-database.org/car/3491/Kia-EV2-61-kWh",
+      "text": "Kia EV2 61 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1321/Tesla-Model-3-Long-Range-AWD",
+      "text": "Tesla Model 3 Long Range AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3276/XPENG-G6-AWD-Performance",
+      "text": "XPENG G6 AWD Performance"
+    },
+    {
+      "url": "https://ev-database.org/car/2198/BMW-i4-eDrive35",
+      "text": "BMW i4 eDrive35"
+    },
+    {
+      "url": "https://ev-database.org/car/1302/Nissan-Ariya-87kWh",
+      "text": "Nissan Ariya 87kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1718/Hyundai-IONIQ-6-Long-Range-2WD",
+      "text": "Hyundai IONIQ 6 Long Range 2WD"
+    },
+    {
+      "url": "https://ev-database.org/car/1474/MG-MG5-Electric-Long-Range",
+      "text": "MG MG5 Electric Long Range"
+    },
+    {
+      "url": "https://ev-database.org/car/3305/TOGG-T10F-Long-Range-RWD",
+      "text": "TOGG T10F Long Range RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1490/Audi-Q4-e-tron-40",
+      "text": "Audi Q4 e-tron 40"
+    },
+    {
+      "url": "https://ev-database.org/car/3120/Tesla-Model-Y-Long-Range-RWD",
+      "text": "Tesla Model Y Long Range RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3045/LynkCo-02",
+      "text": "Lynk&Co 02"
+    },
+    {
+      "url": "https://ev-database.org/car/1765/Rolls-Royce-Spectre",
+      "text": "Rolls-Royce Spectre"
+    },
+    {
+      "url": "https://ev-database.org/car/3402/XPENG-G6-RWD-Standard-Range",
+      "text": "XPENG G6 RWD Standard Range"
+    },
+    {
+      "url": "https://ev-database.org/car/1201/MG-ZS-EV",
+      "text": "MG ZS EV"
+    },
+    {
+      "url": "https://ev-database.org/car/2168/Ford-Explorer-Extended-Range-RWD",
+      "text": "Ford Explorer Extended Range RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3097/Skoda-Enyaq-85",
+      "text": "Skoda Enyaq 85"
+    },
+    {
+      "url": "https://ev-database.org/car/3476/Tesla-Model-Y-Premium-RWD",
+      "text": "Tesla Model Y Premium RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1209/Audi-e-tron-50-quattro",
+      "text": "Audi e-tron 50 quattro"
+    },
+    {
+      "url": "https://ev-database.org/car/3510/CUPRA-Raval-VZ",
+      "text": "CUPRA Raval VZ"
+    },
+    {
+      "url": "https://ev-database.org/car/1835/Kia-EV9-998-kWh-AWD",
+      "text": "Kia EV9 99.8 kWh AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1279/Skoda-Enyaq-iV-60",
+      "text": "Skoda Enyaq iV 60"
+    },
+    {
+      "url": "https://ev-database.org/car/3398/Porsche-Cayenne-Electric",
+      "text": "Porsche Cayenne Electric"
+    },
+    {
+      "url": "https://ev-database.org/car/3458/BMW-iX1-eDrive20",
+      "text": "BMW iX1 eDrive20"
+    },
+    {
+      "url": "https://ev-database.org/car/3212/Suzuki-e-VITARA-61-kWh-2WD",
+      "text": "Suzuki e VITARA 61 kWh 2WD"
+    },
+    {
+      "url": "https://ev-database.org/car/3506/Subaru-E-Outback-AWD",
+      "text": "Subaru E-Outback AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1587/Citroen-e-C4",
+      "text": "Citroen e-C4"
+    },
+    {
+      "url": "https://ev-database.org/car/1089/Tesla-Model-X-100D",
+      "text": "Tesla Model X 100D"
+    },
+    {
+      "url": "https://ev-database.org/car/1816/Jeep-Avenger-Electric",
+      "text": "Jeep Avenger Electric"
+    },
+    {
+      "url": "https://ev-database.org/car/3108/Mazda-6e-Long-Range-80-kWh",
+      "text": "Mazda 6e Long Range 80 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1088/Tesla-Model-S-100D",
+      "text": "Tesla Model S 100D"
+    },
+    {
+      "url": "https://ev-database.org/car/3383/Tesla-Model-S-AWD",
+      "text": "Tesla Model S AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3419/MG-MGS6-EV-Dual-Motor-77-kWh",
+      "text": "MG MGS6 EV Dual Motor 77 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/2237/Hyundai-IONIQ-5-84-kWh-AWD",
+      "text": "Hyundai IONIQ 5 84 kWh AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1984/Mercedes-Benz-EQA-250",
+      "text": "Mercedes-Benz EQA 250"
+    },
+    {
+      "url": "https://ev-database.org/car/2149/Peugeot-e-5008-73-kWh",
+      "text": "Peugeot e-5008 73 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3298/Polestar-5-Dual-Motor",
+      "text": "Polestar 5 Dual Motor"
+    },
+    {
+      "url": "https://ev-database.org/car/2272/Audi-A6-Avant-e-tron-performance",
+      "text": "Audi A6 Avant e-tron performance"
+    },
+    {
+      "url": "https://ev-database.org/car/3612/XPENG-X9-FWD-Long-Range",
+      "text": "XPENG X9 FWD Long Range"
+    },
+    {
+      "url": "https://ev-database.org/car/2270/Audi-A6-Sportback-e-tron-performance",
+      "text": "Audi A6 Sportback e-tron performance"
+    },
+    {
+      "url": "https://ev-database.org/car/3083/Zeekr-7X-Privilege-AWD",
+      "text": "Zeekr 7X Privilege AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1300/Volkswagen-ID3-1st",
+      "text": "Volkswagen ID.3 1st"
+    },
+    {
+      "url": "https://ev-database.org/car/1998/Mini-Cooper-SE",
+      "text": "Mini Cooper SE"
+    },
+    {
+      "url": "https://ev-database.org/car/3245/MG-IM5-Long-Range",
+      "text": "MG IM5 Long Range"
+    },
+    {
+      "url": "https://ev-database.org/car/3193/BYD-DOLPHIN-SURF-30-kWh-Active",
+      "text": "BYD DOLPHIN SURF 30 kWh Active"
+    },
+    {
+      "url": "https://ev-database.org/car/1620/Tesla-Model-3-Performance",
+      "text": "Tesla Model 3 Performance"
+    },
+    {
+      "url": "https://ev-database.org/car/3407/Mercedes-Benz-GLB-350-4MATIC",
+      "text": "Mercedes-Benz GLB 350 4MATIC"
+    },
+    {
+      "url": "https://ev-database.org/car/3205/BMW-i4-eDrive40",
+      "text": "BMW i4 eDrive40"
+    },
+    {
+      "url": "https://ev-database.org/car/2232/Volkswagen-ID-Buzz-NWB-Pro",
+      "text": "Volkswagen ID. Buzz NWB Pro"
+    },
+    {
+      "url": "https://ev-database.org/car/1057/Hyundai-IONIQ-Electric",
+      "text": "Hyundai IONIQ Electric"
+    },
+    {
+      "url": "https://ev-database.org/car/3596/Mazda-CX-6e-78-kWh",
+      "text": "Mazda CX-6e 78 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3231/Citroen-C5-Aircross-Long-Range",
+      "text": "Citroen C5 Aircross Long Range"
+    },
+    {
+      "url": "https://ev-database.org/car/1565/Toyota-bZ4X-AWD",
+      "text": "Toyota bZ4X AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3563/Leapmotor-B05-562-kWh",
+      "text": "Leapmotor B05 56.2 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3652/Toyota-Hilux-Electric-592-kWh",
+      "text": "Toyota Hilux Electric 59.2 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/2091/GWM-ORA-03-48-kWh",
+      "text": "GWM ORA 03 48 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3110/BMW-iX-xDrive60",
+      "text": "BMW iX xDrive60"
+    },
+    {
+      "url": "https://ev-database.org/car/3463/Hyundai-Kona-Electric-648-kWh",
+      "text": "Hyundai Kona Electric 64.8 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/2189/KGM-Torres-EVX",
+      "text": "KGM Torres EVX"
+    },
+    {
+      "url": "https://ev-database.org/car/1747/Hongqi-E-HS9-99-kWh",
+      "text": "Hongqi E-HS9 99 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3179/Smart-5-Brabus",
+      "text": "Smart #5 Brabus"
+    },
+    {
+      "url": "https://ev-database.org/car/3274/Lucid-Air-Sapphire",
+      "text": "Lucid Air Sapphire"
+    },
+    {
+      "url": "https://ev-database.org/car/3496/Volkswagen-ID4-Pro",
+      "text": "Volkswagen ID.4 Pro"
+    },
+    {
+      "url": "https://ev-database.org/car/1770/Audi-Q8-SUV-e-tron-55-quattro",
+      "text": "Audi Q8 SUV e-tron 55 quattro"
+    },
+    {
+      "url": "https://ev-database.org/car/3559/GAC-AION-V-75-kWh",
+      "text": "GAC AION V 75 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3068/Hyundai-IONIQ-9-Long-Range-AWD",
+      "text": "Hyundai IONIQ 9 Long Range AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3178/firefly-firefly",
+      "text": "firefly firefly"
+    },
+    {
+      "url": "https://ev-database.org/car/3418/MG-MGS6-EV-RWD-77-kWh",
+      "text": "MG MGS6 EV RWD 77 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1420/Audi-e-tron-GT-quattro",
+      "text": "Audi e-tron GT quattro"
+    },
+    {
+      "url": "https://ev-database.org/car/1650/Volkswagen-e-Up",
+      "text": "Volkswagen e-Up!"
+    },
+    {
+      "url": "https://ev-database.org/car/2005/Peugeot-e-3008-97-kWh-Long-Range",
+      "text": "Peugeot e-3008 97 kWh Long Range"
+    },
+    {
+      "url": "https://ev-database.org/car/3387/Leapmotor-C10-RWD-819-kWh",
+      "text": "Leapmotor C10 RWD 81.9 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/2238/Opel-Frontera-Electric-44-kWh",
+      "text": "Opel Frontera Electric 44 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3467/MG-MG4-Premium-Long-Range",
+      "text": "MG MG4 Premium Long Range"
+    },
+    {
+      "url": "https://ev-database.org/car/1230/Smart-EQ-fortwo-coupe",
+      "text": "Smart EQ fortwo coupe"
+    },
+    {
+      "url": "https://ev-database.org/car/3480/Volvo-EX30-P5-Long-Range",
+      "text": "Volvo EX30 P5 Long Range"
+    },
+    {
+      "url": "https://ev-database.org/car/1841/Polestar-4-Long-Range-Single-Motor",
+      "text": "Polestar 4 Long Range Single Motor"
+    },
+    {
+      "url": "https://ev-database.org/car/1989/Mercedes-Benz-EQB-300-4MATIC",
+      "text": "Mercedes-Benz EQB 300 4MATIC"
+    },
+    {
+      "url": "https://ev-database.org/car/3604/Volkswagen-ID7-Tourer-86-kWh",
+      "text": "Volkswagen ID.7 Tourer 86 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1493/Mercedes-Benz-EQB-350-4MATIC",
+      "text": "Mercedes-Benz EQB 350 4MATIC"
+    },
+    {
+      "url": "https://ev-database.org/car/3226/KGM-Musso-EV-2WD",
+      "text": "KGM Musso EV 2WD"
+    },
+    {
+      "url": "https://ev-database.org/car/3308/Geely-EX5-Pro",
+      "text": "Geely EX5 Pro"
+    },
+    {
+      "url": "https://ev-database.org/car/1168/Peugeot-e-208",
+      "text": "Peugeot e-208"
+    },
+    {
+      "url": "https://ev-database.org/car/3051/Opel-Mokka-Electric",
+      "text": "Opel Mokka Electric"
+    },
+    {
+      "url": "https://ev-database.org/car/3122/Kia-EV4-Fastback-814-kWh",
+      "text": "Kia EV4 Fastback 81.4 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1680/Mazda-MX-30",
+      "text": "Mazda MX-30"
+    },
+    {
+      "url": "https://ev-database.org/car/1906/BMW-i5-eDrive40-Sedan",
+      "text": "BMW i5 eDrive40 Sedan"
+    },
+    {
+      "url": "https://ev-database.org/car/3456/Mini-Countryman-E",
+      "text": "Mini Countryman E"
+    },
+    {
+      "url": "https://ev-database.org/car/3368/Changan-Deepal-S05-4WD-Max",
+      "text": "Changan Deepal S05 4WD Max"
+    },
+    {
+      "url": "https://ev-database.org/car/1991/Tesla-Model-3-RWD",
+      "text": "Tesla Model 3 RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3466/Mazda-6e-78-kWh",
+      "text": "Mazda 6e 78 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1717/Hyundai-IONIQ-6-Standard-Range-2WD",
+      "text": "Hyundai IONIQ 6 Standard Range 2WD"
+    },
+    {
+      "url": "https://ev-database.org/car/1270/Renault-Twingo-Electric",
+      "text": "Renault Twingo Electric"
+    },
+    {
+      "url": "https://ev-database.org/car/3109/BMW-iX-xDrive45",
+      "text": "BMW iX xDrive45"
+    },
+    {
+      "url": "https://ev-database.org/car/3102/BYD-SEAL-614-kWh-RWD-Comfort",
+      "text": "BYD SEAL 61.4 kWh RWD Comfort"
+    },
+    {
+      "url": "https://ev-database.org/car/1116/Porsche-Taycan-Turbo-S",
+      "text": "Porsche Taycan Turbo S"
+    },
+    {
+      "url": "https://ev-database.org/car/1651/Volkswagen-ID-Buzz-Pro",
+      "text": "Volkswagen ID. Buzz Pro"
+    },
+    {
+      "url": "https://ev-database.org/car/1487/Polestar-2-Long-Range-Single-Motor",
+      "text": "Polestar 2 Long Range Single Motor"
+    },
+    {
+      "url": "https://ev-database.org/car/1585/Opel-Corsa-e",
+      "text": "Opel Corsa-e"
+    },
+    {
+      "url": "https://ev-database.org/car/1408/Tesla-Model-X-Plaid",
+      "text": "Tesla Model X Plaid"
+    },
+    {
+      "url": "https://ev-database.org/car/3597/Ford-Puma-Gen-E",
+      "text": "Ford Puma Gen-E"
+    },
+    {
+      "url": "https://ev-database.org/car/2044/Hyundai-IONIQ-5-N",
+      "text": "Hyundai IONIQ 5 N"
+    },
+    {
+      "url": "https://ev-database.org/car/3203/Nissan-Micra-Extended-Range-52-kWh",
+      "text": "Nissan Micra Extended Range 52 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1117/Nissan-e-NV200-Evalia",
+      "text": "Nissan e-NV200 Evalia"
+    },
+    {
+      "url": "https://ev-database.org/car/1407/Tesla-Model-X-Dual-Motor",
+      "text": "Tesla Model X Dual Motor"
+    },
+    {
+      "url": "https://ev-database.org/car/1949/Peugeot-e-208-51-kWh",
+      "text": "Peugeot e-208 51 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1564/Toyota-bZ4X-FWD",
+      "text": "Toyota bZ4X FWD"
+    },
+    {
+      "url": "https://ev-database.org/car/2098/Porsche-Taycan",
+      "text": "Porsche Taycan"
+    },
+    {
+      "url": "https://ev-database.org/car/3515/BYD-SEAL-825-kWh-RWD-Design",
+      "text": "BYD SEAL 82.5 kWh RWD Design"
+    },
+    {
+      "url": "https://ev-database.org/car/2146/Audi-Q6-SUV-e-tron-quattro",
+      "text": "Audi Q6 SUV e-tron quattro"
+    },
+    {
+      "url": "https://ev-database.org/car/3335/Mitsubishi-Eclipse-Cross-87-kWh-",
+      "text": "Mitsubishi Eclipse Cross 87 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1934/Zeekr-001-Performance-AWD",
+      "text": "Zeekr 001 Performance AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3470/MG-MG4-Urban-Standard-Range",
+      "text": "MG MG4 Urban Standard Range"
+    },
+    {
+      "url": "https://ev-database.org/car/2154/Volkswagen-ID-Buzz-LWB-Pro",
+      "text": "Volkswagen ID. Buzz LWB Pro"
+    },
+    {
+      "url": "https://ev-database.org/car/3143/Smart-5-Premium",
+      "text": "Smart #5 Premium"
+    },
+    {
+      "url": "https://ev-database.org/car/2269/Alpine-A290-Electric-220-hp",
+      "text": "Alpine A290 Electric 220 hp"
+    },
+    {
+      "url": "https://ev-database.org/car/3441/Volvo-EX60-P6",
+      "text": "Volvo EX60 P6"
+    },
+    {
+      "url": "https://ev-database.org/car/1422/Hyundai-Kona-Electric-39-kWh",
+      "text": "Hyundai Kona Electric 39 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1657/Nissan-LEAF-eplus-62-kWh",
+      "text": "Nissan LEAF e+ 62 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3037/Opel-Grandland-Electric-73-kWh",
+      "text": "Opel Grandland Electric 73 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3638/Kia-EV3-Long-Range",
+      "text": "Kia EV3 Long Range"
+    },
+    {
+      "url": "https://ev-database.org/car/3651/Kia-EV5-814-kWh-GT",
+      "text": "Kia EV5 81.4 kWh GT"
+    },
+    {
+      "url": "https://ev-database.org/car/3648/Ford-Capri-Extended-Range-RWD",
+      "text": "Ford Capri Extended Range RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3292/Lucid-Gravity-Grand-Touring",
+      "text": "Lucid Gravity Grand Touring"
+    },
+    {
+      "url": "https://ev-database.org/car/1940/Honda-eNy1",
+      "text": "Honda e:Ny1"
+    },
+    {
+      "url": "https://ev-database.org/car/2020/Skoda-Enyaq-85",
+      "text": "Skoda Enyaq 85"
+    },
+    {
+      "url": "https://ev-database.org/car/2203/MG-Cyberster-GT",
+      "text": "MG Cyberster GT"
+    },
+    {
+      "url": "https://ev-database.org/car/1237/Porsche-Taycan-4S",
+      "text": "Porsche Taycan 4S"
+    },
+    {
+      "url": "https://ev-database.org/car/1531/Volkswagen-ID3-Pro",
+      "text": "Volkswagen ID.3 Pro"
+    },
+    {
+      "url": "https://ev-database.org/car/2131/Mercedes-Benz-EQV-300-Long",
+      "text": "Mercedes-Benz EQV 300 Long"
+    },
+    {
+      "url": "https://ev-database.org/car/1945/Fiat-600e",
+      "text": "Fiat 600e"
+    },
+    {
+      "url": "https://ev-database.org/car/1831/Volkswagen-ID3-Pro",
+      "text": "Volkswagen ID.3 Pro"
+    },
+    {
+      "url": "https://ev-database.org/car/1586/Opel-Mokka-e-50-kWh",
+      "text": "Opel Mokka-e 50 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3395/Toyota-C-HRplus-77-kWh-AWD",
+      "text": "Toyota C-HR+ 77 kWh AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3600/Volkswagen-ID7-86-kWh",
+      "text": "Volkswagen ID.7 86 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1031/Tesla-Model-S-85",
+      "text": "Tesla Model S 85"
+    },
+    {
+      "url": "https://ev-database.org/car/1323/Tesla-Model-S-Long-Range-Plus",
+      "text": "Tesla Model S Long Range Plus"
+    },
+    {
+      "url": "https://ev-database.org/car/3516/BYD-SEAL-825-kWh-AWD-Excellence",
+      "text": "BYD SEAL 82.5 kWh AWD Excellence"
+    },
+    {
+      "url": "https://ev-database.org/car/1974/Tesla-Model-Y-RWD",
+      "text": "Tesla Model Y RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1662/Hyundai-IONIQ-5-Long-Range-2WD",
+      "text": "Hyundai IONIQ 5 Long Range 2WD"
+    },
+    {
+      "url": "https://ev-database.org/car/3512/CUPRA-Born-170-kW---79-kWh",
+      "text": "CUPRA Born 170 kW - 79 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1837/Maxus-MIFA-9",
+      "text": "Maxus MIFA 9"
+    },
+    {
+      "url": "https://ev-database.org/car/1663/Hyundai-IONIQ-5-Long-Range-AWD",
+      "text": "Hyundai IONIQ 5 Long Range AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3430/Zeekr-7GT-Privilege-AWD",
+      "text": "Zeekr 7GT Privilege AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1194/Tesla-Model-S-Long-Range",
+      "text": "Tesla Model S Long Range"
+    },
+    {
+      "url": "https://ev-database.org/car/2184/Alfa-Romeo-Junior-Elettrica-54-kWh",
+      "text": "Alfa Romeo Junior Elettrica 54 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3159/Volvo-EX40-Single-Motor-ER",
+      "text": "Volvo EX40 Single Motor ER"
+    },
+    {
+      "url": "https://ev-database.org/car/1976/Tesla-Model-3-Long-Range-RWD",
+      "text": "Tesla Model 3 Long Range RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1034/Tesla-Model-S-85D",
+      "text": "Tesla Model S 85D"
+    },
+    {
+      "url": "https://ev-database.org/car/2230/Hyundai-INSTER-Standard-Range",
+      "text": "Hyundai INSTER Standard Range"
+    },
+    {
+      "url": "https://ev-database.org/car/3613/XPENG-X9-AWD-Performance",
+      "text": "XPENG X9 AWD Performance"
+    },
+    {
+      "url": "https://ev-database.org/car/2182/XPENG-G6-RWD-Long-Range",
+      "text": "XPENG G6 RWD Long Range"
+    },
+    {
+      "url": "https://ev-database.org/car/3627/Mercedes-Benz-AMG-GT-4-Door-Coupe-55-4MATICplus",
+      "text": "Mercedes-Benz AMG GT 4-Door Coupe 55 4MATIC+"
+    },
+    {
+      "url": "https://ev-database.org/car/3438/Hyundai-IONIQ-6-63-kWh-RWD",
+      "text": "Hyundai IONIQ 6 63 kWh RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3239/Mercedes-Benz-EQE-300",
+      "text": "Mercedes-Benz EQE 300"
+    },
+    {
+      "url": "https://ev-database.org/car/1205/Renault-Zoe-ZE50-R135",
+      "text": "Renault Zoe ZE50 R135"
+    },
+    {
+      "url": "https://ev-database.org/car/1842/Polestar-4-Long-Range-Dual-Motor",
+      "text": "Polestar 4 Long Range Dual Motor"
+    },
+    {
+      "url": "https://ev-database.org/car/2134/Renault-5-E-Tech-40kWh-120hp",
+      "text": "Renault 5 E-Tech 40kWh 120hp"
+    },
+    {
+      "url": "https://ev-database.org/car/2126/Dacia-Spring-Electric-45",
+      "text": "Dacia Spring Electric 45"
+    },
+    {
+      "url": "https://ev-database.org/car/2001/BYD-SEAL-825-kWh-RWD-Design",
+      "text": "BYD SEAL 82.5 kWh RWD Design"
+    },
+    {
+      "url": "https://ev-database.org/car/1797/Volvo-XC40-Recharge-Single-Motor-ER",
+      "text": "Volvo XC40 Recharge Single Motor ER"
+    },
+    {
+      "url": "https://ev-database.org/car/2169/Ford-Explorer-Extended-Range-AWD",
+      "text": "Ford Explorer Extended Range AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1100/Tesla-Model-3-Long-Range-RWD",
+      "text": "Tesla Model 3 Long Range RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1787/NIO-ET5-Long-Range",
+      "text": "NIO ET5 Long Range"
+    },
+    {
+      "url": "https://ev-database.org/car/2267/Toyota-Proace-Verso-L-75-kWh",
+      "text": "Toyota Proace Verso L 75 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3294/Lexus-RZ-500e",
+      "text": "Lexus RZ 500e"
+    },
+    {
+      "url": "https://ev-database.org/car/3151/Polestar-2-Long-Range-Single-Motor",
+      "text": "Polestar 2 Long Range Single Motor"
+    },
+    {
+      "url": "https://ev-database.org/car/3028/Kia-EV6-Long-Range-2WD",
+      "text": "Kia EV6 Long Range 2WD"
+    },
+    {
+      "url": "https://ev-database.org/car/3138/Hongqi-EH7-111-kWh-Long-Range",
+      "text": "Hongqi EH7 111 kWh Long Range"
+    },
+    {
+      "url": "https://ev-database.org/car/3207/BMW-i4-M60-xDrive",
+      "text": "BMW i4 M60 xDrive"
+    },
+    {
+      "url": "https://ev-database.org/car/1075/Tesla-Model-S-P100D",
+      "text": "Tesla Model S P100D"
+    },
+    {
+      "url": "https://ev-database.org/car/3468/MG-MG4-Premium-Extended-Range",
+      "text": "MG MG4 Premium Extended Range"
+    },
+    {
+      "url": "https://ev-database.org/car/3554/Hyundai-IONIQ-3-422-kWh",
+      "text": "Hyundai IONIQ 3 42.2 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3639/Kia-EV3-Long-Range-AWD",
+      "text": "Kia EV3 Long Range AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/2243/Cadillac-LYRIQ-600-E4",
+      "text": "Cadillac LYRIQ 600 E4"
+    },
+    {
+      "url": "https://ev-database.org/car/2088/Mercedes-Benz-EQS-SUV-450-4MATIC",
+      "text": "Mercedes-Benz EQS SUV 450 4MATIC"
+    },
+    {
+      "url": "https://ev-database.org/car/1971/CUPRA-Tavascan-Endurance",
+      "text": "CUPRA Tavascan Endurance"
+    },
+    {
+      "url": "https://ev-database.org/car/3223/Peugeot-e-208-54-kWh",
+      "text": "Peugeot e-208 54 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1052/Tesla-Model-X-75D",
+      "text": "Tesla Model X 75D"
+    },
+    {
+      "url": "https://ev-database.org/car/2199/BMW-i4-eDrive40",
+      "text": "BMW i4 eDrive40"
+    },
+    {
+      "url": "https://ev-database.org/car/3437/Subaru-Uncharted-77-kWh-AWD",
+      "text": "Subaru Uncharted 77 kWh AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3330/Tesla-Model-3-Long-Range-RWD",
+      "text": "Tesla Model 3 Long Range RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3386/Tesla-Model-X-Plaid",
+      "text": "Tesla Model X Plaid"
+    },
+    {
+      "url": "https://ev-database.org/car/1719/Hyundai-IONIQ-6-Long-Range-AWD",
+      "text": "Hyundai IONIQ 6 Long Range AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/2242/Ford-Capri-Extended-Range-AWD",
+      "text": "Ford Capri Extended Range AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3181/Jeep-Compass-Electric-74-kWh",
+      "text": "Jeep Compass Electric 74 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1189/Volkswagen-e-Up",
+      "text": "Volkswagen e-Up!"
+    },
+    {
+      "url": "https://ev-database.org/car/1301/Nissan-Ariya-63kWh",
+      "text": "Nissan Ariya 63kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/2083/Porsche-Macan-Electric",
+      "text": "Porsche Macan Electric"
+    },
+    {
+      "url": "https://ev-database.org/car/1071/Tesla-Model-S-75",
+      "text": "Tesla Model S 75"
+    },
+    {
+      "url": "https://ev-database.org/car/1821/XPENG-P7-RWD-Long-Range",
+      "text": "XPENG P7 RWD Long Range"
+    },
+    {
+      "url": "https://ev-database.org/car/1004/BMW-i3-60-Ah",
+      "text": "BMW i3 60 Ah"
+    },
+    {
+      "url": "https://ev-database.org/car/1973/MG-MG4-Electric-77-kWh",
+      "text": "MG MG4 Electric 77 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1320/Tesla-Model-3-Standard-Range-Plus",
+      "text": "Tesla Model 3 Standard Range Plus"
+    },
+    {
+      "url": "https://ev-database.org/car/2049/Voyah-Free-106-kWh",
+      "text": "Voyah Free 106 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3079/Kia-EV6-GT",
+      "text": "Kia EV6 GT"
+    },
+    {
+      "url": "https://ev-database.org/car/3454/Ford-Explorer-Extended-Range-RWD",
+      "text": "Ford Explorer Extended Range RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3492/Lexus-ES-350e",
+      "text": "Lexus ES 350e"
+    },
+    {
+      "url": "https://ev-database.org/car/3035/Dongfeng-Box-314-kWh",
+      "text": "Dongfeng Box 31.4 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3040/Leapmotor-C10-RWD-699-kWh",
+      "text": "Leapmotor C10 RWD 69.9 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3365/Nissan-LEAF-Standard-Range-52-kWh",
+      "text": "Nissan LEAF Standard Range 52 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3433/XPENG-P7plus-AWD-Performance",
+      "text": "XPENG P7+ AWD Performance"
+    },
+    {
+      "url": "https://ev-database.org/car/1063/Tesla-Model-S-90D",
+      "text": "Tesla Model S 90D"
+    },
+    {
+      "url": "https://ev-database.org/car/1676/BMW-i7-xDrive60",
+      "text": "BMW i7 xDrive60"
+    },
+    {
+      "url": "https://ev-database.org/car/1677/Lexus-RZ-450e",
+      "text": "Lexus RZ 450e"
+    },
+    {
+      "url": "https://ev-database.org/car/1139/Tesla-Model-3-Performance",
+      "text": "Tesla Model 3 Performance"
+    },
+    {
+      "url": "https://ev-database.org/car/3112/BMW-i5-eDrive40-Sedan",
+      "text": "BMW i5 eDrive40 Sedan"
+    },
+    {
+      "url": "https://ev-database.org/car/1627/Volkswagen-ID4-Pro",
+      "text": "Volkswagen ID.4 Pro"
+    },
+    {
+      "url": "https://ev-database.org/car/3655/Peugeot-e-208-GTi",
+      "text": "Peugeot e-208 GTi"
+    },
+    {
+      "url": "https://ev-database.org/car/3204/BMW-i4-eDrive35",
+      "text": "BMW i4 eDrive35"
+    },
+    {
+      "url": "https://ev-database.org/car/3221/Opel-Corsa-Electric-54-kWh",
+      "text": "Opel Corsa Electric 54 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3227/KGM-Musso-EV-4WD",
+      "text": "KGM Musso EV 4WD"
+    },
+    {
+      "url": "https://ev-database.org/car/3230/Citroen-C5-Aircross-Comfort-Range",
+      "text": "Citroen C5 Aircross Comfort Range"
+    },
+    {
+      "url": "https://ev-database.org/car/2278/Ford-Mustang-Mach-E-ER-RWD",
+      "text": "Ford Mustang Mach-E ER RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1524/MG-Marvel-R",
+      "text": "MG Marvel R"
+    },
+    {
+      "url": "https://ev-database.org/car/1792/Opel-Astra-Electric",
+      "text": "Opel Astra Electric"
+    },
+    {
+      "url": "https://ev-database.org/car/3393/Toyota-C-HRplus-577-kWh",
+      "text": "Toyota C-HR+ 57.7 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1667/Smart-1-Proplus",
+      "text": "Smart #1 Pro+"
+    },
+    {
+      "url": "https://ev-database.org/car/3071/BYD-SEALION-7-825-kWh-AWD-Design",
+      "text": "BYD SEALION 7 82.5 kWh AWD Design"
+    },
+    {
+      "url": "https://ev-database.org/car/3125/BYD-ATTO-2-4512-kWh",
+      "text": "BYD ATTO 2 45.12 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3182/Audi-e-tron-GT-quattro",
+      "text": "Audi e-tron GT quattro"
+    },
+    {
+      "url": "https://ev-database.org/car/3331/Tesla-Model-3-Long-Range-AWD",
+      "text": "Tesla Model 3 Long Range AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3449/Hyundai-IONIQ-6-N",
+      "text": "Hyundai IONIQ 6 N"
+    },
+    {
+      "url": "https://ev-database.org/car/1802/Renault-Kangoo-E-Tech-Electric",
+      "text": "Renault Kangoo E-Tech Electric"
+    },
+    {
+      "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+      "text": "Hyundai IONIQ 5 Long Range 2WD"
+    },
+    {
+      "url": "https://ev-database.org/car/1917/BYD-DOLPHIN-449-kWh-Active",
+      "text": "BYD DOLPHIN 44.9 kWh Active"
+    },
+    {
+      "url": "https://ev-database.org/car/1260/Kia-e-Niro-64-kWh",
+      "text": "Kia e-Niro 64 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1393/Porsche-Taycan",
+      "text": "Porsche Taycan"
+    },
+    {
+      "url": "https://ev-database.org/car/3250/Volkswagen-ID4-Pro",
+      "text": "Volkswagen ID.4 Pro"
+    },
+    {
+      "url": "https://ev-database.org/car/3459/BMW-iX1-xDrive30",
+      "text": "BMW iX1 xDrive30"
+    },
+    {
+      "url": "https://ev-database.org/car/3247/MG-IM6-Long-Range",
+      "text": "MG IM6 Long Range"
+    },
+    {
+      "url": "https://ev-database.org/car/1933/Zeekr-001-Long-Range-RWD",
+      "text": "Zeekr 001 Long Range RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/2133/Renault-5-E-Tech-40kWh-95hp",
+      "text": "Renault 5 E-Tech 40kWh 95hp"
+    },
+    {
+      "url": "https://ev-database.org/car/1705/Dacia-Spring-Electric-45",
+      "text": "Dacia Spring Electric 45"
+    },
+    {
+      "url": "https://ev-database.org/car/3452/Ford-Capri-Extended-Range-RWD",
+      "text": "Ford Capri Extended Range RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3654/Mercedes-Benz-GLC-300-4MATIC",
+      "text": "Mercedes-Benz GLC 300 4MATIC"
+    },
+    {
+      "url": "https://ev-database.org/car/1198/Tesla-Model-X-Long-Range",
+      "text": "Tesla Model X Long Range"
+    },
+    {
+      "url": "https://ev-database.org/car/1911/Volvo-EX30-Twin-Motor-Performance",
+      "text": "Volvo EX30 Twin Motor Performance"
+    },
+    {
+      "url": "https://ev-database.org/car/3495/Volkswagen-ID4-Pure",
+      "text": "Volkswagen ID.4 Pure"
+    },
+    {
+      "url": "https://ev-database.org/car/3409/Dacia-Spring-Electric-100",
+      "text": "Dacia Spring Electric 100"
+    },
+    {
+      "url": "https://ev-database.org/car/1163/Mini-Cooper-SE",
+      "text": "Mini Cooper SE"
+    },
+    {
+      "url": "https://ev-database.org/car/1192/Opel-Corsa-e",
+      "text": "Opel Corsa-e"
+    },
+    {
+      "url": "https://ev-database.org/car/2151/Peugeot-e-5008-97-kWh-Long-Range",
+      "text": "Peugeot e-5008 97 kWh Long Range"
+    },
+    {
+      "url": "https://ev-database.org/car/3047/Citroen-e-C4",
+      "text": "Citroen e-C4"
+    },
+    {
+      "url": "https://ev-database.org/car/2213/Volkswagen-ID3-Pro",
+      "text": "Volkswagen ID.3 Pro"
+    },
+    {
+      "url": "https://ev-database.org/car/3428/Zeekr-7GT-Core-RWD",
+      "text": "Zeekr 7GT Core RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3054/Audi-A6-Avant-e-tron-quattro",
+      "text": "Audi A6 Avant e-tron quattro"
+    },
+    {
+      "url": "https://ev-database.org/car/1583/Peugeot-e-208",
+      "text": "Peugeot e-208"
+    },
+    {
+      "url": "https://ev-database.org/car/3511/CUPRA-Born-140-kW---58-kWh",
+      "text": "CUPRA Born 140 kW - 58 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1013/Mercedes-Benz-B-250e",
+      "text": "Mercedes-Benz B 250e"
+    },
+    {
+      "url": "https://ev-database.org/car/1748/Smart-1-Brabus",
+      "text": "Smart #1 Brabus"
+    },
+    {
+      "url": "https://ev-database.org/car/1482/Kia-EV6-Long-Range-AWD",
+      "text": "Kia EV6 Long Range AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1483/Mercedes-Benz-EQS-450plus",
+      "text": "Mercedes-Benz EQS 450+"
+    },
+    {
+      "url": "https://ev-database.org/car/1538/Mercedes-Benz-EQE-350plus",
+      "text": "Mercedes-Benz EQE 350+"
+    },
+    {
+      "url": "https://ev-database.org/car/3129/Volvo-ES90-Twin-Motor",
+      "text": "Volvo ES90 Twin Motor"
+    },
+    {
+      "url": "https://ev-database.org/car/3399/Porsche-Cayenne-Turbo-Electric",
+      "text": "Porsche Cayenne Turbo Electric"
+    },
+    {
+      "url": "https://ev-database.org/car/3444/Volvo-EX60-Cross-Country-P10-AWD",
+      "text": "Volvo EX60 Cross Country P10 AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1944/MG-MG4-Electric-XPOWER",
+      "text": "MG MG4 Electric XPOWER"
+    },
+    {
+      "url": "https://ev-database.org/car/1972/CUPRA-Tavascan-VZ",
+      "text": "CUPRA Tavascan VZ"
+    },
+    {
+      "url": "https://ev-database.org/car/2011/Mercedes-Benz-EQS-580-4MATIC",
+      "text": "Mercedes-Benz EQS 580 4MATIC"
+    },
+    {
+      "url": "https://ev-database.org/car/3260/Volkswagen-ID7-Tourer-Pro-S",
+      "text": "Volkswagen ID.7 Tourer Pro S"
+    },
+    {
+      "url": "https://ev-database.org/car/3128/Volvo-ES90-Single-Motor",
+      "text": "Volvo ES90 Single Motor"
+    },
+    {
+      "url": "https://ev-database.org/car/2000/Smart-3-Brabus",
+      "text": "Smart #3 Brabus"
+    },
+    {
+      "url": "https://ev-database.org/car/2144/Porsche-Taycan-Turbo-GT",
+      "text": "Porsche Taycan Turbo GT"
+    },
+    {
+      "url": "https://ev-database.org/car/1281/Skoda-Enyaq-iV-80x",
+      "text": "Skoda Enyaq iV 80x"
+    },
+    {
+      "url": "https://ev-database.org/car/1656/Nissan-LEAF-40-kWh",
+      "text": "Nissan LEAF 40 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/2214/Volkswagen-ID3-Pure",
+      "text": "Volkswagen ID.3 Pure"
+    },
+    {
+      "url": "https://ev-database.org/car/3293/Lexus-RZ-350e",
+      "text": "Lexus RZ 350e"
+    },
+    {
+      "url": "https://ev-database.org/car/3507/CUPRA-Raval-85-kW---37-kWh",
+      "text": "CUPRA Raval 85 kW - 37 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3209/Toyota-Urban-Cruiser-611-kWh",
+      "text": "Toyota Urban Cruiser 61.1 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3232/Leapmotor-B10-562-kWh",
+      "text": "Leapmotor B10 56.2 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1584/Peugeot-e-2008",
+      "text": "Peugeot e-2008"
+    },
+    {
+      "url": "https://ev-database.org/car/3280/Citroen-e-C3-Urban-Range-30-kWh",
+      "text": "Citroen e-C3 Urban Range 30 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/2241/Ford-Capri-Extended-Range-RWD",
+      "text": "Ford Capri Extended Range RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1026/Renault-Zoe-Q210",
+      "text": "Renault Zoe Q210"
+    },
+    {
+      "url": "https://ev-database.org/car/3520/Volkswagen-ID3-Neo-50-kWh",
+      "text": "Volkswagen ID.3 Neo 50 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1471/Kia-EV6-GT",
+      "text": "Kia EV6 GT"
+    },
+    {
+      "url": "https://ev-database.org/car/2121/Volvo-EX40-Single-Motor-ER",
+      "text": "Volvo EX40 Single Motor ER"
+    },
+    {
+      "url": "https://ev-database.org/car/3440/Hyundai-IONIQ-6-84-kWh-AWD",
+      "text": "Hyundai IONIQ 6 84 kWh AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1036/Tesla-Model-S-P85D",
+      "text": "Tesla Model S P85D"
+    },
+    {
+      "url": "https://ev-database.org/car/3148/Audi-Q4-e-tron-40",
+      "text": "Audi Q4 e-tron 40"
+    },
+    {
+      "url": "https://ev-database.org/car/1050/Renault-Zoe-R240",
+      "text": "Renault Zoe R240"
+    },
+    {
+      "url": "https://ev-database.org/car/2205/Mercedes-Benz-EQE-350plus",
+      "text": "Mercedes-Benz EQE 350+"
+    },
+    {
+      "url": "https://ev-database.org/car/1273/Volkswagen-ID4-1st",
+      "text": "Volkswagen ID.4 1st"
+    },
+    {
+      "url": "https://ev-database.org/car/1567/Subaru-Solterra-AWD",
+      "text": "Subaru Solterra AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3134/Toyota-bZ4X-FWD-731-kWh",
+      "text": "Toyota bZ4X FWD 73.1 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1040/Volkswagen-e-Golf",
+      "text": "Volkswagen e-Golf"
+    },
+    {
+      "url": "https://ev-database.org/car/1476/Hyundai-IONIQ-5-Standard-Range-2WD",
+      "text": "Hyundai IONIQ 5 Standard Range 2WD"
+    },
+    {
+      "url": "https://ev-database.org/car/3146/MG-MGS5-EV-49-kWh",
+      "text": "MG MGS5 EV 49 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1051/Opel-Ampera-e",
+      "text": "Opel Ampera-e"
+    },
+    {
+      "url": "https://ev-database.org/car/2223/NIO-EL8-Long-Range",
+      "text": "NIO EL8 Long Range"
+    },
+    {
+      "url": "https://ev-database.org/car/3048/Citroen-e-C4-54-kWh",
+      "text": "Citroen e-C4 54 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/2086/Mercedes-Benz-EQS-SUV-Maybach-680",
+      "text": "Mercedes-Benz EQS SUV Maybach 680"
+    },
+    {
+      "url": "https://ev-database.org/car/2210/Volkswagen-ID3-Pro-S",
+      "text": "Volkswagen ID.3 Pro S"
+    },
+    {
+      "url": "https://ev-database.org/car/3334/Volkswagen-ID3-Pro-S",
+      "text": "Volkswagen ID.3 Pro S"
+    },
+    {
+      "url": "https://ev-database.org/car/1010/Ford-Focus-Electric",
+      "text": "Ford Focus Electric"
+    },
+    {
+      "url": "https://ev-database.org/car/1261/Aiways-U5",
+      "text": "Aiways U5"
+    },
+    {
+      "url": "https://ev-database.org/car/2040/BMW-iX2-xDrive30",
+      "text": "BMW iX2 xDrive30"
+    },
+    {
+      "url": "https://ev-database.org/car/3216/Lotus-Eletre-600",
+      "text": "Lotus Eletre 600"
+    },
+    {
+      "url": "https://ev-database.org/car/1532/Volkswagen-ID3-Pro-Performance",
+      "text": "Volkswagen ID.3 Pro Performance"
+    },
+    {
+      "url": "https://ev-database.org/car/2046/Mercedes-Benz-EQE-SUV-350plus",
+      "text": "Mercedes-Benz EQE SUV 350+"
+    },
+    {
+      "url": "https://ev-database.org/car/1834/Kia-EV9-998-kWh-RWD",
+      "text": "Kia EV9 99.8 kWh RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3462/Hyundai-Kona-Electric-486-kWh",
+      "text": "Hyundai Kona Electric 48.6 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1539/Volvo-XC40-Recharge-Pure-Electric",
+      "text": "Volvo XC40 Recharge Pure Electric"
+    },
+    {
+      "url": "https://ev-database.org/car/3583/Geely-EX5-Maxplus",
+      "text": "Geely EX5 Max+"
+    },
+    {
+      "url": "https://ev-database.org/car/2084/Porsche-Macan-4-Electric",
+      "text": "Porsche Macan 4 Electric"
+    },
+    {
+      "url": "https://ev-database.org/car/2215/Audi-Q6-SUV-e-tron-performance",
+      "text": "Audi Q6 SUV e-tron performance"
+    },
+    {
+      "url": "https://ev-database.org/car/2183/XPENG-G6-AWD-Performance",
+      "text": "XPENG G6 AWD Performance"
+    },
+    {
+      "url": "https://ev-database.org/car/3446/Ford-Explorer-Standard-Range-RWD",
+      "text": "Ford Explorer Standard Range RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3469/MG-MG4-XPOWER",
+      "text": "MG MG4 XPOWER"
+    },
+    {
+      "url": "https://ev-database.org/car/2027/Volkswagen-ID4-Pure",
+      "text": "Volkswagen ID.4 Pure"
+    },
+    {
+      "url": "https://ev-database.org/car/3053/Audi-A6-Sportback-e-tron",
+      "text": "Audi A6 Sportback e-tron"
+    },
+    {
+      "url": "https://ev-database.org/car/3115/BMW-i5-eDrive40-Touring",
+      "text": "BMW i5 eDrive40 Touring"
+    },
+    {
+      "url": "https://ev-database.org/car/3206/BMW-i4-xDrive40",
+      "text": "BMW i4 xDrive40"
+    },
+    {
+      "url": "https://ev-database.org/car/3324/Volvo-EX90-Twin-Motor",
+      "text": "Volvo EX90 Twin Motor"
+    },
+    {
+      "url": "https://ev-database.org/car/3645/Ford-Explorer-Extended-Range-RWD",
+      "text": "Ford Explorer Extended Range RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1783/BYD-TANG",
+      "text": "BYD TANG"
+    },
+    {
+      "url": "https://ev-database.org/car/1818/Polestar-2-Long-Range-Single-Motor",
+      "text": "Polestar 2 Long Range Single Motor"
+    },
+    {
+      "url": "https://ev-database.org/car/1993/Kia-EV9-998-kWh-AWD-GT-Line",
+      "text": "Kia EV9 99.8 kWh AWD GT-Line"
+    },
+    {
+      "url": "https://ev-database.org/car/3081/Zeekr-7X-Core-RWD",
+      "text": "Zeekr 7X Core RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3390/Alpine-A390-GT",
+      "text": "Alpine A390 GT"
+    },
+    {
+      "url": "https://ev-database.org/car/1903/Abarth-500e-Hatchback",
+      "text": "Abarth 500e Hatchback"
+    },
+    {
+      "url": "https://ev-database.org/car/2191/Mini-Aceman-SE",
+      "text": "Mini Aceman SE"
+    },
+    {
+      "url": "https://ev-database.org/car/3624/DS-Automobiles-N7-FWD-Long-Range",
+      "text": "DS Automobiles N°7 FWD Long Range"
+    },
+    {
+      "url": "https://ev-database.org/car/1287/Jaguar-I-Pace-EV400",
+      "text": "Jaguar I-Pace EV400"
+    },
+    {
+      "url": "https://ev-database.org/car/3620/Skoda-Epiq-35",
+      "text": "Skoda Epiq 35"
+    },
+    {
+      "url": "https://ev-database.org/car/1251/Lexus-UX-300e",
+      "text": "Lexus UX 300e"
+    },
+    {
+      "url": "https://ev-database.org/car/1324/Tesla-Model-S-Performance",
+      "text": "Tesla Model S Performance"
+    },
+    {
+      "url": "https://ev-database.org/car/3487/Audi-Q6-SUV-e-tron-quattro",
+      "text": "Audi Q6 SUV e-tron quattro"
+    },
+    {
+      "url": "https://ev-database.org/car/1053/Tesla-Model-X-90D",
+      "text": "Tesla Model X 90D"
+    },
+    {
+      "url": "https://ev-database.org/car/2181/XPENG-G6-RWD-Standard-Range",
+      "text": "XPENG G6 RWD Standard Range"
+    },
+    {
+      "url": "https://ev-database.org/car/3078/DS-Automobiles-N8-AWD-Long-Range",
+      "text": "DS Automobiles N°8 AWD Long Range"
+    },
+    {
+      "url": "https://ev-database.org/car/1703/Genesis-G80-Electrified-Luxury",
+      "text": "Genesis G80 Electrified Luxury"
+    },
+    {
+      "url": "https://ev-database.org/car/2190/Mini-Aceman-E",
+      "text": "Mini Aceman E"
+    },
+    {
+      "url": "https://ev-database.org/car/3166/Ford-e-Tourneo-Courier",
+      "text": "Ford e-Tourneo Courier"
+    },
+    {
+      "url": "https://ev-database.org/car/1068/BMW-i3-94-Ah",
+      "text": "BMW i3 94 Ah"
+    },
+    {
+      "url": "https://ev-database.org/car/1090/Smart-ForTwo-Electric-Drive",
+      "text": "Smart ForTwo Electric Drive"
+    },
+    {
+      "url": "https://ev-database.org/car/3152/Polestar-2-Long-Range-Dual-Motor",
+      "text": "Polestar 2 Long Range Dual Motor"
+    },
+    {
+      "url": "https://ev-database.org/car/3198/Zeekr-X-Long-Range-RWD",
+      "text": "Zeekr X Long Range RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1316/Lucid-Air-Grand-Touring",
+      "text": "Lucid Air Grand Touring"
+    },
+    {
+      "url": "https://ev-database.org/car/1907/BMW-i5-M60-xDrive-Sedan",
+      "text": "BMW i5 M60 xDrive Sedan"
+    },
+    {
+      "url": "https://ev-database.org/car/3058/Mini-Cooper-JCW",
+      "text": "Mini Cooper JCW"
+    },
+    {
+      "url": "https://ev-database.org/car/3513/CUPRA-Born-VZ",
+      "text": "CUPRA Born VZ"
+    },
+    {
+      "url": "https://ev-database.org/car/2158/Volkswagen-ID7-Tourer-GTX",
+      "text": "Volkswagen ID.7 Tourer GTX"
+    },
+    {
+      "url": "https://ev-database.org/car/1179/Audi-Q4-e-tron-35",
+      "text": "Audi Q4 e-tron 35"
+    },
+    {
+      "url": "https://ev-database.org/car/3436/Subaru-Uncharted-77-kWh",
+      "text": "Subaru Uncharted 77 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1190/Skoda-CITIGOe-iV",
+      "text": "Skoda CITIGOe iV"
+    },
+    {
+      "url": "https://ev-database.org/car/1775/Volvo-EX90-Twin-Motor",
+      "text": "Volvo EX90 Twin Motor"
+    },
+    {
+      "url": "https://ev-database.org/car/2157/Volkswagen-ID-Buzz-LWB-GTX-",
+      "text": "Volkswagen ID. Buzz LWB GTX"
+    },
+    {
+      "url": "https://ev-database.org/car/1241/Mazda-MX-30",
+      "text": "Mazda MX-30"
+    },
+    {
+      "url": "https://ev-database.org/car/1767/Lotus-Eletre",
+      "text": "Lotus Eletre"
+    },
+    {
+      "url": "https://ev-database.org/car/3249/Volkswagen-ID4-Pure",
+      "text": "Volkswagen ID.4 Pure"
+    },
+    {
+      "url": "https://ev-database.org/car/3277/XPENG-G9-RWD-Standard-Range",
+      "text": "XPENG G9 RWD Standard Range"
+    },
+    {
+      "url": "https://ev-database.org/car/3479/Volvo-EX30-P3-Long-Range",
+      "text": "Volvo EX30 P3 Long Range"
+    },
+    {
+      "url": "https://ev-database.org/car/1590/BMW-iX-M60",
+      "text": "BMW iX M60"
+    },
+    {
+      "url": "https://ev-database.org/car/3281/VinFast-VF-6-Eco",
+      "text": "VinFast VF 6 Eco"
+    },
+    {
+      "url": "https://ev-database.org/car/1491/Audi-Q4-e-tron-50-quattro",
+      "text": "Audi Q4 e-tron 50 quattro"
+    },
+    {
+      "url": "https://ev-database.org/car/3067/Hyundai-IONIQ-9-Long-Range-RWD",
+      "text": "Hyundai IONIQ 9 Long Range RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3397/Mercedes-Benz-CLA-Shooting-Brake-350-4MATIC",
+      "text": "Mercedes-Benz CLA Shooting Brake 350 4MATIC"
+    },
+    {
+      "url": "https://ev-database.org/car/3574/Skoda-Enyaq-Coupe-85",
+      "text": "Skoda Enyaq Coupe 85"
+    },
+    {
+      "url": "https://ev-database.org/car/1149/BMW-i3s-120-Ah",
+      "text": "BMW i3s 120 Ah"
+    },
+    {
+      "url": "https://ev-database.org/car/2159/Citroen-e-Berlingo-M-50-kWh",
+      "text": "Citroen e-Berlingo M 50 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3241/Mercedes-Benz-EQE-350-4MATIC",
+      "text": "Mercedes-Benz EQE 350 4MATIC"
+    },
+    {
+      "url": "https://ev-database.org/car/1104/BMW-i3-94-Ah",
+      "text": "BMW i3 94 Ah"
+    },
+    {
+      "url": "https://ev-database.org/car/1479/Hyundai-IONIQ-5-Long-Range-AWD",
+      "text": "Hyundai IONIQ 5 Long Range AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1706/Citroen-e-C4-X",
+      "text": "Citroen e-C4 X"
+    },
+    {
+      "url": "https://ev-database.org/car/1997/Mini-Cooper-E",
+      "text": "Mini Cooper E"
+    },
+    {
+      "url": "https://ev-database.org/car/2030/Volkswagen-ID4-GTX",
+      "text": "Volkswagen ID.4 GTX"
+    },
+    {
+      "url": "https://ev-database.org/car/2054/Smart-3-Premium",
+      "text": "Smart #3 Premium"
+    },
+    {
+      "url": "https://ev-database.org/car/2124/Volvo-EC40-Single-Motor-ER",
+      "text": "Volvo EC40 Single Motor ER"
+    },
+    {
+      "url": "https://ev-database.org/car/1019/Nissan-LEAF-24-kWh",
+      "text": "Nissan LEAF 24 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1206/Peugeot-e-2008",
+      "text": "Peugeot e-2008"
+    },
+    {
+      "url": "https://ev-database.org/car/3213/Suzuki-e-VITARA-61-kWh-4WD-AllGrip",
+      "text": "Suzuki e VITARA 61 kWh 4WD AllGrip"
+    },
+    {
+      "url": "https://ev-database.org/car/1020/Nissan-LEAF-30-kWh",
+      "text": "Nissan LEAF 30 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3123/Kia-EV4-Hatchback-583-kWh",
+      "text": "Kia EV4 Hatchback 58.3 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1995/Mini-Countryman-SE-ALL4",
+      "text": "Mini Countryman SE ALL4"
+    },
+    {
+      "url": "https://ev-database.org/car/2097/BMW-iX2-eDrive20",
+      "text": "BMW iX2 eDrive20"
+    },
+    {
+      "url": "https://ev-database.org/car/3579/Mercedes-Benz-EQS-500-4MATIC",
+      "text": "Mercedes-Benz EQS 500 4MATIC"
+    },
+    {
+      "url": "https://ev-database.org/car/1202/Volkswagen-ID3-Pro",
+      "text": "Volkswagen ID.3 Pro"
+    },
+    {
+      "url": "https://ev-database.org/car/1758/Polestar-3-Long-Range-Dual-motor",
+      "text": "Polestar 3 Long Range Dual motor"
+    },
+    {
+      "url": "https://ev-database.org/car/1804/Seres-3",
+      "text": "Seres 3"
+    },
+    {
+      "url": "https://ev-database.org/car/2103/Porsche-Taycan-Turbo-S",
+      "text": "Porsche Taycan Turbo S"
+    },
+    {
+      "url": "https://ev-database.org/car/3137/Voyah-Courage-80-kWh-AWD",
+      "text": "Voyah Courage 80 kWh AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3587/Audi-Q4-e-tron",
+      "text": "Audi Q4 e-tron"
+    },
+    {
+      "url": "https://ev-database.org/car/1807/VinFast-VF-8-Eco-Extended-Range",
+      "text": "VinFast VF 8 Eco Extended Range"
+    },
+    {
+      "url": "https://ev-database.org/car/1922/NIO-EL6-Long-Range",
+      "text": "NIO EL6 Long Range"
+    },
+    {
+      "url": "https://ev-database.org/car/3188/Ford-Mustang-Mach-E-ER-RWD",
+      "text": "Ford Mustang Mach-E ER RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1785/BMW-i4-eDrive35",
+      "text": "BMW i4 eDrive35"
+    },
+    {
+      "url": "https://ev-database.org/car/1828/Volkswagen-ID4-GTX",
+      "text": "Volkswagen ID.4 GTX"
+    },
+    {
+      "url": "https://ev-database.org/car/2004/Peugeot-e-3008-73-kWh-Dual-Motor",
+      "text": "Peugeot e-3008 73 kWh Dual Motor"
+    },
+    {
+      "url": "https://ev-database.org/car/2042/Nissan-Townstar-EV-Passenger",
+      "text": "Nissan Townstar EV Passenger"
+    },
+    {
+      "url": "https://ev-database.org/car/3050/Citroen-e-C4-X-54-kWh",
+      "text": "Citroen e-C4 X 54 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3391/Alpine-A390-GTS",
+      "text": "Alpine A390 GTS"
+    },
+    {
+      "url": "https://ev-database.org/car/3580/Mercedes-Benz-EQS-580-4MATIC",
+      "text": "Mercedes-Benz EQS 580 4MATIC"
+    },
+    {
+      "url": "https://ev-database.org/car/1791/DS-Automobiles-DS-3-E-Tense",
+      "text": "DS Automobiles DS 3 E-Tense"
+    },
+    {
+      "url": "https://ev-database.org/car/3588/Audi-Q4-e-tron-performance",
+      "text": "Audi Q4 e-tron performance"
+    },
+    {
+      "url": "https://ev-database.org/car/1776/Volvo-EX90-Twin-Motor-Performance",
+      "text": "Volvo EX90 Twin Motor Performance"
+    },
+    {
+      "url": "https://ev-database.org/car/1232/Smart-EQ-forfour",
+      "text": "Smart EQ forfour"
+    },
+    {
+      "url": "https://ev-database.org/car/3246/MG-IM5-Performance",
+      "text": "MG IM5 Performance"
+    },
+    {
+      "url": "https://ev-database.org/car/1288/Kia-e-Soul-64-kWh",
+      "text": "Kia e-Soul 64 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3240/Mercedes-Benz-EQE-350plus",
+      "text": "Mercedes-Benz EQE 350+"
+    },
+    {
+      "url": "https://ev-database.org/car/1540/MG-ZS-EV-Standard-Range",
+      "text": "MG ZS EV Standard Range"
+    },
+    {
+      "url": "https://ev-database.org/car/3621/Skoda-Epiq-40",
+      "text": "Skoda Epiq 40"
+    },
+    {
+      "url": "https://ev-database.org/car/1147/Mercedes-Benz-EQA-250",
+      "text": "Mercedes-Benz EQA 250"
+    },
+    {
+      "url": "https://ev-database.org/car/1559/Mercedes-Benz-EQB-300-4MATIC",
+      "text": "Mercedes-Benz EQB 300 4MATIC"
+    },
+    {
+      "url": "https://ev-database.org/car/1696/Lucid-Air-Dream-Edition-R",
+      "text": "Lucid Air Dream Edition R"
+    },
+    {
+      "url": "https://ev-database.org/car/1712/Fisker-Ocean-One",
+      "text": "Fisker Ocean One"
+    },
+    {
+      "url": "https://ev-database.org/car/2233/CUPRA-Born-170-kW---59-kWh",
+      "text": "CUPRA Born 170 kW - 59 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3364/Opel-Grandland-Electric-97-kWh",
+      "text": "Opel Grandland Electric 97 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3569/Skoda-Enyaq-60",
+      "text": "Skoda Enyaq 60"
+    },
+    {
+      "url": "https://ev-database.org/car/1325/Tesla-Model-X-Long-Range-Plus",
+      "text": "Tesla Model X Long Range Plus"
+    },
+    {
+      "url": "https://ev-database.org/car/2029/Volkswagen-ID4-Pro-4MOTION",
+      "text": "Volkswagen ID.4 Pro 4MOTION"
+    },
+    {
+      "url": "https://ev-database.org/car/3609/CUPRA-Tavascan-210-kW---77-kWh-Endurance",
+      "text": "CUPRA Tavascan 210 kW - 77 kWh Endurance"
+    },
+    {
+      "url": "https://ev-database.org/car/1812/Jaguar-I-Pace-EV400",
+      "text": "Jaguar I-Pace EV400"
+    },
+    {
+      "url": "https://ev-database.org/car/3030/Kia-EV6-Standard-Range-2WD",
+      "text": "Kia EV6 Standard Range 2WD"
+    },
+    {
+      "url": "https://ev-database.org/car/1101/Renault-Kangoo-Maxi-ZE-33",
+      "text": "Renault Kangoo Maxi ZE 33"
+    },
+    {
+      "url": "https://ev-database.org/car/3628/Mercedes-Benz-CLA-Shooting-Brake-200",
+      "text": "Mercedes-Benz CLA Shooting Brake 200"
+    },
+    {
+      "url": "https://ev-database.org/car/1840/Volkswagen-ID7-Pro-S",
+      "text": "Volkswagen ID.7 Pro S"
+    },
+    {
+      "url": "https://ev-database.org/car/3603/Volkswagen-ID7-Tourer-77-kWh",
+      "text": "Volkswagen ID.7 Tourer 77 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1033/Tesla-Model-S-70D",
+      "text": "Tesla Model S 70D"
+    },
+    {
+      "url": "https://ev-database.org/car/3385/Tesla-Model-X-AWD",
+      "text": "Tesla Model X AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1704/Dacia-Spring-Electric",
+      "text": "Dacia Spring Electric"
+    },
+    {
+      "url": "https://ev-database.org/car/3106/Tesla-Model-Y-Long-Range-AWD-Launch-Series",
+      "text": "Tesla Model Y Long Range AWD Launch Series"
+    },
+    {
+      "url": "https://ev-database.org/car/3508/CUPRA-Raval-99-kW---37-kWh",
+      "text": "CUPRA Raval 99 kW - 37 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1125/Kia-e-Niro-64-kWh",
+      "text": "Kia e-Niro 64 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3473/Mercedes-Benz-CLA-250",
+      "text": "Mercedes-Benz CLA 250"
+    },
+    {
+      "url": "https://ev-database.org/car/1916/NIO-ET5-Touring-Long-Range",
+      "text": "NIO ET5 Touring Long Range"
+    },
+    {
+      "url": "https://ev-database.org/car/3055/Audi-A6-Avant-e-tron",
+      "text": "Audi A6 Avant e-tron"
+    },
+    {
+      "url": "https://ev-database.org/car/3644/Ford-Explorer-Standard-Range-RWD",
+      "text": "Ford Explorer Standard Range RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1037/Tesla-Model-S-P90D",
+      "text": "Tesla Model S P90D"
+    },
+    {
+      "url": "https://ev-database.org/car/2120/Volvo-EX40-Single-Motor",
+      "text": "Volvo EX40 Single Motor"
+    },
+    {
+      "url": "https://ev-database.org/car/3096/Skoda-Enyaq-60",
+      "text": "Skoda Enyaq 60"
+    },
+    {
+      "url": "https://ev-database.org/car/3150/Polestar-2-Standard-Range-Single-Motor",
+      "text": "Polestar 2 Standard Range Single Motor"
+    },
+    {
+      "url": "https://ev-database.org/car/1800/Volvo-C40-Recharge-Single-Motor-ER",
+      "text": "Volvo C40 Recharge Single Motor ER"
+    },
+    {
+      "url": "https://ev-database.org/car/1942/Opel-Corsa-Electric-51-kWh",
+      "text": "Opel Corsa Electric 51 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3649/Ford-Capri-Extended-Range-AWD",
+      "text": "Ford Capri Extended Range AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3263/CUPRA-Born-170-kW---79-kWh",
+      "text": "CUPRA Born 170 kW - 79 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1319/Dacia-Spring-Electric",
+      "text": "Dacia Spring Electric"
+    },
+    {
+      "url": "https://ev-database.org/car/2196/Mercedes-Benz-EQS-580-4MATIC",
+      "text": "Mercedes-Benz EQS 580 4MATIC"
+    },
+    {
+      "url": "https://ev-database.org/car/3111/BMW-iX-M70-xDrive",
+      "text": "BMW iX M70 xDrive"
+    },
+    {
+      "url": "https://ev-database.org/car/1144/Nissan-LEAF-eplus-62-kWh",
+      "text": "Nissan LEAF e+ 62 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3218/Renault-Scenic-E-Tech-EV60-170hp",
+      "text": "Renault Scenic E-Tech EV60 170hp"
+    },
+    {
+      "url": "https://ev-database.org/car/1153/Audi-RS-e-tron-GT",
+      "text": "Audi RS e-tron GT"
+    },
+    {
+      "url": "https://ev-database.org/car/1592/Volvo-XC40-Recharge-Pure-Electric",
+      "text": "Volvo XC40 Recharge Pure Electric"
+    },
+    {
+      "url": "https://ev-database.org/car/2224/Citroen-e-C3-Aircross-Comfort-Range-44-kWh",
+      "text": "Citroen e-C3 Aircross Comfort Range 44 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3133/Toyota-bZ4X-FWD-577-kWh",
+      "text": "Toyota bZ4X FWD 57.7 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3571/Skoda-Enyaq-85x",
+      "text": "Skoda Enyaq 85x"
+    },
+    {
+      "url": "https://ev-database.org/car/3295/Lexus-RZ-550e-F-SPORT",
+      "text": "Lexus RZ 550e F SPORT"
+    },
+    {
+      "url": "https://ev-database.org/car/3052/Audi-A6-Sportback-e-tron-quattro",
+      "text": "Audi A6 Sportback e-tron quattro"
+    },
+    {
+      "url": "https://ev-database.org/car/3114/BMW-i5-M60-xDrive-Sedan",
+      "text": "BMW i5 M60 xDrive Sedan"
+    },
+    {
+      "url": "https://ev-database.org/car/3214/Lotus-Emeya-600",
+      "text": "Lotus Emeya 600"
+    },
+    {
+      "url": "https://ev-database.org/car/3560/Porsche-Cayenne-Coupe-Electric",
+      "text": "Porsche Cayenne Coupe Electric"
+    },
+    {
+      "url": "https://ev-database.org/car/3592/Audi-Q4-Sportback-e-tron-performance",
+      "text": "Audi Q4 Sportback e-tron performance"
+    },
+    {
+      "url": "https://ev-database.org/car/1186/Porsche-Taycan-4-Cross-Turismo",
+      "text": "Porsche Taycan 4 Cross Turismo"
+    },
+    {
+      "url": "https://ev-database.org/car/1801/Volvo-C40-Recharge-Twin-Motor",
+      "text": "Volvo C40 Recharge Twin Motor"
+    },
+    {
+      "url": "https://ev-database.org/car/2118/Volkswagen-ID7-Tourer-Pro",
+      "text": "Volkswagen ID.7 Tourer Pro"
+    },
+    {
+      "url": "https://ev-database.org/car/3321/Peugeot-e-308-58-kWh",
+      "text": "Peugeot e-308 58 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3434/Subaru-Solterra-AWD-731-kWh",
+      "text": "Subaru Solterra AWD 73.1 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3556/BMW-i7-50-xDrive",
+      "text": "BMW i7 50 xDrive"
+    },
+    {
+      "url": "https://ev-database.org/car/3210/Toyota-Urban-Cruiser-611-kWh-AWD",
+      "text": "Toyota Urban Cruiser 61.1 kWh AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3478/Volvo-EX30-P5",
+      "text": "Volvo EX30 P5"
+    },
+    {
+      "url": "https://ev-database.org/car/1898/Mercedes-Benz-EQE-350",
+      "text": "Mercedes-Benz EQE 350"
+    },
+    {
+      "url": "https://ev-database.org/car/2220/Audi-RS-e-tron-GT",
+      "text": "Audi RS e-tron GT"
+    },
+    {
+      "url": "https://ev-database.org/car/3611/XPENG-X9-FWD-Standard-Range",
+      "text": "XPENG X9 FWD Standard Range"
+    },
+    {
+      "url": "https://ev-database.org/car/1166/Lightyear-0",
+      "text": "Lightyear 0"
+    },
+    {
+      "url": "https://ev-database.org/car/1327/Fiat-500e-Hatchback-24-kWh",
+      "text": "Fiat 500e Hatchback 24 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1536/Renault-Megane-E-Tech-EV40-130hp",
+      "text": "Renault Megane E-Tech EV40 130hp"
+    },
+    {
+      "url": "https://ev-database.org/car/2201/BMW-i4-M50",
+      "text": "BMW i4 M50"
+    },
+    {
+      "url": "https://ev-database.org/car/1769/Audi-Q8-SUV-e-tron-50-quattro",
+      "text": "Audi Q8 SUV e-tron 50 quattro"
+    },
+    {
+      "url": "https://ev-database.org/car/1987/Mercedes-Benz-EQA-350-4MATIC",
+      "text": "Mercedes-Benz EQA 350 4MATIC"
+    },
+    {
+      "url": "https://ev-database.org/car/2087/Mercedes-Benz-EQS-SUV-450plus",
+      "text": "Mercedes-Benz EQS SUV 450+"
+    },
+    {
+      "url": "https://ev-database.org/car/3585/Zeekr-X-Long-Range-RWD",
+      "text": "Zeekr X Long Range RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3625/DS-Automobiles-N7-AWD-Long-Range",
+      "text": "DS Automobiles N°7 AWD Long Range"
+    },
+    {
+      "url": "https://ev-database.org/car/1136/BMW-iX3",
+      "text": "BMW iX3"
+    },
+    {
+      "url": "https://ev-database.org/car/1097/Jaguar-I-Pace-EV400",
+      "text": "Jaguar I-Pace EV400"
+    },
+    {
+      "url": "https://ev-database.org/car/1233/Honda-e-Advance",
+      "text": "Honda e Advance"
+    },
+    {
+      "url": "https://ev-database.org/car/1243/Ford-Mustang-Mach-E-ER-RWD",
+      "text": "Ford Mustang Mach-E ER RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1170/Polestar-2",
+      "text": "Polestar 2"
+    },
+    {
+      "url": "https://ev-database.org/car/1489/Volkswagen-ID4-Pure",
+      "text": "Volkswagen ID.4 Pure"
+    },
+    {
+      "url": "https://ev-database.org/car/1990/Mercedes-Benz-EQB-350-4MATIC",
+      "text": "Mercedes-Benz EQB 350 4MATIC"
+    },
+    {
+      "url": "https://ev-database.org/car/2085/Porsche-Macan-Turbo-Electric",
+      "text": "Porsche Macan Turbo Electric"
+    },
+    {
+      "url": "https://ev-database.org/car/2100/Porsche-Taycan-4S",
+      "text": "Porsche Taycan 4S"
+    },
+    {
+      "url": "https://ev-database.org/car/2247/GWM-ORA-07-GT",
+      "text": "GWM ORA 07 GT"
+    },
+    {
+      "url": "https://ev-database.org/car/3435/Subaru-Uncharted-577-kWh",
+      "text": "Subaru Uncharted 57.7 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1203/Volkswagen-ID3-Pro-S",
+      "text": "Volkswagen ID.3 Pro S"
+    },
+    {
+      "url": "https://ev-database.org/car/1803/Maserati-GranTurismo-Folgore",
+      "text": "Maserati GranTurismo Folgore"
+    },
+    {
+      "url": "https://ev-database.org/car/3031/Skoda-Elroq-50",
+      "text": "Skoda Elroq 50"
+    },
+    {
+      "url": "https://ev-database.org/car/1021/Nissan-e-NV200-Evalia",
+      "text": "Nissan e-NV200 Evalia"
+    },
+    {
+      "url": "https://ev-database.org/car/3634/Volkswagen-ID-Buzz-LWB-Pro",
+      "text": "Volkswagen ID. Buzz LWB Pro"
+    },
+    {
+      "url": "https://ev-database.org/car/1187/Skoda-Enyaq-iV-50",
+      "text": "Skoda Enyaq iV 50"
+    },
+    {
+      "url": "https://ev-database.org/car/1786/NIO-ET5-Standard-Range",
+      "text": "NIO ET5 Standard Range"
+    },
+    {
+      "url": "https://ev-database.org/car/2021/Skoda-Enyaq-85x",
+      "text": "Skoda Enyaq 85x"
+    },
+    {
+      "url": "https://ev-database.org/car/2099/Porsche-Taycan-Plus",
+      "text": "Porsche Taycan Plus"
+    },
+    {
+      "url": "https://ev-database.org/car/3567/Skoda-Elroq-85x",
+      "text": "Skoda Elroq 85x"
+    },
+    {
+      "url": "https://ev-database.org/car/3577/Mercedes-Benz-EQS-400",
+      "text": "Mercedes-Benz EQS 400"
+    },
+    {
+      "url": "https://ev-database.org/car/1041/Volkswagen-e-Up",
+      "text": "Volkswagen e-Up!"
+    },
+    {
+      "url": "https://ev-database.org/car/1128/Renault-Zoe-R110",
+      "text": "Renault Zoe R110"
+    },
+    {
+      "url": "https://ev-database.org/car/1546/Citroen-e-Berlingo-M-50-kWh",
+      "text": "Citroen e-Berlingo M 50 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1697/Mercedes-Benz-EQA-250",
+      "text": "Mercedes-Benz EQA 250"
+    },
+    {
+      "url": "https://ev-database.org/car/1825/XPENG-G9-RWD-Long-Range",
+      "text": "XPENG G9 RWD Long Range"
+    },
+    {
+      "url": "https://ev-database.org/car/3303/TOGG-T10X-Long-Range-AWD",
+      "text": "TOGG T10X Long Range AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1304/Nissan-Ariya-e-4ORCE-87kWh---225-kW",
+      "text": "Nissan Ariya e-4ORCE 87kWh - 225 kW"
+    },
+    {
+      "url": "https://ev-database.org/car/1751/NIO-ET7-Standard-Range",
+      "text": "NIO ET7 Standard Range"
+    },
+    {
+      "url": "https://ev-database.org/car/1793/Opel-Astra-Sports-Tourer-Electric",
+      "text": "Opel Astra Sports Tourer Electric"
+    },
+    {
+      "url": "https://ev-database.org/car/3069/Hyundai-IONIQ-9-Performance-AWD",
+      "text": "Hyundai IONIQ 9 Performance AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3288/Kia-PV5-Passenger-515-kWh",
+      "text": "Kia PV5 Passenger 51.5 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3637/Kia-EV3-Standard-Range",
+      "text": "Kia EV3 Standard Range"
+    },
+    {
+      "url": "https://ev-database.org/car/2031/Volkswagen-ID5-Pro",
+      "text": "Volkswagen ID.5 Pro"
+    },
+    {
+      "url": "https://ev-database.org/car/3257/Volkswagen-ID7-Pro-S",
+      "text": "Volkswagen ID.7 Pro S"
+    },
+    {
+      "url": "https://ev-database.org/car/1744/Peugeot-e-308",
+      "text": "Peugeot e-308"
+    },
+    {
+      "url": "https://ev-database.org/car/1909/Volvo-EX30-Single-Motor",
+      "text": "Volvo EX30 Single Motor"
+    },
+    {
+      "url": "https://ev-database.org/car/3126/Renault-4-E-Tech-40kWh-120hp",
+      "text": "Renault 4 E-Tech 40kWh 120hp"
+    },
+    {
+      "url": "https://ev-database.org/car/3605/Volkswagen-ID7-Tourer-GTX",
+      "text": "Volkswagen ID.7 Tourer GTX"
+    },
+    {
+      "url": "https://ev-database.org/car/1135/Mercedes-Benz-EQC-400-4MATIC",
+      "text": "Mercedes-Benz EQC 400 4MATIC"
+    },
+    {
+      "url": "https://ev-database.org/car/1188/Volvo-XC40-P8-AWD-Recharge",
+      "text": "Volvo XC40 P8 AWD Recharge"
+    },
+    {
+      "url": "https://ev-database.org/car/1326/Tesla-Model-X-Performance",
+      "text": "Tesla Model X Performance"
+    },
+    {
+      "url": "https://ev-database.org/car/1905/BMW-i7-eDrive50",
+      "text": "BMW i7 eDrive50"
+    },
+    {
+      "url": "https://ev-database.org/car/2145/Porsche-Taycan-Turbo-GT-Weissach",
+      "text": "Porsche Taycan Turbo GT Weissach"
+    },
+    {
+      "url": "https://ev-database.org/car/3500/Volkswagen-ID5-Pro",
+      "text": "Volkswagen ID.5 Pro"
+    },
+    {
+      "url": "https://ev-database.org/car/1122/Kia-Soul-EV",
+      "text": "Kia Soul EV"
+    },
+    {
+      "url": "https://ev-database.org/car/1236/Renault-Zoe-ZE40-R110",
+      "text": "Renault Zoe ZE40 R110"
+    },
+    {
+      "url": "https://ev-database.org/car/1796/Volvo-XC40-Recharge-Single-Motor",
+      "text": "Volvo XC40 Recharge Single Motor"
+    },
+    {
+      "url": "https://ev-database.org/car/3077/DS-Automobiles-N8-FWD-Long-Range",
+      "text": "DS Automobiles N°8 FWD Long Range"
+    },
+    {
+      "url": "https://ev-database.org/car/3220/Opel-Corsa-Electric-50-kWh",
+      "text": "Opel Corsa Electric 50 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3489/Kia-EV5-814-kWh-AWD",
+      "text": "Kia EV5 81.4 kWh AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/2279/Ford-Mustang-Mach-E-ER-AWD",
+      "text": "Ford Mustang Mach-E ER AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3066/Peugeot-e-408-58-kWh",
+      "text": "Peugeot e-408 58 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3582/Geely-EX5-Proplus",
+      "text": "Geely EX5 Pro+"
+    },
+    {
+      "url": "https://ev-database.org/car/3646/Ford-Explorer-Extended-Range-AWD",
+      "text": "Ford Explorer Extended Range AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1092/Audi-e-tron-55-quattro",
+      "text": "Audi e-tron 55 quattro"
+    },
+    {
+      "url": "https://ev-database.org/car/3327/Polestar-3-Dual-Motor",
+      "text": "Polestar 3 Dual Motor"
+    },
+    {
+      "url": "https://ev-database.org/car/3378/Porsche-Macan-Electric",
+      "text": "Porsche Macan Electric"
+    },
+    {
+      "url": "https://ev-database.org/car/3460/BMW-iX2-eDrive20",
+      "text": "BMW iX2 eDrive20"
+    },
+    {
+      "url": "https://ev-database.org/car/3477/Volvo-EX30-P3",
+      "text": "Volvo EX30 P3"
+    },
+    {
+      "url": "https://ev-database.org/car/3602/Volkswagen-ID7-Tourer-59-kWh",
+      "text": "Volkswagen ID.7 Tourer 59 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3371/Cadillac-OPTIQ-500-E4",
+      "text": "Cadillac OPTIQ 500 E4"
+    },
+    {
+      "url": "https://ev-database.org/car/3494/BYD-ATTO-2-511-kWh",
+      "text": "BYD ATTO 2 51.1 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/2152/Volkswagen-ID3-GTX",
+      "text": "Volkswagen ID.3 GTX"
+    },
+    {
+      "url": "https://ev-database.org/car/2128/CUPRA-Born-VZ",
+      "text": "CUPRA Born VZ"
+    },
+    {
+      "url": "https://ev-database.org/car/2225/Polestar-2-Standard-Range-Single-Motor",
+      "text": "Polestar 2 Standard Range Single Motor"
+    },
+    {
+      "url": "https://ev-database.org/car/3057/Abarth-600e-Scorpionissima",
+      "text": "Abarth 600e Scorpionissima"
+    },
+    {
+      "url": "https://ev-database.org/car/2166/Toyota-Proace-City-Verso-L2-50-kWh",
+      "text": "Toyota Proace City Verso L2 50 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3607/Polestar-4-Coupe-Dual-Motor",
+      "text": "Polestar 4 Coupe Dual Motor"
+    },
+    {
+      "url": "https://ev-database.org/car/1826/XPENG-G9-AWD-Performance",
+      "text": "XPENG G9 AWD Performance"
+    },
+    {
+      "url": "https://ev-database.org/car/2234/CUPRA-Born-170-kW---77-kWh",
+      "text": "CUPRA Born 170 kW - 77 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3282/VinFast-VF-6-Plus",
+      "text": "VinFast VF 6 Plus"
+    },
+    {
+      "url": "https://ev-database.org/car/3306/TOGG-T10F-Long-Range-AWD",
+      "text": "TOGG T10F Long Range AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3606/Polestar-4-Coupe-Rear-Motor",
+      "text": "Polestar 4 Coupe Rear Motor"
+    },
+    {
+      "url": "https://ev-database.org/car/3211/Suzuki-e-VITARA-49-kWh-2WD",
+      "text": "Suzuki e VITARA 49 kWh 2WD"
+    },
+    {
+      "url": "https://ev-database.org/car/3599/Volkswagen-ID7-77-kWh",
+      "text": "Volkswagen ID.7 77 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1671/Ford-Mustang-Mach-E-ER-AWD",
+      "text": "Ford Mustang Mach-E ER AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1772/Audi-Q8-Sportback-e-tron-55-quattro",
+      "text": "Audi Q8 Sportback e-tron 55 quattro"
+    },
+    {
+      "url": "https://ev-database.org/car/3118/Volvo-EX30-Cross-Country",
+      "text": "Volvo EX30 Cross Country"
+    },
+    {
+      "url": "https://ev-database.org/car/3558/BMW-i7-M70-xDrive",
+      "text": "BMW i7 M70 xDrive"
+    },
+    {
+      "url": "https://ev-database.org/car/1127/Volkswagen-ID3-Pure-Performance",
+      "text": "Volkswagen ID.3 Pure Performance"
+    },
+    {
+      "url": "https://ev-database.org/car/1836/Peugeot-e-208-51-kWh",
+      "text": "Peugeot e-208 51 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3142/Smart-5-Proplus",
+      "text": "Smart #5 Pro+"
+    },
+    {
+      "url": "https://ev-database.org/car/3248/MG-IM6-Performance",
+      "text": "MG IM6 Performance"
+    },
+    {
+      "url": "https://ev-database.org/car/3301/TOGG-T10X-Standard-Range-RWD",
+      "text": "TOGG T10X Standard Range RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1191/SEAT-Mii-Electric",
+      "text": "SEAT Mii Electric"
+    },
+    {
+      "url": "https://ev-database.org/car/2161/Opel-Combo-Electric-50-kWh",
+      "text": "Opel Combo Electric 50 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3202/Nissan-Micra-Standard-Range-40-kWh",
+      "text": "Nissan Micra Standard Range 40 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3610/CUPRA-Tavascan-250-kW---77-kWh-VZ",
+      "text": "CUPRA Tavascan 250 kW - 77 kWh VZ"
+    },
+    {
+      "url": "https://ev-database.org/car/2048/Mercedes-Benz-EQE-SUV-500-4MATIC",
+      "text": "Mercedes-Benz EQE SUV 500 4MATIC"
+    },
+    {
+      "url": "https://ev-database.org/car/3238/Genesis-G80-Electrified",
+      "text": "Genesis G80 Electrified"
+    },
+    {
+      "url": "https://ev-database.org/car/3271/Lucid-Air-Pure-RWD",
+      "text": "Lucid Air Pure RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1829/Hyundai-Kona-Electric-48-kWh",
+      "text": "Hyundai Kona Electric 48 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3199/Zeekr-X-Privilege-AWD",
+      "text": "Zeekr X Privilege AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3601/Volkswagen-ID7-GTX",
+      "text": "Volkswagen ID.7 GTX"
+    },
+    {
+      "url": "https://ev-database.org/car/1533/Volkswagen-ID3-Pro-S---4-Seats",
+      "text": "Volkswagen ID.3 Pro S - 4 Seats"
+    },
+    {
+      "url": "https://ev-database.org/car/1749/Kia-e-Soul-64-kWh",
+      "text": "Kia e-Soul 64 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/2202/MG-Cyberster-Trophy",
+      "text": "MG Cyberster Trophy"
+    },
+    {
+      "url": "https://ev-database.org/car/1943/Lexus-UX-300e",
+      "text": "Lexus UX 300e"
+    },
+    {
+      "url": "https://ev-database.org/car/3042/Audi-Q6-Sportback-e-tron-performance",
+      "text": "Audi Q6 Sportback e-tron performance"
+    },
+    {
+      "url": "https://ev-database.org/car/3261/Volkswagen-ID7-Tourer-GTX",
+      "text": "Volkswagen ID.7 Tourer GTX"
+    },
+    {
+      "url": "https://ev-database.org/car/3448/KGM-Musso-EV-4WD",
+      "text": "KGM Musso EV 4WD"
+    },
+    {
+      "url": "https://ev-database.org/car/1275/Fiat-500e-Cabrio-42-kWh",
+      "text": "Fiat 500e Cabrio 42 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/2050/Hongqi-E-HS9-120-kWh",
+      "text": "Hongqi E-HS9 120 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/2053/Smart-1-Premium",
+      "text": "Smart #1 Premium"
+    },
+    {
+      "url": "https://ev-database.org/car/2273/Audi-S6-Avant-e-tron",
+      "text": "Audi S6 Avant e-tron"
+    },
+    {
+      "url": "https://ev-database.org/car/3374/Skoda-Enyaq-85x",
+      "text": "Skoda Enyaq 85x"
+    },
+    {
+      "url": "https://ev-database.org/car/1076/Tesla-Model-X-P100D",
+      "text": "Tesla Model X P100D"
+    },
+    {
+      "url": "https://ev-database.org/car/1654/Polestar-2-Standard-Range-Single-Motor",
+      "text": "Polestar 2 Standard Range Single Motor"
+    },
+    {
+      "url": "https://ev-database.org/car/1752/NIO-ET7-Long-Range",
+      "text": "NIO ET7 Long Range"
+    },
+    {
+      "url": "https://ev-database.org/car/2015/Audi-Q4-e-tron-55-quattro",
+      "text": "Audi Q4 e-tron 55 quattro"
+    },
+    {
+      "url": "https://ev-database.org/car/2047/Mercedes-Benz-EQE-SUV-350-4MATIC",
+      "text": "Mercedes-Benz EQE SUV 350 4MATIC"
+    },
+    {
+      "url": "https://ev-database.org/car/2281/Audi-Q6-SUV-e-tron",
+      "text": "Audi Q6 SUV e-tron"
+    },
+    {
+      "url": "https://ev-database.org/car/3160/Volvo-EX40-Twin-Motor",
+      "text": "Volvo EX40 Twin Motor"
+    },
+    {
+      "url": "https://ev-database.org/car/3242/Mercedes-Benz-EQE-500-4MATIC",
+      "text": "Mercedes-Benz EQE 500 4MATIC"
+    },
+    {
+      "url": "https://ev-database.org/car/1948/Peugeot-e-208-50-kWh",
+      "text": "Peugeot e-208 50 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/2167/Ford-Explorer-Standard-Range-RWD",
+      "text": "Ford Explorer Standard Range RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3497/Volkswagen-ID4-Pro-4MOTION",
+      "text": "Volkswagen ID.4 Pro 4MOTION"
+    },
+    {
+      "url": "https://ev-database.org/car/1238/Porsche-Taycan-4S-Plus",
+      "text": "Porsche Taycan 4S Plus"
+    },
+    {
+      "url": "https://ev-database.org/car/1242/Ford-Mustang-Mach-E-SR-RWD",
+      "text": "Ford Mustang Mach-E SR RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1798/Volvo-XC40-Recharge-Twin-Motor",
+      "text": "Volvo XC40 Recharge Twin Motor"
+    },
+    {
+      "url": "https://ev-database.org/car/1838/BMW-i7-M70-xDrive",
+      "text": "BMW i7 M70 xDrive"
+    },
+    {
+      "url": "https://ev-database.org/car/2019/Skoda-Enyaq-60",
+      "text": "Skoda Enyaq 60"
+    },
+    {
+      "url": "https://ev-database.org/car/1011/Nissan-LEAF-24-kWh",
+      "text": "Nissan LEAF 24 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1820/Polestar-2-Long-Range-Performance",
+      "text": "Polestar 2 Long Range Performance"
+    },
+    {
+      "url": "https://ev-database.org/car/1986/Mercedes-Benz-EQA-300-4MATIC",
+      "text": "Mercedes-Benz EQA 300 4MATIC"
+    },
+    {
+      "url": "https://ev-database.org/car/2090/Mercedes-Benz-EQS-SUV-580-4MATIC",
+      "text": "Mercedes-Benz EQS SUV 580 4MATIC"
+    },
+    {
+      "url": "https://ev-database.org/car/2221/Audi-RS-e-tron-GT-performance",
+      "text": "Audi RS e-tron GT performance"
+    },
+    {
+      "url": "https://ev-database.org/car/3190/Ford-Mustang-Mach-E-GT",
+      "text": "Ford Mustang Mach-E GT"
+    },
+    {
+      "url": "https://ev-database.org/car/3455/Ford-Explorer-Extended-Range-AWD",
+      "text": "Ford Explorer Extended Range AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1012/Kia-Soul-EV",
+      "text": "Kia Soul EV"
+    },
+    {
+      "url": "https://ev-database.org/car/1746/Hongqi-E-HS9-84-kWh",
+      "text": "Hongqi E-HS9 84 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/2092/GWM-ORA-03-63-kWh",
+      "text": "GWM ORA 03 63 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3065/Skywell-BE11-Long-Range",
+      "text": "Skywell BE11 Long Range"
+    },
+    {
+      "url": "https://ev-database.org/car/3252/Volkswagen-ID4-GTX",
+      "text": "Volkswagen ID.4 GTX"
+    },
+    {
+      "url": "https://ev-database.org/car/1240/Mercedes-Benz-EQV-300-Long",
+      "text": "Mercedes-Benz EQV 300 Long"
+    },
+    {
+      "url": "https://ev-database.org/car/1475/MG-Marvel-R-Performance",
+      "text": "MG Marvel R Performance"
+    },
+    {
+      "url": "https://ev-database.org/car/1699/Mercedes-Benz-EQS-450-4MATIC",
+      "text": "Mercedes-Benz EQS 450 4MATIC"
+    },
+    {
+      "url": "https://ev-database.org/car/1946/Peugeot-e-2008-50-kWh",
+      "text": "Peugeot e-2008 50 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3144/Smart-5-Pulse",
+      "text": "Smart #5 Pulse"
+    },
+    {
+      "url": "https://ev-database.org/car/3244/MG-IM5-Standard-Range",
+      "text": "MG IM5 Standard Range"
+    },
+    {
+      "url": "https://ev-database.org/car/1126/Hyundai-Kona-Electric-64-kWh",
+      "text": "Hyundai Kona Electric 64 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/2017/Audi-Q4-Sportback-e-tron-45-quattro",
+      "text": "Audi Q4 Sportback e-tron 45 quattro"
+    },
+    {
+      "url": "https://ev-database.org/car/2110/Porsche-Taycan-4-Cross-Turismo",
+      "text": "Porsche Taycan 4 Cross Turismo"
+    },
+    {
+      "url": "https://ev-database.org/car/2200/BMW-i4-xDrive40",
+      "text": "BMW i4 xDrive40"
+    },
+    {
+      "url": "https://ev-database.org/car/3375/Skoda-Enyaq-RS",
+      "text": "Skoda Enyaq RS"
+    },
+    {
+      "url": "https://ev-database.org/car/3493/Lexus-ES-500e-DIRECT-4",
+      "text": "Lexus ES 500e DIRECT 4"
+    },
+    {
+      "url": "https://ev-database.org/car/3557/BMW-i7-60-xDrive",
+      "text": "BMW i7 60 xDrive"
+    },
+    {
+      "url": "https://ev-database.org/car/1589/SsangYong-Korando-e-Motion",
+      "text": "SsangYong Korando e-Motion"
+    },
+    {
+      "url": "https://ev-database.org/car/1647/Genesis-GV60-Premium",
+      "text": "Genesis GV60 Premium"
+    },
+    {
+      "url": "https://ev-database.org/car/1664/Mercedes-Benz-EQB-250",
+      "text": "Mercedes-Benz EQB 250"
+    },
+    {
+      "url": "https://ev-database.org/car/3222/Peugeot-e-208-50-kWh",
+      "text": "Peugeot e-208 50 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1028/Peugeot-iOn",
+      "text": "Peugeot iOn"
+    },
+    {
+      "url": "https://ev-database.org/car/1356/Audi-e-tron-Sportback-55-quattro",
+      "text": "Audi e-tron Sportback 55 quattro"
+    },
+    {
+      "url": "https://ev-database.org/car/1544/Opel-Combo-e-Life-50-kWh",
+      "text": "Opel Combo-e Life 50 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/2026/Skoda-Enyaq-Coupe-RS",
+      "text": "Skoda Enyaq Coupe RS"
+    },
+    {
+      "url": "https://ev-database.org/car/2127/Dacia-Spring-Electric-65",
+      "text": "Dacia Spring Electric 65"
+    },
+    {
+      "url": "https://ev-database.org/car/3291/Lucid-Gravity-Touring",
+      "text": "Lucid Gravity Touring"
+    },
+    {
+      "url": "https://ev-database.org/car/2024/Skoda-Enyaq-Coupe-85",
+      "text": "Skoda Enyaq Coupe 85"
+    },
+    {
+      "url": "https://ev-database.org/car/2219/Audi-S-e-tron-GT",
+      "text": "Audi S e-tron GT"
+    },
+    {
+      "url": "https://ev-database.org/car/3299/Polestar-5-Performance",
+      "text": "Polestar 5 Performance"
+    },
+    {
+      "url": "https://ev-database.org/car/3572/Skoda-Enyaq-RS",
+      "text": "Skoda Enyaq RS"
+    },
+    {
+      "url": "https://ev-database.org/car/2153/Volkswagen-ID3-GTX-Performance",
+      "text": "Volkswagen ID.3 GTX Performance"
+    },
+    {
+      "url": "https://ev-database.org/car/1410/JAC-iEV7s",
+      "text": "JAC iEV7s"
+    },
+    {
+      "url": "https://ev-database.org/car/1843/Maserati-Grecale-Folgore",
+      "text": "Maserati Grecale Folgore"
+    },
+    {
+      "url": "https://ev-database.org/car/3049/Citroen-e-C4-X",
+      "text": "Citroen e-C4 X"
+    },
+    {
+      "url": "https://ev-database.org/car/3100/Skoda-Enyaq-Coupe-85",
+      "text": "Skoda Enyaq Coupe 85"
+    },
+    {
+      "url": "https://ev-database.org/car/3286/Mercedes-Benz-EQE-SUV-500-4MATIC",
+      "text": "Mercedes-Benz EQE SUV 500 4MATIC"
+    },
+    {
+      "url": "https://ev-database.org/car/2147/Audi-SQ6-SUV-e-tron",
+      "text": "Audi SQ6 SUV e-tron"
+    },
+    {
+      "url": "https://ev-database.org/car/3481/Volvo-EX30-P8-AWD",
+      "text": "Volvo EX30 P8 AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1094/Citroen-C-Zero",
+      "text": "Citroen C-Zero"
+    },
+    {
+      "url": "https://ev-database.org/car/1646/MG-MG5-Electric-Standard-Range",
+      "text": "MG MG5 Electric Standard Range"
+    },
+    {
+      "url": "https://ev-database.org/car/3217/Lotus-Eletre-900",
+      "text": "Lotus Eletre 900"
+    },
+    {
+      "url": "https://ev-database.org/car/3262/CUPRA-Born-150-kW---59-kWh",
+      "text": "CUPRA Born 150 kW - 59 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1678/Aiways-U5",
+      "text": "Aiways U5"
+    },
+    {
+      "url": "https://ev-database.org/car/2037/Ford-Mustang-Mach-E-ER-AWD",
+      "text": "Ford Mustang Mach-E ER AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/2141/Lotus-Emeya",
+      "text": "Lotus Emeya"
+    },
+    {
+      "url": "https://ev-database.org/car/2155/Mercedes-Benz-EQS-350",
+      "text": "Mercedes-Benz EQS 350"
+    },
+    {
+      "url": "https://ev-database.org/car/2185/Alfa-Romeo-Junior-Elettrica-54-kWh-Veloce",
+      "text": "Alfa Romeo Junior Elettrica 54 kWh Veloce"
+    },
+    {
+      "url": "https://ev-database.org/car/1081/Volkswagen-e-Up",
+      "text": "Volkswagen e-Up!"
+    },
+    {
+      "url": "https://ev-database.org/car/1096/Mitsubishi-i-MiEV",
+      "text": "Mitsubishi i-MiEV"
+    },
+    {
+      "url": "https://ev-database.org/car/3258/Volkswagen-ID7-GTX",
+      "text": "Volkswagen ID.7 GTX"
+    },
+    {
+      "url": "https://ev-database.org/car/3379/Porsche-Macan-4-Electric",
+      "text": "Porsche Macan 4 Electric"
+    },
+    {
+      "url": "https://ev-database.org/car/1659/Audi-e-tron-S-Sportback",
+      "text": "Audi e-tron S Sportback"
+    },
+    {
+      "url": "https://ev-database.org/car/1897/Mercedes-Benz-EQE-300",
+      "text": "Mercedes-Benz EQE 300"
+    },
+    {
+      "url": "https://ev-database.org/car/2068/Renault-Scenic-E-Tech-EV60-170hp",
+      "text": "Renault Scenic E-Tech EV60 170hp"
+    },
+    {
+      "url": "https://ev-database.org/car/2195/Mercedes-Benz-EQS-500-4MATIC",
+      "text": "Mercedes-Benz EQS 500 4MATIC"
+    },
+    {
+      "url": "https://ev-database.org/car/2226/Polestar-2-Long-Range-Single-Motor",
+      "text": "Polestar 2 Long Range Single Motor"
+    },
+    {
+      "url": "https://ev-database.org/car/3307/Opel-Mokka-Electric-GSE",
+      "text": "Opel Mokka Electric GSE"
+    },
+    {
+      "url": "https://ev-database.org/car/3314/Volkswagen-e-Transporter-Kombi-L2-210-kW-64-kWh",
+      "text": "Volkswagen e-Transporter Kombi L2 210 kW 64 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3608/CUPRA-Tavascan-140-kW---58-kWh",
+      "text": "CUPRA Tavascan 140 kW - 58 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1655/Volvo-C40-Recharge-Pure-Electric",
+      "text": "Volvo C40 Recharge Pure Electric"
+    },
+    {
+      "url": "https://ev-database.org/car/2041/Smart-1-Pro",
+      "text": "Smart #1 Pro"
+    },
+    {
+      "url": "https://ev-database.org/car/2101/Porsche-Taycan-4S-Plus",
+      "text": "Porsche Taycan 4S Plus"
+    },
+    {
+      "url": "https://ev-database.org/car/3431/XPENG-P7plus-RWD-Standard-Range",
+      "text": "XPENG P7+ RWD Standard Range"
+    },
+    {
+      "url": "https://ev-database.org/car/1247/Audi-e-tron-Sportback-50-quattro",
+      "text": "Audi e-tron Sportback 50 quattro"
+    },
+    {
+      "url": "https://ev-database.org/car/1711/Fisker-Ocean-Extreme",
+      "text": "Fisker Ocean Extreme"
+    },
+    {
+      "url": "https://ev-database.org/car/1941/Opel-Corsa-Electric-50-kWh",
+      "text": "Opel Corsa Electric 50 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3145/Smart-5-Summit-Edition",
+      "text": "Smart #5 Summit Edition"
+    },
+    {
+      "url": "https://ev-database.org/car/3568/Skoda-Elroq-RS",
+      "text": "Skoda Elroq RS"
+    },
+    {
+      "url": "https://ev-database.org/car/3586/Zeekr-X-Privilege-AWD",
+      "text": "Zeekr X Privilege AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1660/Audi-e-tron-50-quattro",
+      "text": "Audi e-tron 50 quattro"
+    },
+    {
+      "url": "https://ev-database.org/car/3059/Mini-Aceman-JCW",
+      "text": "Mini Aceman JCW"
+    },
+    {
+      "url": "https://ev-database.org/car/3320/Volkswagen-e-Caravelle-L2-210-kW-64-kWh",
+      "text": "Volkswagen e-Caravelle L2 210 kW 64 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3575/Skoda-Enyaq-Coupe-85x",
+      "text": "Skoda Enyaq Coupe 85x"
+    },
+    {
+      "url": "https://ev-database.org/car/1480/Kia-EV6-Standard-Range-2WD",
+      "text": "Kia EV6 Standard Range 2WD"
+    },
+    {
+      "url": "https://ev-database.org/car/3098/Skoda-Enyaq-85x",
+      "text": "Skoda Enyaq 85x"
+    },
+    {
+      "url": "https://ev-database.org/car/1588/Renault-Megane-E-Tech-EV60-130hp",
+      "text": "Renault Megane E-Tech EV60 130hp"
+    },
+    {
+      "url": "https://ev-database.org/car/1658/Audi-e-tron-S",
+      "text": "Audi e-tron S"
+    },
+    {
+      "url": "https://ev-database.org/car/3598/Volkswagen-ID7-59-kWh",
+      "text": "Volkswagen ID.7 59 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1077/Renault-Zoe-R90",
+      "text": "Renault Zoe R90"
+    },
+    {
+      "url": "https://ev-database.org/car/1819/Polestar-2-Long-Range-Dual-Motor",
+      "text": "Polestar 2 Long Range Dual Motor"
+    },
+    {
+      "url": "https://ev-database.org/car/2008/Mercedes-Benz-EQS-450plus",
+      "text": "Mercedes-Benz EQS 450+"
+    },
+    {
+      "url": "https://ev-database.org/car/2114/BMW-i5-eDrive40-Touring",
+      "text": "BMW i5 eDrive40 Touring"
+    },
+    {
+      "url": "https://ev-database.org/car/2117/Lancia-Ypsilon",
+      "text": "Lancia Ypsilon"
+    },
+    {
+      "url": "https://ev-database.org/car/1278/Opel-Mokka-e",
+      "text": "Opel Mokka-e"
+    },
+    {
+      "url": "https://ev-database.org/car/1698/Mercedes-Benz-EQA-250plus",
+      "text": "Mercedes-Benz EQA 250+"
+    },
+    {
+      "url": "https://ev-database.org/car/1999/Smart-3-Proplus",
+      "text": "Smart #3 Pro+"
+    },
+    {
+      "url": "https://ev-database.org/car/2229/Polestar-3-Long-Range-Single-motor",
+      "text": "Polestar 3 Long Range Single motor"
+    },
+    {
+      "url": "https://ev-database.org/car/3153/Polestar-2-Long-Range-Performance",
+      "text": "Polestar 2 Long Range Performance"
+    },
+    {
+      "url": "https://ev-database.org/car/3322/Peugeot-e-308-SW-58-kWh",
+      "text": "Peugeot e-308 SW 58 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3630/Volkswagen-ID-Buzz-NWB-Pure",
+      "text": "Volkswagen ID. Buzz NWB Pure"
+    },
+    {
+      "url": "https://ev-database.org/car/1229/Porsche-Taycan-Turbo",
+      "text": "Porsche Taycan Turbo"
+    },
+    {
+      "url": "https://ev-database.org/car/1833/Kia-EV9-761-kWh-RWD",
+      "text": "Kia EV9 76.1 kWh RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1939/Citroen-e-C4-X-54-kWh",
+      "text": "Citroen e-C4 X 54 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/2264/Toyota-Proace-Verso-M-50-kWh",
+      "text": "Toyota Proace Verso M 50 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3267/Cadillac-VISTIQ-900-E4",
+      "text": "Cadillac VISTIQ 900 E4"
+    },
+    {
+      "url": "https://ev-database.org/car/3451/Opel-Astra-Sports-Tourer-Electric-58-kWh",
+      "text": "Opel Astra Sports Tourer Electric 58 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1072/Tesla-Model-S-60",
+      "text": "Tesla Model S 60"
+    },
+    {
+      "url": "https://ev-database.org/car/1495/Mercedes-Benz-EQA-300-4MATIC",
+      "text": "Mercedes-Benz EQA 300 4MATIC"
+    },
+    {
+      "url": "https://ev-database.org/car/2033/Volkswagen-ID5-GTX",
+      "text": "Volkswagen ID.5 GTX"
+    },
+    {
+      "url": "https://ev-database.org/car/2093/GWM-ORA-03-GT",
+      "text": "GWM ORA 03 GT"
+    },
+    {
+      "url": "https://ev-database.org/car/2165/Toyota-Proace-City-Verso-L1-50-kWh",
+      "text": "Toyota Proace City Verso L1 50 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3208/Toyota-Urban-Cruiser-488-kWh",
+      "text": "Toyota Urban Cruiser 48.8 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1207/Tesla-Model-S-Performance",
+      "text": "Tesla Model S Performance"
+    },
+    {
+      "url": "https://ev-database.org/car/1530/Volkswagen-ID3-Pure-Performance",
+      "text": "Volkswagen ID.3 Pure Performance"
+    },
+    {
+      "url": "https://ev-database.org/car/1616/Mercedes-Benz-eVito-Tourer-Extra-Long-90-kWh",
+      "text": "Mercedes-Benz eVito Tourer Extra-Long 90 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/2268/Alpine-A290-Electric-180-hp",
+      "text": "Alpine A290 Electric 180 hp"
+    },
+    {
+      "url": "https://ev-database.org/car/3640/JAC-E30X-41-kWh",
+      "text": "JAC E30X 41 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1421/Volvo-C40-Recharge-Twin-Pure-Electric",
+      "text": "Volvo C40 Recharge Twin Pure Electric"
+    },
+    {
+      "url": "https://ev-database.org/car/1560/Porsche-Taycan-GTS",
+      "text": "Porsche Taycan GTS"
+    },
+    {
+      "url": "https://ev-database.org/car/1824/XPENG-G9-RWD-Standard-Range",
+      "text": "XPENG G9 RWD Standard Range"
+    },
+    {
+      "url": "https://ev-database.org/car/2051/Opel-Mokka-e-54-kWh",
+      "text": "Opel Mokka-e 54 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1253/Audi-e-tron-55-quattro",
+      "text": "Audi e-tron 55 quattro"
+    },
+    {
+      "url": "https://ev-database.org/car/1486/Polestar-2-Standard-Range-Single-Motor",
+      "text": "Polestar 2 Standard Range Single Motor"
+    },
+    {
+      "url": "https://ev-database.org/car/3457/Mini-Countryman-SE-ALL4",
+      "text": "Mini Countryman SE ALL4"
+    },
+    {
+      "url": "https://ev-database.org/car/3498/Volkswagen-ID4-GTX",
+      "text": "Volkswagen ID.4 GTX"
+    },
+    {
+      "url": "https://ev-database.org/car/1557/Volkswagen-ID5-Pro-Performance",
+      "text": "Volkswagen ID.5 Pro Performance"
+    },
+    {
+      "url": "https://ev-database.org/car/1615/Mercedes-Benz-eVito-Tourer-Long-90-kWh",
+      "text": "Mercedes-Benz eVito Tourer Long 90 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/2280/Ford-Mustang-Mach-E-GT",
+      "text": "Ford Mustang Mach-E GT"
+    },
+    {
+      "url": "https://ev-database.org/car/3155/Volvo-EC40-Single-Motor-ER",
+      "text": "Volvo EC40 Single Motor ER"
+    },
+    {
+      "url": "https://ev-database.org/car/3464/Maserati-Grecale-Folgore",
+      "text": "Maserati Grecale Folgore"
+    },
+    {
+      "url": "https://ev-database.org/car/3590/Audi-Q4-e-tron-quattro-performance",
+      "text": "Audi Q4 e-tron quattro performance"
+    },
+    {
+      "url": "https://ev-database.org/car/3623/DS-Automobiles-N7-FWD",
+      "text": "DS Automobiles N°7 FWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1029/Mitsubishi-i-MiEV",
+      "text": "Mitsubishi i-MiEV"
+    },
+    {
+      "url": "https://ev-database.org/car/1904/Abarth-500e-Convertible",
+      "text": "Abarth 500e Convertible"
+    },
+    {
+      "url": "https://ev-database.org/car/3131/Renault-Megane-E-Tech-EV60-130hp",
+      "text": "Renault Megane E-Tech EV60 130hp"
+    },
+    {
+      "url": "https://ev-database.org/car/3162/Ford-e-Tourneo-Custom-L1-160-kW",
+      "text": "Ford e-Tourneo Custom L1 160 kW"
+    },
+    {
+      "url": "https://ev-database.org/car/3189/Ford-Mustang-Mach-E-ER-AWD",
+      "text": "Ford Mustang Mach-E ER AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3196/Kia-EV9-998-kWh-AWD-GT",
+      "text": "Kia EV9 99.8 kWh AWD GT"
+    },
+    {
+      "url": "https://ev-database.org/car/1095/Peugeot-iOn",
+      "text": "Peugeot iOn"
+    },
+    {
+      "url": "https://ev-database.org/car/1064/Tesla-Model-S-P90D",
+      "text": "Tesla Model S P90D"
+    },
+    {
+      "url": "https://ev-database.org/car/1822/XPENG-P7-AWD-Performance",
+      "text": "XPENG P7 AWD Performance"
+    },
+    {
+      "url": "https://ev-database.org/car/2216/Volkswagen-ID7-GTX",
+      "text": "Volkswagen ID.7 GTX"
+    },
+    {
+      "url": "https://ev-database.org/car/1035/Tesla-Model-S-90D",
+      "text": "Tesla Model S 90D"
+    },
+    {
+      "url": "https://ev-database.org/car/1239/Hyundai-Kona-Electric-39-kWh",
+      "text": "Hyundai Kona Electric 39 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1328/Fiat-500e-3plus1-42-kWh",
+      "text": "Fiat 500e 3+1 42 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/2244/Porsche-Macan-4S-Electric",
+      "text": "Porsche Macan 4S Electric"
+    },
+    {
+      "url": "https://ev-database.org/car/3450/Opel-Astra-Electric-58-kWh",
+      "text": "Opel Astra Electric 58 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3461/BMW-iX2-xDrive30",
+      "text": "BMW iX2 xDrive30"
+    },
+    {
+      "url": "https://ev-database.org/car/3225/Lancia-Ypsilon-54-kWh-HF",
+      "text": "Lancia Ypsilon 54 kWh HF"
+    },
+    {
+      "url": "https://ev-database.org/car/3254/Volkswagen-ID5-Pro",
+      "text": "Volkswagen ID.5 Pro"
+    },
+    {
+      "url": "https://ev-database.org/car/3562/Porsche-Cayenne-Turbo-Coupe-Electric",
+      "text": "Porsche Cayenne Turbo Coupe Electric"
+    },
+    {
+      "url": "https://ev-database.org/car/1753/Ford-Mustang-Mach-E-SR-RWD",
+      "text": "Ford Mustang Mach-E SR RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1935/Zeekr-001-Privilege-AWD",
+      "text": "Zeekr 001 Privilege AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/2194/Mercedes-Benz-EQS-450-4MATIC",
+      "text": "Mercedes-Benz EQS 450 4MATIC"
+    },
+    {
+      "url": "https://ev-database.org/car/3517/BYD-SEAL-614-kWh-RWD-Comfort",
+      "text": "BYD SEAL 61.4 kWh RWD Comfort"
+    },
+    {
+      "url": "https://ev-database.org/car/1030/Tesla-Model-S-70",
+      "text": "Tesla Model S 70"
+    },
+    {
+      "url": "https://ev-database.org/car/1339/Kia-e-Niro-39-kWh",
+      "text": "Kia e-Niro 39 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1921/NIO-EL6-Standard-Range",
+      "text": "NIO EL6 Standard Range"
+    },
+    {
+      "url": "https://ev-database.org/car/2245/GWM-ORA-07-Pure",
+      "text": "GWM ORA 07 Pure"
+    },
+    {
+      "url": "https://ev-database.org/car/3130/Volvo-ES90-Twin-Motor-Performance",
+      "text": "Volvo ES90 Twin Motor Performance"
+    },
+    {
+      "url": "https://ev-database.org/car/3372/Skoda-Elroq-85x",
+      "text": "Skoda Elroq 85x"
+    },
+    {
+      "url": "https://ev-database.org/car/1193/Tesla-Model-S-Standard-Range",
+      "text": "Tesla Model S Standard Range"
+    },
+    {
+      "url": "https://ev-database.org/car/1817/Polestar-2-Standard-Range-Single-Motor",
+      "text": "Polestar 2 Standard Range Single Motor"
+    },
+    {
+      "url": "https://ev-database.org/car/3074/Nissan-Ariya-e-4ORCE-87kWh---320-kW-Nismo",
+      "text": "Nissan Ariya e-4ORCE 87kWh - 320 kW Nismo"
+    },
+    {
+      "url": "https://ev-database.org/car/3136/Voyah-Courage-80-kWh-RWD",
+      "text": "Voyah Courage 80 kWh RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1027/Citroen-C-Zero",
+      "text": "Citroen C-Zero"
+    },
+    {
+      "url": "https://ev-database.org/car/1078/Renault-Zoe-Q90",
+      "text": "Renault Zoe Q90"
+    },
+    {
+      "url": "https://ev-database.org/car/1306/Volkswagen-ID3-Pro-Performance",
+      "text": "Volkswagen ID.3 Pro Performance"
+    },
+    {
+      "url": "https://ev-database.org/car/1582/DS-Automobiles-DS-3-Crossback-E-Tense",
+      "text": "DS Automobiles DS 3 Crossback E-Tense"
+    },
+    {
+      "url": "https://ev-database.org/car/2271/Audi-S6-Sportback-e-tron",
+      "text": "Audi S6 Sportback e-tron"
+    },
+    {
+      "url": "https://ev-database.org/car/3158/Volvo-EX40-Single-Motor",
+      "text": "Volvo EX40 Single Motor"
+    },
+    {
+      "url": "https://ev-database.org/car/3272/Lucid-Air-Touring",
+      "text": "Lucid Air Touring"
+    },
+    {
+      "url": "https://ev-database.org/car/3373/Skoda-Elroq-RS",
+      "text": "Skoda Elroq RS"
+    },
+    {
+      "url": "https://ev-database.org/car/1923/Porsche-Taycan",
+      "text": "Porsche Taycan"
+    },
+    {
+      "url": "https://ev-database.org/car/3237/Genesis-GV70-Electrified",
+      "text": "Genesis GV70 Electrified"
+    },
+    {
+      "url": "https://ev-database.org/car/3380/Porsche-Macan-4S-Electric",
+      "text": "Porsche Macan 4S Electric"
+    },
+    {
+      "url": "https://ev-database.org/car/1675/Mercedes-Benz-EQS-SUV-580-4MATIC",
+      "text": "Mercedes-Benz EQS SUV 580 4MATIC"
+    },
+    {
+      "url": "https://ev-database.org/car/1756/Ford-Mustang-Mach-E-ER-AWD",
+      "text": "Ford Mustang Mach-E ER AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1759/Polestar-3-Long-Range-Performance",
+      "text": "Polestar 3 Long Range Performance"
+    },
+    {
+      "url": "https://ev-database.org/car/1781/ORA-Funky-Cat-48-kWh",
+      "text": "ORA Funky Cat 48 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1799/Volvo-C40-Recharge-Single-Motor",
+      "text": "Volvo C40 Recharge Single Motor"
+    },
+    {
+      "url": "https://ev-database.org/car/3105/Ford-Explorer-Extended-Range-RWD",
+      "text": "Ford Explorer Extended Range RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3113/BMW-i5-xDrive40-Sedan",
+      "text": "BMW i5 xDrive40 Sedan"
+    },
+    {
+      "url": "https://ev-database.org/car/3121/Kia-EV4-Fastback-583-kWh",
+      "text": "Kia EV4 Fastback 58.3 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3285/Mercedes-Benz-EQE-SUV-350-4MATIC",
+      "text": "Mercedes-Benz EQE SUV 350 4MATIC"
+    },
+    {
+      "url": "https://ev-database.org/car/3304/TOGG-T10F-Standard-Range-RWD",
+      "text": "TOGG T10F Standard Range RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/2111/Porsche-Taycan-4S-Cross-Turismo",
+      "text": "Porsche Taycan 4S Cross Turismo"
+    },
+    {
+      "url": "https://ev-database.org/car/2227/Polestar-2-Long-Range-Dual-Motor",
+      "text": "Polestar 2 Long Range Dual Motor"
+    },
+    {
+      "url": "https://ev-database.org/car/3161/Volvo-EX40-Twin-Motor-Performance",
+      "text": "Volvo EX40 Twin Motor Performance"
+    },
+    {
+      "url": "https://ev-database.org/car/3234/Genesis-GV60-Pure",
+      "text": "Genesis GV60 Pure"
+    },
+    {
+      "url": "https://ev-database.org/car/1517/CUPRA-Born-170-kW---58-kWh",
+      "text": "CUPRA Born 170 kW - 58 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3027/Lexus-RZ-300e",
+      "text": "Lexus RZ 300e"
+    },
+    {
+      "url": "https://ev-database.org/car/3310/Volkswagen-e-Transporter-Kombi-L1-160-kW-64-kWh",
+      "text": "Volkswagen e-Transporter Kombi L1 160 kW 64 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3377/Skoda-Enyaq-Coupe-RS",
+      "text": "Skoda Enyaq Coupe RS"
+    },
+    {
+      "url": "https://ev-database.org/car/3381/Porsche-Macan-GTS-Electric",
+      "text": "Porsche Macan GTS Electric"
+    },
+    {
+      "url": "https://ev-database.org/car/3486/Porsche-Cayenne-S-Electric",
+      "text": "Porsche Cayenne S Electric"
+    },
+    {
+      "url": "https://ev-database.org/car/1528/Audi-Q4-Sportback-e-tron-40",
+      "text": "Audi Q4 Sportback e-tron 40"
+    },
+    {
+      "url": "https://ev-database.org/car/1789/NIO-EL7-Long-Range",
+      "text": "NIO EL7 Long Range"
+    },
+    {
+      "url": "https://ev-database.org/car/2102/Porsche-Taycan-Turbo",
+      "text": "Porsche Taycan Turbo"
+    },
+    {
+      "url": "https://ev-database.org/car/3185/Skoda-Enyaq-Coupe-RS",
+      "text": "Skoda Enyaq Coupe RS"
+    },
+    {
+      "url": "https://ev-database.org/car/3264/Hongqi-E-HS7-111-kWh-Long-Range",
+      "text": "Hongqi E-HS7 111 kWh Long Range"
+    },
+    {
+      "url": "https://ev-database.org/car/3503/Audi-Q4-e-tron-55-quattro",
+      "text": "Audi Q4 e-tron 55 quattro"
+    },
+    {
+      "url": "https://ev-database.org/car/3576/Skoda-Enyaq-Coupe-RS",
+      "text": "Skoda Enyaq Coupe RS"
+    },
+    {
+      "url": "https://ev-database.org/car/1073/Tesla-Model-S-60D",
+      "text": "Tesla Model S 60D"
+    },
+    {
+      "url": "https://ev-database.org/car/1762/Mercedes-Benz-EQE-SUV-500-4MATIC",
+      "text": "Mercedes-Benz EQE SUV 500 4MATIC"
+    },
+    {
+      "url": "https://ev-database.org/car/1823/XPENG-P7-Wing-Edition",
+      "text": "XPENG P7 Wing Edition"
+    },
+    {
+      "url": "https://ev-database.org/car/1901/Mercedes-Benz-EQE-AMG-43-4MATIC",
+      "text": "Mercedes-Benz EQE AMG 43 4MATIC"
+    },
+    {
+      "url": "https://ev-database.org/car/1936/Zeekr-X-Long-Range-RWD",
+      "text": "Zeekr X Long Range RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/2116/Lucid-Air-Pure-RWD",
+      "text": "Lucid Air Pure RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/2156/Volkswagen-ID-Buzz-NWB-GTX",
+      "text": "Volkswagen ID. Buzz NWB GTX"
+    },
+    {
+      "url": "https://ev-database.org/car/2197/Mercedes-Benz-EQS-AMG-53-4MATICplus",
+      "text": "Mercedes-Benz EQS AMG 53 4MATIC+"
+    },
+    {
+      "url": "https://ev-database.org/car/2217/Smart-1-Pure",
+      "text": "Smart #1 Pure"
+    },
+    {
+      "url": "https://ev-database.org/car/3141/Smart-5-Pro",
+      "text": "Smart #5 Pro"
+    },
+    {
+      "url": "https://ev-database.org/car/3325/Volvo-EX90-Twin-Motor-Performance",
+      "text": "Volvo EX90 Twin Motor Performance"
+    },
+    {
+      "url": "https://ev-database.org/car/1061/Tesla-Model-S-70",
+      "text": "Tesla Model S 70"
+    },
+    {
+      "url": "https://ev-database.org/car/1154/Kia-e-Soul-64-kWh",
+      "text": "Kia e-Soul 64 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1394/Porsche-Taycan-Plus",
+      "text": "Porsche Taycan Plus"
+    },
+    {
+      "url": "https://ev-database.org/car/1713/Mercedes-Benz-EQE-300",
+      "text": "Mercedes-Benz EQE 300"
+    },
+    {
+      "url": "https://ev-database.org/car/1899/Mercedes-Benz-EQE-350-4MATIC",
+      "text": "Mercedes-Benz EQE 350 4MATIC"
+    },
+    {
+      "url": "https://ev-database.org/car/2022/Skoda-Enyaq-RS",
+      "text": "Skoda Enyaq RS"
+    },
+    {
+      "url": "https://ev-database.org/car/3215/Lotus-Emeya-900",
+      "text": "Lotus Emeya 900"
+    },
+    {
+      "url": "https://ev-database.org/car/3224/Lancia-Ypsilon-54-kWh",
+      "text": "Lancia Ypsilon 54 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3255/Volkswagen-ID5-GTX",
+      "text": "Volkswagen ID.5 GTX"
+    },
+    {
+      "url": "https://ev-database.org/car/3591/Audi-Q4-Sportback-e-tron",
+      "text": "Audi Q4 Sportback e-tron"
+    },
+    {
+      "url": "https://ev-database.org/car/1778/Mercedes-Benz-EQB-250plus",
+      "text": "Mercedes-Benz EQB 250+"
+    },
+    {
+      "url": "https://ev-database.org/car/2014/Audi-Q4-e-tron-45-quattro",
+      "text": "Audi Q4 e-tron 45 quattro"
+    },
+    {
+      "url": "https://ev-database.org/car/2187/Maserati-GranCabrio-Folgore",
+      "text": "Maserati GranCabrio Folgore"
+    },
+    {
+      "url": "https://ev-database.org/car/3116/BMW-i5-xDrive40-Touring",
+      "text": "BMW i5 xDrive40 Touring"
+    },
+    {
+      "url": "https://ev-database.org/car/3117/BMW-i5-M60-xDrive-Touring",
+      "text": "BMW i5 M60 xDrive Touring"
+    },
+    {
+      "url": "https://ev-database.org/car/1896/eGO-ewave-X",
+      "text": "e.GO e.wave X"
+    },
+    {
+      "url": "https://ev-database.org/car/2248/Audi-Q4-e-tron-35",
+      "text": "Audi Q4 e-tron 35"
+    },
+    {
+      "url": "https://ev-database.org/car/2250/Skoda-Enyaq-50",
+      "text": "Skoda Enyaq 50"
+    },
+    {
+      "url": "https://ev-database.org/car/1674/Mercedes-Benz-EQS-SUV-450-4MATIC",
+      "text": "Mercedes-Benz EQS SUV 450 4MATIC"
+    },
+    {
+      "url": "https://ev-database.org/car/1773/Audi-SQ8-SUV-e-tron",
+      "text": "Audi SQ8 SUV e-tron"
+    },
+    {
+      "url": "https://ev-database.org/car/1777/Polestar-2-Long-Range-Performance",
+      "text": "Polestar 2 Long Range Performance"
+    },
+    {
+      "url": "https://ev-database.org/car/1938/Citroen-e-C4-54-kWh",
+      "text": "Citroen e-C4 54 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/2119/Volkswagen-ID7-Tourer-Pro-S",
+      "text": "Volkswagen ID.7 Tourer Pro S"
+    },
+    {
+      "url": "https://ev-database.org/car/2240/Ford-Capri-Standard-Range-RWD",
+      "text": "Ford Capri Standard Range RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3084/Nissan-Townstar-EV-Passenger-L2",
+      "text": "Nissan Townstar EV Passenger L2"
+    },
+    {
+      "url": "https://ev-database.org/car/3641/JAC-E30X-515-kWh",
+      "text": "JAC E30X 51.5 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1520/Volvo-XC40-Recharge-Twin-Pure-Electric",
+      "text": "Volvo XC40 Recharge Twin Pure Electric"
+    },
+    {
+      "url": "https://ev-database.org/car/1908/Mercedes-Benz-EQT-200-Standard",
+      "text": "Mercedes-Benz EQT 200 Standard"
+    },
+    {
+      "url": "https://ev-database.org/car/3584/Zeekr-X-Core-RWD",
+      "text": "Zeekr X Core RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1437/Porsche-Taycan-4S-Cross-Turismo",
+      "text": "Porsche Taycan 4S Cross Turismo"
+    },
+    {
+      "url": "https://ev-database.org/car/2143/Lotus-Emeya-R",
+      "text": "Lotus Emeya R"
+    },
+    {
+      "url": "https://ev-database.org/car/2259/Peugeot-e-Traveller-L3-75-kWh",
+      "text": "Peugeot e-Traveller L3 75 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3200/DS-Automobiles-N4-E-Tense",
+      "text": "DS Automobiles N°4 E-Tense"
+    },
+    {
+      "url": "https://ev-database.org/car/3236/Genesis-GV60-Performance",
+      "text": "Genesis GV60 Performance"
+    },
+    {
+      "url": "https://ev-database.org/car/3465/Peugeot-e-408-58-kWh",
+      "text": "Peugeot e-408 58 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1593/Volvo-XC40-Recharge-Twin-Pure-Electric",
+      "text": "Volvo XC40 Recharge Twin Pure Electric"
+    },
+    {
+      "url": "https://ev-database.org/car/2140/Mercedes-Benz-eVito-Tourer-Long-90-kWh",
+      "text": "Mercedes-Benz eVito Tourer Long 90 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/2150/Peugeot-e-5008-73-kWh-Dual-Motor",
+      "text": "Peugeot e-5008 73 kWh Dual Motor"
+    },
+    {
+      "url": "https://ev-database.org/car/3323/Volvo-EX90-Single-Motor",
+      "text": "Volvo EX90 Single Motor"
+    },
+    {
+      "url": "https://ev-database.org/car/1357/Seres-3",
+      "text": "Seres 3"
+    },
+    {
+      "url": "https://ev-database.org/car/1631/Skoda-Enyaq-Coupe-iV-RS",
+      "text": "Skoda Enyaq Coupe iV RS"
+    },
+    {
+      "url": "https://ev-database.org/car/1745/Peugeot-e-308-SW",
+      "text": "Peugeot e-308 SW"
+    },
+    {
+      "url": "https://ev-database.org/car/2034/Ford-Mustang-Mach-E-SR-RWD",
+      "text": "Ford Mustang Mach-E SR RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/2089/Mercedes-Benz-EQS-SUV-500-4MATIC",
+      "text": "Mercedes-Benz EQS SUV 500 4MATIC"
+    },
+    {
+      "url": "https://ev-database.org/car/3594/Audi-Q4-Sportback-e-tron-quattro-performance",
+      "text": "Audi Q4 Sportback e-tron quattro performance"
+    },
+    {
+      "url": "https://ev-database.org/car/1318/Lucid-Air-Pure-AWD",
+      "text": "Lucid Air Pure AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1477/Hyundai-IONIQ-5-Standard-Range-AWD",
+      "text": "Hyundai IONIQ 5 Standard Range AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1669/Ford-Mustang-Mach-E-ER-RWD",
+      "text": "Ford Mustang Mach-E ER RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1768/Lotus-Eletre-R",
+      "text": "Lotus Eletre R"
+    },
+    {
+      "url": "https://ev-database.org/car/2123/Volvo-EC40-Single-Motor",
+      "text": "Volvo EC40 Single Motor"
+    },
+    {
+      "url": "https://ev-database.org/car/3165/Ford-e-Tourneo-Custom-L2-210-kW",
+      "text": "Ford e-Tourneo Custom L2 210 kW"
+    },
+    {
+      "url": "https://ev-database.org/car/3453/Ford-Capri-Extended-Range-AWD",
+      "text": "Ford Capri Extended Range AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1900/Mercedes-Benz-EQE-500-4MATIC",
+      "text": "Mercedes-Benz EQE 500 4MATIC"
+    },
+    {
+      "url": "https://ev-database.org/car/2016/Audi-Q4-Sportback-e-tron-45",
+      "text": "Audi Q4 Sportback e-tron 45"
+    },
+    {
+      "url": "https://ev-database.org/car/2266/Toyota-Proace-Verso-M-75-kWh",
+      "text": "Toyota Proace Verso M 75 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3266/Cadillac-LYRIQ-V",
+      "text": "Cadillac LYRIQ-V"
+    },
+    {
+      "url": "https://ev-database.org/car/3447/KGM-Musso-EV-2WD",
+      "text": "KGM Musso EV 2WD"
+    },
+    {
+      "url": "https://ev-database.org/car/1091/Smart-ForFour-Electric-Drive",
+      "text": "Smart ForFour Electric Drive"
+    },
+    {
+      "url": "https://ev-database.org/car/1148/DS-Automobiles-DS-3-Crossback-E-Tense",
+      "text": "DS Automobiles DS 3 Crossback E-Tense"
+    },
+    {
+      "url": "https://ev-database.org/car/1597/Citroen-e-Jumpy-Combi-M-75-kWh",
+      "text": "Citroen e-Jumpy Combi M 75 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1602/Opel-Vivaro-e-Combi-M-75-kWh",
+      "text": "Opel Vivaro-e Combi M 75 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1813/Dacia-Spring-Electric-65-Extreme",
+      "text": "Dacia Spring Electric 65 Extreme"
+    },
+    {
+      "url": "https://ev-database.org/car/1913/Volkswagen-ID5-Pro-Performance",
+      "text": "Volkswagen ID.5 Pro Performance"
+    },
+    {
+      "url": "https://ev-database.org/car/2160/Citroen-e-Berlingo-XL-50-kWh",
+      "text": "Citroen e-Berlingo XL 50 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3573/Skoda-Enyaq-Coupe-60",
+      "text": "Skoda Enyaq Coupe 60"
+    },
+    {
+      "url": "https://ev-database.org/car/1176/Tesla-Model-X-Ludicrous-Performance",
+      "text": "Tesla Model X Ludicrous Performance"
+    },
+    {
+      "url": "https://ev-database.org/car/1244/Ford-Mustang-Mach-E-SR-AWD",
+      "text": "Ford Mustang Mach-E SR AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3038/Opel-Grandland-Electric-82-kWh",
+      "text": "Opel Grandland Electric 82 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3043/Audi-Q6-Sportback-e-tron-quattro",
+      "text": "Audi Q6 Sportback e-tron quattro"
+    },
+    {
+      "url": "https://ev-database.org/car/3187/Ford-Mustang-Mach-E-SR-RWD",
+      "text": "Ford Mustang Mach-E SR RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1245/Ford-Mustang-Mach-E-ER-AWD",
+      "text": "Ford Mustang Mach-E ER AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3319/Volkswagen-e-Caravelle-L2-160-kW-64-kWh",
+      "text": "Volkswagen e-Caravelle L2 160 kW 64 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3445/Ford-Capri-Standard-Range-RWD",
+      "text": "Ford Capri Standard Range RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1054/Tesla-Model-X-P90D",
+      "text": "Tesla Model X P90D"
+    },
+    {
+      "url": "https://ev-database.org/car/1534/Volkswagen-ID3-Pro-S---5-Seats",
+      "text": "Volkswagen ID.3 Pro S - 5 Seats"
+    },
+    {
+      "url": "https://ev-database.org/car/2163/Peugeot-e-Rifter-M-50-kWh",
+      "text": "Peugeot e-Rifter M 50 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3044/Audi-SQ6-Sportback-e-tron",
+      "text": "Audi SQ6 Sportback e-tron"
+    },
+    {
+      "url": "https://ev-database.org/car/3328/Polestar-3-Performance",
+      "text": "Polestar 3 Performance"
+    },
+    {
+      "url": "https://ev-database.org/car/3425/Ford-e-Tourneo-Custom-L2-160-kW-AWD",
+      "text": "Ford e-Tourneo Custom L2 160 kW AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3635/Volkswagen-ID-Buzz-LWB-Pro-4MOTION",
+      "text": "Volkswagen ID. Buzz LWB Pro 4MOTION"
+    },
+    {
+      "url": "https://ev-database.org/car/1103/Peugeot-Partner-Tepee-Electric",
+      "text": "Peugeot Partner Tepee Electric"
+    },
+    {
+      "url": "https://ev-database.org/car/1199/Tesla-Model-X-Performance",
+      "text": "Tesla Model X Performance"
+    },
+    {
+      "url": "https://ev-database.org/car/1526/MG-MG5-EV-Long-Range",
+      "text": "MG MG5 EV Long Range"
+    },
+    {
+      "url": "https://ev-database.org/car/1915/NIO-ET5-Touring-Standard-Range",
+      "text": "NIO ET5 Touring Standard Range"
+    },
+    {
+      "url": "https://ev-database.org/car/2043/Renault-Kangoo-Grand-E-Tech-Electric",
+      "text": "Renault Kangoo Grand E-Tech Electric"
+    },
+    {
+      "url": "https://ev-database.org/car/3156/Volvo-EC40-Twin-Motor",
+      "text": "Volvo EC40 Twin Motor"
+    },
+    {
+      "url": "https://ev-database.org/car/3201/Opel-Grandland-Electric-73-kWh-AWD",
+      "text": "Opel Grandland Electric 73 kWh AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3256/Volkswagen-ID7-Pro",
+      "text": "Volkswagen ID.7 Pro"
+    },
+    {
+      "url": "https://ev-database.org/car/3593/Audi-Q4-Sportback-e-tron-quattro",
+      "text": "Audi Q4 Sportback e-tron quattro"
+    },
+    {
+      "url": "https://ev-database.org/car/1484/Mercedes-Benz-EQS-580-4MATIC",
+      "text": "Mercedes-Benz EQS 580 4MATIC"
+    },
+    {
+      "url": "https://ev-database.org/car/1614/Mercedes-Benz-eVito-Tourer-Extra-Long-41-kWh",
+      "text": "Mercedes-Benz eVito Tourer Extra-Long 41 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/2164/Peugeot-e-Rifter-XL-50-kWh",
+      "text": "Peugeot e-Rifter XL 50 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3561/Porsche-Cayenne-S-Coupe-Electric",
+      "text": "Porsche Cayenne S Coupe Electric"
+    },
+    {
+      "url": "https://ev-database.org/car/3589/Audi-Q4-e-tron-quattro",
+      "text": "Audi Q4 e-tron quattro"
+    },
+    {
+      "url": "https://ev-database.org/car/1062/Tesla-Model-S-70D",
+      "text": "Tesla Model S 70D"
+    },
+    {
+      "url": "https://ev-database.org/car/1672/Ford-Mustang-Mach-E-GT",
+      "text": "Ford Mustang Mach-E GT"
+    },
+    {
+      "url": "https://ev-database.org/car/2052/Smart-3-Pro",
+      "text": "Smart #3 Pro"
+    },
+    {
+      "url": "https://ev-database.org/car/3483/Volvo-EX30-Cross-Country-P8-AWD",
+      "text": "Volvo EX30 Cross Country P8 AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3636/Volkswagen-ID-Buzz-LWB-GTX",
+      "text": "Volkswagen ID. Buzz LWB GTX"
+    },
+    {
+      "url": "https://ev-database.org/car/1315/Mercedes-Benz-EQV-300-Extra-Long",
+      "text": "Mercedes-Benz EQV 300 Extra-Long"
+    },
+    {
+      "url": "https://ev-database.org/car/2096/BMW-i5-xDrive40-Sedan",
+      "text": "BMW i5 xDrive40 Sedan"
+    },
+    {
+      "url": "https://ev-database.org/car/2262/Opel-Zafira-Electric-75-kWh",
+      "text": "Opel Zafira Electric 75 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1129/Hyundai-Kona-Electric-39-kWh",
+      "text": "Hyundai Kona Electric 39 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1937/Zeekr-X-Privilege-AWD",
+      "text": "Zeekr X Privilege AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3149/Audi-Q4-Sportback-e-tron-40",
+      "text": "Audi Q4 Sportback e-tron 40"
+    },
+    {
+      "url": "https://ev-database.org/car/3184/Skoda-Enyaq-RS",
+      "text": "Skoda Enyaq RS"
+    },
+    {
+      "url": "https://ev-database.org/car/3243/Mercedes-Benz-EQE-AMG-53-4MATICplus",
+      "text": "Mercedes-Benz EQE AMG 53 4MATIC+"
+    },
+    {
+      "url": "https://ev-database.org/car/3284/Mercedes-Benz-EQE-SUV-350plus",
+      "text": "Mercedes-Benz EQE SUV 350+"
+    },
+    {
+      "url": "https://ev-database.org/car/1348/Opel-Zafira-e-Life-M-75-kWh",
+      "text": "Opel Zafira-e Life M 75 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1558/Volkswagen-ID5-GTX",
+      "text": "Volkswagen ID.5 GTX"
+    },
+    {
+      "url": "https://ev-database.org/car/1562/Mercedes-Benz-EQS-350",
+      "text": "Mercedes-Benz EQS 350"
+    },
+    {
+      "url": "https://ev-database.org/car/1725/Genesis-GV70-Electrified-Sport",
+      "text": "Genesis GV70 Electrified Sport"
+    },
+    {
+      "url": "https://ev-database.org/car/1757/Ford-Mustang-Mach-E-GT",
+      "text": "Ford Mustang Mach-E GT"
+    },
+    {
+      "url": "https://ev-database.org/car/1766/Aiways-U6",
+      "text": "Aiways U6"
+    },
+    {
+      "url": "https://ev-database.org/car/2025/Skoda-Enyaq-Coupe-85x",
+      "text": "Skoda Enyaq Coupe 85x"
+    },
+    {
+      "url": "https://ev-database.org/car/1286/Citroen-e-C4",
+      "text": "Citroen e-C4"
+    },
+    {
+      "url": "https://ev-database.org/car/1496/Mercedes-Benz-EQA-350-4MATIC",
+      "text": "Mercedes-Benz EQA 350 4MATIC"
+    },
+    {
+      "url": "https://ev-database.org/car/1763/Mercedes-Benz-EQE-SUV-AMG-43-4MATIC",
+      "text": "Mercedes-Benz EQE SUV AMG 43 4MATIC"
+    },
+    {
+      "url": "https://ev-database.org/car/1814/ORA-Funky-Cat-63-kWh",
+      "text": "ORA Funky Cat 63 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1902/Mercedes-Benz-EQE-AMG-53-4MATICplus",
+      "text": "Mercedes-Benz EQE AMG 53 4MATIC+"
+    },
+    {
+      "url": "https://ev-database.org/car/1975/Elaris-BEO-86-kWh",
+      "text": "Elaris BEO 86 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/2006/Mercedes-Benz-EQE-350plus",
+      "text": "Mercedes-Benz EQE 350+"
+    },
+    {
+      "url": "https://ev-database.org/car/2010/Mercedes-Benz-EQS-500-4MATIC",
+      "text": "Mercedes-Benz EQS 500 4MATIC"
+    },
+    {
+      "url": "https://ev-database.org/car/2018/Audi-Q4-Sportback-e-tron-55-quattro",
+      "text": "Audi Q4 Sportback e-tron 55 quattro"
+    },
+    {
+      "url": "https://ev-database.org/car/2254/Citroen-e-SpaceTourer-M-75-kWh",
+      "text": "Citroen e-SpaceTourer M 75 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1231/Smart-EQ-fortwo-cabrio",
+      "text": "Smart EQ fortwo cabrio"
+    },
+    {
+      "url": "https://ev-database.org/car/1608/Peugeot-e-Expert-Combi-Long-75-kWh",
+      "text": "Peugeot e-Expert Combi Long 75 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1665/Mercedes-Benz-EQA-250plus",
+      "text": "Mercedes-Benz EQA 250+"
+    },
+    {
+      "url": "https://ev-database.org/car/2204/Mercedes-Benz-EQE-300",
+      "text": "Mercedes-Benz EQE 300"
+    },
+    {
+      "url": "https://ev-database.org/car/3060/Porsche-Taycan-4",
+      "text": "Porsche Taycan 4"
+    },
+    {
+      "url": "https://ev-database.org/car/1411/Volkswagen-ID4-Pure-Performance",
+      "text": "Volkswagen ID.4 Pure Performance"
+    },
+    {
+      "url": "https://ev-database.org/car/1527/Audi-Q4-e-tron-45-quattro",
+      "text": "Audi Q4 e-tron 45 quattro"
+    },
+    {
+      "url": "https://ev-database.org/car/1912/Volkswagen-ID5-Pro",
+      "text": "Volkswagen ID.5 Pro"
+    },
+    {
+      "url": "https://ev-database.org/car/2256/Peugeot-e-Traveller-L2-50-kWh",
+      "text": "Peugeot e-Traveller L2 50 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1107/Audi-e-tron-Sportback-55-quattro",
+      "text": "Audi e-tron Sportback 55 quattro"
+    },
+    {
+      "url": "https://ev-database.org/car/1492/Audi-Q4-Sportback-e-tron-50-quattro",
+      "text": "Audi Q4 Sportback e-tron 50 quattro"
+    },
+    {
+      "url": "https://ev-database.org/car/1514/Toyota-Proace-Verso-M-75-kWh",
+      "text": "Toyota Proace Verso M 75 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1537/Mercedes-Benz-EQS-AMG-53-4MATICplus",
+      "text": "Mercedes-Benz EQS AMG 53 4MATIC+"
+    },
+    {
+      "url": "https://ev-database.org/car/2045/Mercedes-Benz-EQE-SUV-300",
+      "text": "Mercedes-Benz EQE SUV 300"
+    },
+    {
+      "url": "https://ev-database.org/car/2239/Mercedes-Benz-EQT-200-Long",
+      "text": "Mercedes-Benz EQT 200 Long"
+    },
+    {
+      "url": "https://ev-database.org/car/2260/Opel-Zafira-Electric-50-kWh",
+      "text": "Opel Zafira Electric 50 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3197/Zeekr-X-Core-RWD",
+      "text": "Zeekr X Core RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1131/Renault-Zoe-Q90",
+      "text": "Renault Zoe Q90"
+    },
+    {
+      "url": "https://ev-database.org/car/1175/Tesla-Model-X-Long-Range",
+      "text": "Tesla Model X Long Range"
+    },
+    {
+      "url": "https://ev-database.org/car/1307/Jaguar-I-Pace-EV320",
+      "text": "Jaguar I-Pace EV320"
+    },
+    {
+      "url": "https://ev-database.org/car/1652/Mercedes-Benz-EQE-AMG-43-4MATIC",
+      "text": "Mercedes-Benz EQE AMG 43 4MATIC"
+    },
+    {
+      "url": "https://ev-database.org/car/1809/VinFast-VF-8-Plus-Extended-Range",
+      "text": "VinFast VF 8 Plus Extended Range"
+    },
+    {
+      "url": "https://ev-database.org/car/3099/Skoda-Enyaq-Coupe-60",
+      "text": "Skoda Enyaq Coupe 60"
+    },
+    {
+      "url": "https://ev-database.org/car/3101/Skoda-Enyaq-Coupe-85x",
+      "text": "Skoda Enyaq Coupe 85x"
+    },
+    {
+      "url": "https://ev-database.org/car/3154/Volvo-EC40-Single-Motor",
+      "text": "Volvo EC40 Single Motor"
+    },
+    {
+      "url": "https://ev-database.org/car/3631/Volkswagen-ID-Buzz-NWB-Pro",
+      "text": "Volkswagen ID. Buzz NWB Pro"
+    },
+    {
+      "url": "https://ev-database.org/car/1152/Sono-Sion",
+      "text": "Sono Sion"
+    },
+    {
+      "url": "https://ev-database.org/car/1710/Fisker-Ocean-Ultra",
+      "text": "Fisker Ocean Ultra"
+    },
+    {
+      "url": "https://ev-database.org/car/1832/Volkswagen-ID3-Pro-S---4-Seats",
+      "text": "Volkswagen ID.3 Pro S - 4 Seats"
+    },
+    {
+      "url": "https://ev-database.org/car/2112/Porsche-Taycan-Turbo-Cross-Turismo",
+      "text": "Porsche Taycan Turbo Cross Turismo"
+    },
+    {
+      "url": "https://ev-database.org/car/3041/Audi-Q6-Sportback-e-tron",
+      "text": "Audi Q6 Sportback e-tron"
+    },
+    {
+      "url": "https://ev-database.org/car/3061/Porsche-Taycan-4-Plus",
+      "text": "Porsche Taycan 4 Plus"
+    },
+    {
+      "url": "https://ev-database.org/car/3062/Porsche-Taycan-GTS",
+      "text": "Porsche Taycan GTS"
+    },
+    {
+      "url": "https://ev-database.org/car/2228/Polestar-2-Long-Range-Performance",
+      "text": "Polestar 2 Long Range Performance"
+    },
+    {
+      "url": "https://ev-database.org/car/3056/Abarth-600e-Turismo",
+      "text": "Abarth 600e Turismo"
+    },
+    {
+      "url": "https://ev-database.org/car/1132/Smart-EQ-fortwo-coupe",
+      "text": "Smart EQ fortwo coupe"
+    },
+    {
+      "url": "https://ev-database.org/car/1381/Hyundai-IONIQ-5-Project-45",
+      "text": "Hyundai IONIQ 5 Project 45"
+    },
+    {
+      "url": "https://ev-database.org/car/1727/Fiat-500e-Cabrio-24-kWh",
+      "text": "Fiat 500e Cabrio 24 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/2218/Smart-1-Pureplus",
+      "text": "Smart #1 Pure+"
+    },
+    {
+      "url": "https://ev-database.org/car/3382/Porsche-Macan-Turbo-Electric",
+      "text": "Porsche Macan Turbo Electric"
+    },
+    {
+      "url": "https://ev-database.org/car/1074/Tesla-Model-X-60D",
+      "text": "Tesla Model X 60D"
+    },
+    {
+      "url": "https://ev-database.org/car/1105/BMW-i3s-94-Ah",
+      "text": "BMW i3s 94 Ah"
+    },
+    {
+      "url": "https://ev-database.org/car/1670/Ford-Mustang-Mach-E-SR-AWD",
+      "text": "Ford Mustang Mach-E SR AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1920/Smart-1-Pulse",
+      "text": "Smart #1 Pulse"
+    },
+    {
+      "url": "https://ev-database.org/car/3259/Volkswagen-ID7-Tourer-Pro",
+      "text": "Volkswagen ID.7 Tourer Pro"
+    },
+    {
+      "url": "https://ev-database.org/car/3283/Mercedes-Benz-EQE-SUV-300",
+      "text": "Mercedes-Benz EQE SUV 300"
+    },
+    {
+      "url": "https://ev-database.org/car/1598/Citroen-e-Jumpy-Combi-XL-75-kWh",
+      "text": "Citroen e-Jumpy Combi XL 75 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1764/Mercedes-Benz-EQE-SUV-AMG-53-4MATICplus",
+      "text": "Mercedes-Benz EQE SUV AMG 53 4MATIC+"
+    },
+    {
+      "url": "https://ev-database.org/car/2012/Mercedes-Benz-EQS-AMG-53-4MATICplus",
+      "text": "Mercedes-Benz EQS AMG 53 4MATIC+"
+    },
+    {
+      "url": "https://ev-database.org/car/2104/Porsche-Taycan-Sport-Turismo",
+      "text": "Porsche Taycan Sport Turismo"
+    },
+    {
+      "url": "https://ev-database.org/car/2129/Mercedes-Benz-EQV-250-Long",
+      "text": "Mercedes-Benz EQV 250 Long"
+    },
+    {
+      "url": "https://ev-database.org/car/2136/Volvo-EX40-Twin-Motor",
+      "text": "Volvo EX40 Twin Motor"
+    },
+    {
+      "url": "https://ev-database.org/car/1197/Tesla-Model-X-Standard-Range",
+      "text": "Tesla Model X Standard Range"
+    },
+    {
+      "url": "https://ev-database.org/car/2009/Mercedes-Benz-EQS-450-4MATIC",
+      "text": "Mercedes-Benz EQS 450 4MATIC"
+    },
+    {
+      "url": "https://ev-database.org/car/2122/Volvo-EX40-Twin-Motor-Performance",
+      "text": "Volvo EX40 Twin Motor Performance"
+    },
+    {
+      "url": "https://ev-database.org/car/1629/Skoda-Enyaq-Coupe-iV-80",
+      "text": "Skoda Enyaq Coupe iV 80"
+    },
+    {
+      "url": "https://ev-database.org/car/2275/Ford-Mustang-Mach-E-Rally",
+      "text": "Ford Mustang Mach-E Rally"
+    },
+    {
+      "url": "https://ev-database.org/car/3265/Hongqi-E-HS7-111-kWh-AWD-Pro",
+      "text": "Hongqi E-HS7 111 kWh AWD Pro"
+    },
+    {
+      "url": "https://ev-database.org/car/3632/Volkswagen-ID-Buzz-NWB-Pro-4MOTION",
+      "text": "Volkswagen ID. Buzz NWB Pro 4MOTION"
+    },
+    {
+      "url": "https://ev-database.org/car/1317/Lucid-Air-Touring",
+      "text": "Lucid Air Touring"
+    },
+    {
+      "url": "https://ev-database.org/car/1607/Peugeot-e-Expert-Combi-Standard-75-kWh",
+      "text": "Peugeot e-Expert Combi Standard 75 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1771/Audi-Q8-Sportback-e-tron-50-quattro",
+      "text": "Audi Q8 Sportback e-tron 50 quattro"
+    },
+    {
+      "url": "https://ev-database.org/car/1795/Mercedes-Benz-EQS-SUV-500-4MATIC",
+      "text": "Mercedes-Benz EQS SUV 500 4MATIC"
+    },
+    {
+      "url": "https://ev-database.org/car/2222/NIO-EL8-Standard-Range",
+      "text": "NIO EL8 Standard Range"
+    },
+    {
+      "url": "https://ev-database.org/car/3080/Volkswagen-ID5-Pure",
+      "text": "Volkswagen ID.5 Pure"
+    },
+    {
+      "url": "https://ev-database.org/car/1134/Smart-EQ-forfour",
+      "text": "Smart EQ forfour"
+    },
+    {
+      "url": "https://ev-database.org/car/1617/Mercedes-Benz-eVito-Tourer-Long-60-kWh",
+      "text": "Mercedes-Benz eVito Tourer Long 60 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3420/Ford-e-Tourneo-Custom-L1-160-kW-RWD",
+      "text": "Ford e-Tourneo Custom L1 160 kW RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1208/Tesla-Model-X-Performance",
+      "text": "Tesla Model X Performance"
+    },
+    {
+      "url": "https://ev-database.org/car/1522/Peugeot-e-Rifter-Standard-50-kWh",
+      "text": "Peugeot e-Rifter Standard 50 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1950/Volvo-EX90-Single-Motor",
+      "text": "Volvo EX90 Single Motor"
+    },
+    {
+      "url": "https://ev-database.org/car/2274/Mercedes-Benz-EQV-300-Extra-Long",
+      "text": "Mercedes-Benz EQV 300 Extra-Long"
+    },
+    {
+      "url": "https://ev-database.org/car/1347/Opel-Zafira-e-Life-L-50-kWh",
+      "text": "Opel Zafira-e Life L 50 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1494/Volkswagen-ID4-GTX",
+      "text": "Volkswagen ID.4 GTX"
+    },
+    {
+      "url": "https://ev-database.org/car/1601/Opel-Vivaro-e-Combi-L-50-kWh",
+      "text": "Opel Vivaro-e Combi L 50 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1661/Audi-e-tron-Sportback-50-quattro",
+      "text": "Audi e-tron Sportback 50 quattro"
+    },
+    {
+      "url": "https://ev-database.org/car/1929/Porsche-Taycan-4-Cross-Turismo",
+      "text": "Porsche Taycan 4 Cross Turismo"
+    },
+    {
+      "url": "https://ev-database.org/car/2035/Ford-Mustang-Mach-E-ER-RWD",
+      "text": "Ford Mustang Mach-E ER RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3251/Volkswagen-ID4-Pro-4MOTION",
+      "text": "Volkswagen ID.4 Pro 4MOTION"
+    },
+    {
+      "url": "https://ev-database.org/car/3514/Abarth-600e-Competizione",
+      "text": "Abarth 600e Competizione"
+    },
+    {
+      "url": "https://ev-database.org/car/1055/Tesla-Model-X-P90DL",
+      "text": "Tesla Model X P90DL"
+    },
+    {
+      "url": "https://ev-database.org/car/1289/Kia-e-Soul-39-kWh",
+      "text": "Kia e-Soul 39 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1290/Audi-Q4-Sportback-e-tron-35",
+      "text": "Audi Q4 Sportback e-tron 35"
+    },
+    {
+      "url": "https://ev-database.org/car/1305/Nissan-Ariya-e-4ORCE-87kWh---290-kW",
+      "text": "Nissan Ariya e-4ORCE 87kWh - 290 kW"
+    },
+    {
+      "url": "https://ev-database.org/car/1343/Citroen-e-SpaceTourer-M-75-kWh",
+      "text": "Citroen e-SpaceTourer M 75 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1918/BYD-DOLPHIN-449-kWh-Boost",
+      "text": "BYD DOLPHIN 44.9 kWh Boost"
+    },
+    {
+      "url": "https://ev-database.org/car/2207/Mercedes-Benz-EQE-500-4MATIC",
+      "text": "Mercedes-Benz EQE 500 4MATIC"
+    },
+    {
+      "url": "https://ev-database.org/car/3075/BMW-i5-xDrive40-Touring",
+      "text": "BMW i5 xDrive40 Touring"
+    },
+    {
+      "url": "https://ev-database.org/car/3119/Volkswagen-ID-Buzz-NWB-Pure",
+      "text": "Volkswagen ID. Buzz NWB Pure"
+    },
+    {
+      "url": "https://ev-database.org/car/3183/Skoda-Elroq-RS",
+      "text": "Skoda Elroq RS"
+    },
+    {
+      "url": "https://ev-database.org/car/1038/Tesla-Model-S-P90DL",
+      "text": "Tesla Model S P90DL"
+    },
+    {
+      "url": "https://ev-database.org/car/1150/Renault-Zoe-R90",
+      "text": "Renault Zoe R90"
+    },
+    {
+      "url": "https://ev-database.org/car/1928/Porsche-Taycan-Turbo-S",
+      "text": "Porsche Taycan Turbo S"
+    },
+    {
+      "url": "https://ev-database.org/car/2139/Mercedes-Benz-eVito-Tourer-Extra-Long-60-kWh",
+      "text": "Mercedes-Benz eVito Tourer Extra-Long 60 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3312/Volkswagen-e-Transporter-Kombi-L2-100-kW-64-kWh",
+      "text": "Volkswagen e-Transporter Kombi L2 100 kW 64 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3633/Volkswagen-ID-Buzz-NWB-GTX",
+      "text": "Volkswagen ID. Buzz NWB GTX"
+    },
+    {
+      "url": "https://ev-database.org/car/1561/Porsche-Taycan-GTS-Sport-Turismo",
+      "text": "Porsche Taycan GTS Sport Turismo"
+    },
+    {
+      "url": "https://ev-database.org/car/2138/Mercedes-Benz-eVito-Tourer-Long-60-kWh",
+      "text": "Mercedes-Benz eVito Tourer Long 60 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/2252/Citroen-e-SpaceTourer-M-50-kWh",
+      "text": "Citroen e-SpaceTourer M 50 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3421/Ford-e-Tourneo-Custom-L1-160-kW-AWD",
+      "text": "Ford e-Tourneo Custom L1 160 kW AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3499/Volkswagen-ID5-Pure",
+      "text": "Volkswagen ID.5 Pure"
+    },
+    {
+      "url": "https://ev-database.org/car/3504/Audi-Q4-Sportback-e-tron-55-quattro",
+      "text": "Audi Q4 Sportback e-tron 55 quattro"
+    },
+    {
+      "url": "https://ev-database.org/car/1137/Kia-e-Niro-39-kWh",
+      "text": "Kia e-Niro 39 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1556/Volkswagen-ID5-Pro",
+      "text": "Volkswagen ID.5 Pro"
+    },
+    {
+      "url": "https://ev-database.org/car/1930/Porsche-Taycan-4S-Cross-Turismo",
+      "text": "Porsche Taycan 4S Cross Turismo"
+    },
+    {
+      "url": "https://ev-database.org/car/2113/Porsche-Taycan-Turbo-S-Cross-Turismo",
+      "text": "Porsche Taycan Turbo S Cross Turismo"
+    },
+    {
+      "url": "https://ev-database.org/car/3063/Porsche-Taycan-GTS-Sport-Turismo",
+      "text": "Porsche Taycan GTS Sport Turismo"
+    },
+    {
+      "url": "https://ev-database.org/car/1618/Mercedes-Benz-eVito-Tourer-Extra-Long-60-kWh",
+      "text": "Mercedes-Benz eVito Tourer Extra-Long 60 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3157/Volvo-EC40-Twin-Motor-Performance",
+      "text": "Volvo EC40 Twin Motor Performance"
+    },
+    {
+      "url": "https://ev-database.org/car/1715/Mercedes-Benz-EQE-350-4MATIC",
+      "text": "Mercedes-Benz EQE 350 4MATIC"
+    },
+    {
+      "url": "https://ev-database.org/car/1761/Mercedes-Benz-EQE-SUV-350-4MATIC",
+      "text": "Mercedes-Benz EQE SUV 350 4MATIC"
+    },
+    {
+      "url": "https://ev-database.org/car/2142/Lotus-Emeya-S",
+      "text": "Lotus Emeya S"
+    },
+    {
+      "url": "https://ev-database.org/car/2209/Mercedes-Benz-EQE-AMG-53-4MATICplus",
+      "text": "Mercedes-Benz EQE AMG 53 4MATIC+"
+    },
+    {
+      "url": "https://ev-database.org/car/3064/Skywell-BE11-Standard-Range",
+      "text": "Skywell BE11 Standard Range"
+    },
+    {
+      "url": "https://ev-database.org/car/3502/Volkswagen-ID5-GTX",
+      "text": "Volkswagen ID.5 GTX"
+    },
+    {
+      "url": "https://ev-database.org/car/1523/Peugeot-e-Rifter-Long-50-kWh",
+      "text": "Peugeot e-Rifter Long 50 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1716/Mercedes-Benz-EQE-500-4MATIC",
+      "text": "Mercedes-Benz EQE 500 4MATIC"
+    },
+    {
+      "url": "https://ev-database.org/car/2206/Mercedes-Benz-EQE-350-4MATIC",
+      "text": "Mercedes-Benz EQE 350 4MATIC"
+    },
+    {
+      "url": "https://ev-database.org/car/3426/Ford-e-Tourneo-Custom-L2-210-kW-RWD",
+      "text": "Ford e-Tourneo Custom L2 210 kW RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1246/Ford-Mustang-Mach-E-GT",
+      "text": "Ford Mustang Mach-E GT"
+    },
+    {
+      "url": "https://ev-database.org/car/1341/Citroen-e-SpaceTourer-M-50-kWh",
+      "text": "Citroen e-SpaceTourer M 50 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1603/Opel-Vivaro-e-Combi-L-75-kWh",
+      "text": "Opel Vivaro-e Combi L 75 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/2137/Volvo-EC40-Twin-Motor",
+      "text": "Volvo EC40 Twin Motor"
+    },
+    {
+      "url": "https://ev-database.org/car/2277/Ford-Mustang-Mach-E-SR-RWD",
+      "text": "Ford Mustang Mach-E SR RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1271/Audi-e-tron-S",
+      "text": "Audi e-tron S"
+    },
+    {
+      "url": "https://ev-database.org/car/1726/Fiat-500e-3plus1-24-kWh",
+      "text": "Fiat 500e 3+1 24 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1914/Volkswagen-ID5-GTX",
+      "text": "Volkswagen ID.5 GTX"
+    },
+    {
+      "url": "https://ev-database.org/car/2249/Audi-Q4-Sportback-e-tron-35",
+      "text": "Audi Q4 Sportback e-tron 35"
+    },
+    {
+      "url": "https://ev-database.org/car/2255/Citroen-e-SpaceTourer-XL-75-kWh",
+      "text": "Citroen e-SpaceTourer XL 75 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3076/DS-Automobiles-N8-FWD",
+      "text": "DS Automobiles N°8 FWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3482/Volvo-EX30-Cross-Country-P5-Long-Range",
+      "text": "Volvo EX30 Cross Country P5 Long Range"
+    },
+    {
+      "url": "https://ev-database.org/car/1649/Genesis-GV60-Sport-Plus",
+      "text": "Genesis GV60 Sport Plus"
+    },
+    {
+      "url": "https://ev-database.org/car/1774/Audi-SQ8-Sportback-e-tron",
+      "text": "Audi SQ8 Sportback e-tron"
+    },
+    {
+      "url": "https://ev-database.org/car/1794/Jeep-Avenger-Electric-1st-Edition",
+      "text": "Jeep Avenger Electric 1st Edition"
+    },
+    {
+      "url": "https://ev-database.org/car/1925/Porsche-Taycan-4S",
+      "text": "Porsche Taycan 4S"
+    },
+    {
+      "url": "https://ev-database.org/car/2246/GWM-ORA-07-Pro",
+      "text": "GWM ORA 07 Pro"
+    },
+    {
+      "url": "https://ev-database.org/car/3270/Lucid-Air-Touring",
+      "text": "Lucid Air Touring"
+    },
+    {
+      "url": "https://ev-database.org/car/1714/Mercedes-Benz-EQE-350",
+      "text": "Mercedes-Benz EQE 350"
+    },
+    {
+      "url": "https://ev-database.org/car/1788/NIO-EL7-Standard-Range",
+      "text": "NIO EL7 Standard Range"
+    },
+    {
+      "url": "https://ev-database.org/car/2038/Ford-Mustang-Mach-E-GT",
+      "text": "Ford Mustang Mach-E GT"
+    },
+    {
+      "url": "https://ev-database.org/car/2066/Lotus-Eletre-S",
+      "text": "Lotus Eletre S"
+    },
+    {
+      "url": "https://ev-database.org/car/2109/Porsche-Taycan-Turbo-S-Sport-Turismo",
+      "text": "Porsche Taycan Turbo S Sport Turismo"
+    },
+    {
+      "url": "https://ev-database.org/car/1790/Abarth-500e-Scorpionissima",
+      "text": "Abarth 500e Scorpionissima"
+    },
+    {
+      "url": "https://ev-database.org/car/3309/Volkswagen-e-Transporter-Kombi-L1-100-kW-64-kWh",
+      "text": "Volkswagen e-Transporter Kombi L1 100 kW 64 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3326/Polestar-3-Rear-Motor",
+      "text": "Polestar 3 Rear Motor"
+    },
+    {
+      "url": "https://ev-database.org/car/3424/Ford-e-Tourneo-Custom-L2-160-kW-RWD",
+      "text": "Ford e-Tourneo Custom L2 160 kW RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1079/Renault-Zoe-R90-Entry",
+      "text": "Renault Zoe R90 Entry"
+    },
+    {
+      "url": "https://ev-database.org/car/1613/Mercedes-Benz-eVito-Tourer-Long-41-kWh",
+      "text": "Mercedes-Benz eVito Tourer Long 41 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3423/Ford-e-Tourneo-Custom-L1-210-kW-AWD",
+      "text": "Ford e-Tourneo Custom L1 210 kW AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1722/Fiat-E-Ulysse-L2-75-kWh",
+      "text": "Fiat E-Ulysse L2 75 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1724/Fiat-E-Ulysse-L3-75-kWh",
+      "text": "Fiat E-Ulysse L3 75 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/2106/Porsche-Taycan-4S-Sport-Turismo",
+      "text": "Porsche Taycan 4S Sport Turismo"
+    },
+    {
+      "url": "https://ev-database.org/car/3501/Volkswagen-ID5-Pro-4MOTION",
+      "text": "Volkswagen ID.5 Pro 4MOTION"
+    },
+    {
+      "url": "https://ev-database.org/car/1098/Lucid-Air-Dream-Edition-P",
+      "text": "Lucid Air Dream Edition P"
+    },
+    {
+      "url": "https://ev-database.org/car/1700/Mercedes-Benz-EQS-500-4MATIC",
+      "text": "Mercedes-Benz EQS 500 4MATIC"
+    },
+    {
+      "url": "https://ev-database.org/car/1720/Audi-Q4-Sportback-e-tron-45-quattro",
+      "text": "Audi Q4 Sportback e-tron 45 quattro"
+    },
+    {
+      "url": "https://ev-database.org/car/1754/Ford-Mustang-Mach-E-ER-RWD",
+      "text": "Ford Mustang Mach-E ER RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1779/Toyota-Proace-City-Verso-L1-50-kWh",
+      "text": "Toyota Proace City Verso L1 50 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/2108/Porsche-Taycan-Turbo-Sport-Turismo",
+      "text": "Porsche Taycan Turbo Sport Turismo"
+    },
+    {
+      "url": "https://ev-database.org/car/3287/Mercedes-Benz-EQE-SUV-AMG-53-4MATICplus",
+      "text": "Mercedes-Benz EQE SUV AMG 53 4MATIC+"
+    },
+    {
+      "url": "https://ev-database.org/car/3315/Volkswagen-e-Caravelle-L1-100-kW-64-kWh",
+      "text": "Volkswagen e-Caravelle L1 100 kW 64 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1755/Ford-Mustang-Mach-E-SR-AWD",
+      "text": "Ford Mustang Mach-E SR AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1815/ORA-Funky-Cat-GT",
+      "text": "ORA Funky Cat GT"
+    },
+    {
+      "url": "https://ev-database.org/car/2258/Peugeot-e-Traveller-L2-75-kWh",
+      "text": "Peugeot e-Traveller L2 75 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3235/Genesis-GV60-Sport",
+      "text": "Genesis GV60 Sport"
+    },
+    {
+      "url": "https://ev-database.org/car/3422/Ford-e-Tourneo-Custom-L1-210-kW-RWD",
+      "text": "Ford e-Tourneo Custom L1 210 kW RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1099/Smart-ForTwo-Cabrio-Electric-Drive",
+      "text": "Smart ForTwo Cabrio Electric Drive"
+    },
+    {
+      "url": "https://ev-database.org/car/1354/Peugeot-e-Traveller-Long-75-kWh",
+      "text": "Peugeot e-Traveller Long 75 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3311/Volkswagen-e-Transporter-Kombi-L1-210-kW-64-kWh",
+      "text": "Volkswagen e-Transporter Kombi L1 210 kW 64 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1065/Tesla-Model-S-P90DL",
+      "text": "Tesla Model S P90DL"
+    },
+    {
+      "url": "https://ev-database.org/car/2007/Mercedes-Benz-EQE-SUV-300",
+      "text": "Mercedes-Benz EQE SUV 300"
+    },
+    {
+      "url": "https://ev-database.org/car/2105/Porsche-Taycan-Plus-Sport-Turismo",
+      "text": "Porsche Taycan Plus Sport Turismo"
+    },
+    {
+      "url": "https://ev-database.org/car/2107/Porsche-Taycan-4S-Plus-Sport-Turismo",
+      "text": "Porsche Taycan 4S Plus Sport Turismo"
+    },
+    {
+      "url": "https://ev-database.org/car/2130/Mercedes-Benz-EQV-250-Extra-Long",
+      "text": "Mercedes-Benz EQV 250 Extra-Long"
+    },
+    {
+      "url": "https://ev-database.org/car/3427/Ford-e-Tourneo-Custom-L2-210-kW-AWD",
+      "text": "Ford e-Tourneo Custom L2 210 kW AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1102/Citroen-e-Berlingo-Multispace",
+      "text": "Citroen e-Berlingo Multispace"
+    },
+    {
+      "url": "https://ev-database.org/car/1282/Skoda-Enyaq-iV-RS",
+      "text": "Skoda Enyaq iV RS"
+    },
+    {
+      "url": "https://ev-database.org/car/1351/Peugeot-e-Traveller-Standard-50-kWh",
+      "text": "Peugeot e-Traveller Standard 50 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1621/Porsche-Taycan-Sport-Turismo",
+      "text": "Porsche Taycan Sport Turismo"
+    },
+    {
+      "url": "https://ev-database.org/car/1648/Genesis-GV60-Sport",
+      "text": "Genesis GV60 Sport"
+    },
+    {
+      "url": "https://ev-database.org/car/1668/Ford-Mustang-Mach-E-SR-RWD",
+      "text": "Ford Mustang Mach-E SR RWD"
+    },
+    {
+      "url": "https://ev-database.org/car/3191/Ford-Mustang-Mach-E-Rally",
+      "text": "Ford Mustang Mach-E Rally"
+    },
+    {
+      "url": "https://ev-database.org/car/3316/Volkswagen-e-Caravelle-L1-160-kW-64-kWh",
+      "text": "Volkswagen e-Caravelle L1 160 kW 64 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1750/Kia-e-Soul-392-kWh",
+      "text": "Kia e-Soul 39.2 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1827/Mini-Cooper-SE-Convertible",
+      "text": "Mini Cooper SE Convertible"
+    },
+    {
+      "url": "https://ev-database.org/car/3164/Ford-e-Tourneo-Custom-L2-160-kW",
+      "text": "Ford e-Tourneo Custom L2 160 kW"
+    },
+    {
+      "url": "https://ev-database.org/car/3317/Volkswagen-e-Caravelle-L1-210-kW-64-kWh",
+      "text": "Volkswagen e-Caravelle L1 210 kW 64 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1346/Opel-Zafira-e-Life-M-50-kWh",
+      "text": "Opel Zafira-e Life M 50 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1547/Citroen-e-Berlingo-XL-50-kWh",
+      "text": "Citroen e-Berlingo XL 50 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1673/Mercedes-Benz-EQS-SUV-450plus",
+      "text": "Mercedes-Benz EQS SUV 450+"
+    },
+    {
+      "url": "https://ev-database.org/car/1702/Volkswagen-ID4-Pro-4MOTION",
+      "text": "Volkswagen ID.4 Pro 4MOTION"
+    },
+    {
+      "url": "https://ev-database.org/car/1927/Porsche-Taycan-Turbo",
+      "text": "Porsche Taycan Turbo"
+    },
+    {
+      "url": "https://ev-database.org/car/2253/Citroen-e-SpaceTourer-XL-50-kWh",
+      "text": "Citroen e-SpaceTourer XL 50 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1169/Kia-e-Soul-39-kWh",
+      "text": "Kia e-Soul 39 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1512/Toyota-Proace-Verso-M-50-kWh",
+      "text": "Toyota Proace Verso M 50 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1760/Mercedes-Benz-EQE-SUV-350plus",
+      "text": "Mercedes-Benz EQE SUV 350+"
+    },
+    {
+      "url": "https://ev-database.org/car/1932/Porsche-Taycan-Turbo-S-Cross-Turismo",
+      "text": "Porsche Taycan Turbo S Cross Turismo"
+    },
+    {
+      "url": "https://ev-database.org/car/2115/BMW-i5-M60-xDrive-Touring",
+      "text": "BMW i5 M60 xDrive Touring"
+    },
+    {
+      "url": "https://ev-database.org/car/2162/Opel-Combo-Electric-XL-50-kWh",
+      "text": "Opel Combo Electric XL 50 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3313/Volkswagen-e-Transporter-Kombi-L2-160-kW-64-kWh",
+      "text": "Volkswagen e-Transporter Kombi L2 160 kW 64 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1624/Porsche-Taycan-4S-Plus-Sport-Turismo",
+      "text": "Porsche Taycan 4S Plus Sport Turismo"
+    },
+    {
+      "url": "https://ev-database.org/car/1780/Toyota-Proace-City-Verso-L2-50-kWh",
+      "text": "Toyota Proace City Verso L2 50 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/2208/Mercedes-Benz-EQE-AMG-43-4MATIC",
+      "text": "Mercedes-Benz EQE AMG 43 4MATIC"
+    },
+    {
+      "url": "https://ev-database.org/car/3163/Ford-e-Tourneo-Custom-L1-210-kW",
+      "text": "Ford e-Tourneo Custom L1 210 kW"
+    },
+    {
+      "url": "https://ev-database.org/car/3318/Volkswagen-e-Caravelle-L2-100-kW-64-kWh",
+      "text": "Volkswagen e-Caravelle L2 100 kW 64 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1542/Mercedes-Benz-EQV-250-Long",
+      "text": "Mercedes-Benz EQV 250 Long"
+    },
+    {
+      "url": "https://ev-database.org/car/1515/Toyota-Proace-Verso-L-75-kWh",
+      "text": "Toyota Proace Verso L 75 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1653/Mercedes-Benz-EQE-AMG-53-4MATICplus",
+      "text": "Mercedes-Benz EQE AMG 53 4MATIC+"
+    },
+    {
+      "url": "https://ev-database.org/car/2276/Ford-Mustang-Mach-E-SR-AWD",
+      "text": "Ford Mustang Mach-E SR AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/1349/Opel-Zafira-e-Life-L-75-kWh",
+      "text": "Opel Zafira-e Life L 75 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1439/Porsche-Taycan-Turbo-S-Cross-Turismo",
+      "text": "Porsche Taycan Turbo S Cross Turismo"
+    },
+    {
+      "url": "https://ev-database.org/car/1611/Toyota-Proace-Shuttle-M-75-kWh",
+      "text": "Toyota Proace Shuttle M 75 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1709/Fisker-Ocean-Sport",
+      "text": "Fisker Ocean Sport"
+    },
+    {
+      "url": "https://ev-database.org/car/2023/Skoda-Enyaq-Coupe-60",
+      "text": "Skoda Enyaq Coupe 60"
+    },
+    {
+      "url": "https://ev-database.org/car/2261/Opel-Zafira-Electric-XL-50-kWh",
+      "text": "Opel Zafira Electric XL 50 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1272/Audi-e-tron-S-Sportback",
+      "text": "Audi e-tron S Sportback"
+    },
+    {
+      "url": "https://ev-database.org/car/1600/Opel-Vivaro-e-Combi-M-50-kWh",
+      "text": "Opel Vivaro-e Combi M 50 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1605/Peugeot-e-Expert-Combi-Standard-50-kWh",
+      "text": "Peugeot e-Expert Combi Standard 50 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/2263/Opel-Zafira-Electric-XL-75-kWh",
+      "text": "Opel Zafira Electric XL 75 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1133/Smart-EQ-fortwo-cabrio",
+      "text": "Smart EQ fortwo cabrio"
+    },
+    {
+      "url": "https://ev-database.org/car/1344/Citroen-e-SpaceTourer-XL-75-kWh",
+      "text": "Citroen e-SpaceTourer XL 75 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1612/Toyota-Proace-Shuttle-L-75-kWh",
+      "text": "Toyota Proace Shuttle L 75 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1926/Porsche-Taycan-4S-Plus",
+      "text": "Porsche Taycan 4S Plus"
+    },
+    {
+      "url": "https://ev-database.org/car/1200/Tesla-Model-X-Ludicrous-Performance",
+      "text": "Tesla Model X Ludicrous Performance"
+    },
+    {
+      "url": "https://ev-database.org/car/1262/Kia-e-Niro-39-kWh",
+      "text": "Kia e-Niro 39 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1545/Opel-Combo-e-Life-XL-50-kWh",
+      "text": "Opel Combo-e Life XL 50 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/2036/Ford-Mustang-Mach-E-SR-AWD",
+      "text": "Ford Mustang Mach-E SR AWD"
+    },
+    {
+      "url": "https://ev-database.org/car/2125/Volvo-EC40-Twin-Motor-Performance",
+      "text": "Volvo EC40 Twin Motor Performance"
+    },
+    {
+      "url": "https://ev-database.org/car/2257/Peugeot-e-Traveller-L3-50-kWh",
+      "text": "Peugeot e-Traveller L3 50 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/3253/Volkswagen-ID5-Pure",
+      "text": "Volkswagen ID.5 Pure"
+    },
+    {
+      "url": "https://ev-database.org/car/1353/Peugeot-e-Traveller-Standard-75-kWh",
+      "text": "Peugeot e-Traveller Standard 75 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1185/Tesla-Model-X-Performance",
+      "text": "Tesla Model X Performance"
+    },
+    {
+      "url": "https://ev-database.org/car/1352/Peugeot-e-Traveller-Long-50-kWh",
+      "text": "Peugeot e-Traveller Long 50 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1630/Skoda-Enyaq-Coupe-iV-80x",
+      "text": "Skoda Enyaq Coupe iV 80x"
+    },
+    {
+      "url": "https://ev-database.org/car/1595/Citroen-e-Jumpy-Combi-M-50-kWh",
+      "text": "Citroen e-Jumpy Combi M 50 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1622/Porsche-Taycan-Plus-Sport-Turismo",
+      "text": "Porsche Taycan Plus Sport Turismo"
+    },
+    {
+      "url": "https://ev-database.org/car/1721/Fiat-E-Ulysse-L2-50-kWh",
+      "text": "Fiat E-Ulysse L2 50 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1723/Fiat-E-Ulysse-L3-50-kWh",
+      "text": "Fiat E-Ulysse L3 50 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1513/Toyota-Proace-Verso-L-50-kWh",
+      "text": "Toyota Proace Verso L 50 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1609/Toyota-Proace-Shuttle-M-50-kWh",
+      "text": "Toyota Proace Shuttle M 50 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1623/Porsche-Taycan-4S-Sport-Turismo",
+      "text": "Porsche Taycan 4S Sport Turismo"
+    },
+    {
+      "url": "https://ev-database.org/car/1628/Skoda-Enyaq-Coupe-iV-60",
+      "text": "Skoda Enyaq Coupe iV 60"
+    },
+    {
+      "url": "https://ev-database.org/car/1924/Porsche-Taycan-Plus",
+      "text": "Porsche Taycan Plus"
+    },
+    {
+      "url": "https://ev-database.org/car/1342/Citroen-e-SpaceTourer-XL-50-kWh",
+      "text": "Citroen e-SpaceTourer XL 50 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1438/Porsche-Taycan-Turbo-Cross-Turismo",
+      "text": "Porsche Taycan Turbo Cross Turismo"
+    },
+    {
+      "url": "https://ev-database.org/car/1543/Mercedes-Benz-EQV-250-Extra-Long",
+      "text": "Mercedes-Benz EQV 250 Extra-Long"
+    },
+    {
+      "url": "https://ev-database.org/car/3376/Skoda-Enyaq-Coupe-85x",
+      "text": "Skoda Enyaq Coupe 85x"
+    },
+    {
+      "url": "https://ev-database.org/car/1340/Citroen-e-SpaceTourer-XS-50-kWh",
+      "text": "Citroen e-SpaceTourer XS 50 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1626/Porsche-Taycan-Turbo-S-Sport-Turismo",
+      "text": "Porsche Taycan Turbo S Sport Turismo"
+    },
+    {
+      "url": "https://ev-database.org/car/1931/Porsche-Taycan-Turbo-Cross-Turismo",
+      "text": "Porsche Taycan Turbo Cross Turismo"
+    },
+    {
+      "url": "https://ev-database.org/car/1604/Peugeot-e-Expert-Combi-Compact-50-kWh",
+      "text": "Peugeot e-Expert Combi Compact 50 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1345/Opel-Zafira-e-Life-S-50-kWh",
+      "text": "Opel Zafira-e Life S 50 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1610/Toyota-Proace-Shuttle-L-50-kWh",
+      "text": "Toyota Proace Shuttle L 50 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1606/Peugeot-e-Expert-Combi-Long-50-kWh",
+      "text": "Peugeot e-Expert Combi Long 50 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1350/Peugeot-e-Traveller-Compact-50-kWh",
+      "text": "Peugeot e-Traveller Compact 50 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1594/Citroen-e-Jumpy-Combi-XS-50-kWh",
+      "text": "Citroen e-Jumpy Combi XS 50 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1596/Citroen-e-Jumpy-Combi-XL-50-kWh",
+      "text": "Citroen e-Jumpy Combi XL 50 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1599/Opel-Vivaro-e-Combi-S-50-kWh",
+      "text": "Opel Vivaro-e Combi S 50 kWh"
+    },
+    {
+      "url": "https://ev-database.org/car/1625/Porsche-Taycan-Turbo-Sport-Turismo",
+      "text": "Porsche Taycan Turbo Sport Turismo"
+    }
+  ],
+  "next_page": null,
+  "subcategories": [
+    {
+      "url": "https://ev-database.org/cheatsheet/range-electric-car",
+      "text": "CHEATSHEETS"
+    },
+    {
+      "url": "https://ev-database.org/missing-vehicles",
+      "text": "MISSING VEHICLES"
+    },
+    {
+      "url": "https://ev-database.org/data-services-api",
+      "text": "DATA SERVICES"
+    },
+    {
+      "url": "https://ev-database.org/contact",
+      "text": "CONTACT & ABOUT"
+    },
+    {
+      "url": "https://ev-database.org/disclaimer",
+      "text": "DISCLAIMER"
+    },
+    {
+      "url": "https://ev-database.org/nl/",
+      "text": "The Netherlands"
+    },
+    {
+      "url": "https://ev-database.org/uk/",
+      "text": "United Kingdom"
+    },
+    {
+      "url": "https://ev-database.org/de/",
+      "text": "Germany"
+    }
+  ]
+}

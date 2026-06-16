@@ -10,9 +10,14 @@ on:
       - main
   workflow_dispatch:
 
+# Serialize deploys to the same Function App; don't cancel an in-flight deployment.
+concurrency:
+  group: deploy-evcc
+  cancel-in-progress: false
+
 env:
   AZURE_FUNCTIONAPP_PACKAGE_PATH: '.' # set this to the path to your web app project, defaults to the repository root
-  PYTHON_VERSION: '3.11' # set this to the python version to use (supports 3.6, 3.7, 3.8)
+  PYTHON_VERSION: '3.10' # keep in sync with .python-version and the local .venv
 
 jobs:
   build:
@@ -22,30 +27,41 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Setup Python version
-        uses: actions/setup-python@v1
+        uses: actions/setup-python@v5
         with:
           python-version: ${{ env.PYTHON_VERSION }}
 
-      - name: Create and start virtual environment
-        run: |
-          python -m venv venv
-          source venv/bin/activate
-
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: pip install -r requirements-dev.txt
 
-      # Optional: Add step to run tests here
+      - name: Run tests
+        run: python -m pytest -q
 
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Build UI
+        run: npm ci && npm run build
+        working-directory: ui
+
+      # Only ui/dist (the built SPA) is needed at runtime. Exclude the UI sources/build config so
+      # Oryx doesn't detect package.json and attempt a Node build on this Python function app.
       - name: Zip artifact for deployment
-        run: zip release.zip ./* -r
+        run: >
+          zip release.zip ./* -r
+          -x "tests/*" ".venv/*" "venv/*"
+          "ui/node_modules/*" "ui/src/*" "ui/package.json" "ui/package-lock.json"
+          "ui/vite.config.js" "ui/index.html"
+          "ev_database_org/*" ".scrape/*" "*.jl" "data/*"
 
       - name: Upload artifact for deployment job
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: python-app
-          path: |
-            release.zip
-            !venv/
+          path: release.zip
+          if-no-files-found: error
 
   deploy:
     runs-on: ubuntu-latest
@@ -56,12 +72,12 @@ jobs:
 
     steps:
       - name: Download artifact from build job
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4
         with:
           name: python-app
 
       - name: Unzip artifact for deployment
-        run: unzip release.zip
+        run: unzip release.zip && rm release.zip
 
       - name: 'Deploy to Azure Functions'
         uses: Azure/functions-action@v1

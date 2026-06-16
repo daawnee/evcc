@@ -1,5 +1,4 @@
 import azure.functions as func
-from functools import cache
 
 from typing import Any, Optional, Dict
 
@@ -13,7 +12,6 @@ class Params:
         except ValueError:
             self.__body = {}
 
-    @cache
     def __getitem__(self, index: str) -> Optional[Any]:
         if (value := self.__headers.get(index)) is not None:
             return value

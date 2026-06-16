@@ -1,0 +1,14 @@
+{
+  "type": "petrol",
+  "make": "Volkswagen",
+  "model": "Golf 1.5 TSI",
+  "consumption": { "average": 6.5, "highway": 8.5 },
+  "depreciation": [
+    { "year": 3, "retained": 66 },
+    { "year": 5, "retained": 46 }
+  ],
+  "service_yearly": 120000,
+  "insurance_yearly": 205000,
+  "tax_yearly": 30000,
+  "photo": "vw-golf-15-tsi/photo.jpg"
+}

@@ -1,0 +1,14 @@
+{
+  "type": "diesel",
+  "make": "Skoda",
+  "model": "Octavia 2.0 TDI",
+  "consumption": { "average": 5.0, "highway": 6.5 },
+  "depreciation": [
+    { "year": 3, "retained": 64 },
+    { "year": 5, "retained": 44 }
+  ],
+  "service_yearly": 130000,
+  "insurance_yearly": 205000,
+  "tax_yearly": 30000,
+  "photo": "skoda-octavia-20-tdi/photo.jpg"
+}

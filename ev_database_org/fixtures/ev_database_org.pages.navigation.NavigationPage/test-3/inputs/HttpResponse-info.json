@@ -1,0 +1,40 @@
+{
+  "url": "https://ev-database.org/",
+  "status": 200,
+  "headers": {
+    "Transfer-Encoding": [
+      "chunked"
+    ],
+    "Keep-Alive": [
+      "timeout=5, max=100"
+    ],
+    "Cache-Control": [
+      "no-store, no-cache, must-revalidate"
+    ],
+    "Server": [
+      "Apache"
+    ],
+    "Connection": [
+      "Keep-Alive"
+    ],
+    "Vary": [
+      "Accept-Encoding"
+    ],
+    "Set-Cookie": [
+      "locale=si; expires=Sun, 13 Dec 2026 11:01:04 GMT; Max-Age=15552000; path=/"
+    ],
+    "Pragma": [
+      "no-cache"
+    ],
+    "Expires": [
+      "Thu, 19 Nov 1981 08:52:00 GMT"
+    ],
+    "Date": [
+      "Tue, 16 Jun 2026 11:01:04 GMT"
+    ],
+    "Content-Type": [
+      "text/html; charset=UTF-8"
+    ]
+  },
+  "_encoding": "utf-8"
+}

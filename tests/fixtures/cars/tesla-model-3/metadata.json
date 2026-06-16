@@ -1,0 +1,14 @@
+{
+  "type": "bev",
+  "make": "Tesla",
+  "model": "Model 3",
+  "consumption": { "average": 15.0, "highway": 19.0 },
+  "depreciation": [
+    { "year": 3, "retained": 63 },
+    { "year": 5, "retained": 37 }
+  ],
+  "service_yearly": 15000,
+  "insurance_yearly": 110000,
+  "tax_yearly": 0,
+  "photo": "tesla-model-3/photo.jpg"
+}
