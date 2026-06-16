@@ -3,16 +3,17 @@ unit-testable. Given resolved car data plus shared assumptions, produces a month
 
 from typing import List, Optional
 
+from .depreciation import resolve_depreciation
 from .input import Assumptions, CarData, CarSelection, DepreciationPoint, FuelType, VehicleType
 from .output import Breakeven, CarResult, MonthlyPoint
 
 
 def _retained_pct(curve: List[DepreciationPoint], age_months: float) -> float:
-    """Retained value (% of new price) at the given age, by piecewise-linear interpolation over the
-    curve. A new car (age 0) retains 100%. Beyond the last point, extrapolate along the final
-    segment's slope, clamped to >= 0."""
-    points = sorted({(0.0, 100.0)} | {(float(p.year), float(p.retained)) for p in curve})
-    age = age_months / 12
+    """Retained value (% of new price) at the given age in months, by piecewise-linear
+    interpolation over the curve. A new car (age 0) retains 100%. Beyond the last point,
+    extrapolate along the final segment's slope, clamped to >= 0."""
+    points = sorted({(0.0, 100.0)} | {(float(p.month), float(p.retained)) for p in curve})
+    age = age_months
 
     if age <= points[0][0]:
         return points[0][1]
@@ -74,11 +75,12 @@ def compute(model_id: str, car: CarData, sel: CarSelection, a: Assumptions) -> C
     base_age = sel.age_at_purchase_months
 
     # Depreciation anchored at purchase: the entered price is the value at the purchase age, and the
-    # curve's shape carries it forward from there.
-    anchor = _retained_pct(car.depreciation, base_age)
+    # curve's shape carries it forward from there. The curve is resolved per-model -> brand -> type.
+    curve = resolve_depreciation(car.type, car.make, car.depreciation)
+    anchor = _retained_pct(curve, base_age)
 
     def value(elapsed_months: int) -> float:
-        retained = _retained_pct(car.depreciation, base_age + elapsed_months)
+        retained = _retained_pct(curve, base_age + elapsed_months)
         return price * (retained / anchor) if anchor else price
 
     energy_nominal = _energy_nominal_monthly(car, a)

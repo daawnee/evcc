@@ -18,6 +18,12 @@ month X; own it longer than that and the EV wins."*
   yearly insurance cost, yearly tax — see `CarData`. When a model isn't in the database, a
   **type-level fallback** (`fallback_car_data`) is used, built from the hardcoded Hungarian-market
   defaults at the bottom of `input.py` keyed by `VehicleType` (`bev`/`petrol`/`diesel`/`hybrid`/`phev`).
+- **Depreciation** (`models/calculate/depreciation.py`) is resolved most-specific-first:
+  **per-model (`CarData.depreciation` in metadata) → per-brand (`BRAND_DEPRECIATION`) → global per-type
+  (`TYPE_DEPRECIATION`)**. Curves are `DepreciationPoint{month, retained}` at monthly resolution
+  (legacy `{year, retained}` is auto-converted). We only have credible per-type figures, so the
+  brand layer is empty and per-model `depreciation` has been **removed from metadata.json** (the
+  engine resolves it from the type curve). `CarData.depreciation` is optional.
 - **Powertrains & energy model** (`engine._energy_nominal_monthly`): `bev` runs on electricity both
   legs; `petrol`/`diesel`/`hybrid` on a single combustion fuel (`CarData.fuel`, default petrol) both
   legs; **`phev` runs the commute leg on grid electricity (`electric_consumption`, kWh/100km) and the

@@ -25,7 +25,6 @@ from urllib.parse import urlparse
 sys.path.insert(0, os.path.normpath(os.path.join(os.path.dirname(__file__), "..")))
 
 from models.calculate.input import (  # noqa: E402
-    DEFAULT_DEPRECIATION,
     DEFAULT_INSURANCE,
     DEFAULT_SERVICE,
     DEFAULT_TAX,
@@ -71,7 +70,6 @@ def to_car_data(row: dict) -> CarData:
         make=row.get("make") or "",
         model=row.get("model") or "",
         consumption={"average": avg, "highway": hwy},
-        depreciation=[p.model_dump() for p in DEFAULT_DEPRECIATION[BEV]],
         service_yearly=DEFAULT_SERVICE[BEV],
         insurance_yearly=DEFAULT_INSURANCE[BEV],
         tax_yearly=DEFAULT_TAX[BEV],

@@ -27,7 +27,6 @@ sys.path.insert(0, os.path.normpath(os.path.join(os.path.dirname(__file__), ".."
 
 from models.calculate.input import (  # noqa: E402
     DEFAULT_CONSUMPTION,
-    DEFAULT_DEPRECIATION,
     DEFAULT_ELECTRIC_CONSUMPTION,
     DEFAULT_INSURANCE,
     DEFAULT_SERVICE,
@@ -236,7 +235,6 @@ def build_car(make: str, model: str, vt: VehicleType, g: dict) -> CarData:
         make=make,
         model=model,
         consumption=consumption,
-        depreciation=[p.model_dump() for p in DEFAULT_DEPRECIATION[vt]],
         service_yearly=DEFAULT_SERVICE[vt],
         insurance_yearly=DEFAULT_INSURANCE[vt],
         tax_yearly=DEFAULT_TAX[vt],

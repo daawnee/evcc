@@ -25,6 +25,9 @@ def main() -> int:
     ap.add_argument("--skip-existing", action="store_true",
                     help="skip blobs already present (index.json is always re-uploaded); "
                          "use when adding new cars without re-pushing the whole dataset")
+    ap.add_argument("--metadata-only", action="store_true",
+                    help="upload only metadata.json + index.json (overwrite), not photos; "
+                         "use after editing metadata fields")
     args = ap.parse_args()
 
     connection_string = os.environ.get("CARS_CONNECTION_STRING") or os.environ.get("AzureWebJobsStorage")
@@ -45,6 +48,9 @@ def main() -> int:
         for name in files:
             local_path = os.path.join(root, name)
             blob_name = os.path.relpath(local_path, DATA_DIR).replace(os.sep, "/")
+            if args.metadata_only and name not in ("metadata.json", "index.json"):
+                skipped += 1
+                continue
             if args.skip_existing and blob_name != "index.json" and container.get_blob_client(blob_name).exists():
                 skipped += 1
                 continue

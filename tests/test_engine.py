@@ -14,18 +14,22 @@ def _assumptions(**kw):
 
 
 def test_retained_pct_anchors_and_interpolates():
-    curve = [DepreciationPoint(year=3, retained=60), DepreciationPoint(year=5, retained=40)]
+    curve = [DepreciationPoint(month=36, retained=60), DepreciationPoint(month=60, retained=40)]
     assert _retained_pct(curve, 0) == 100.0  # new car retains 100%
     assert _retained_pct(curve, 36) == 60.0  # exact knot
     assert _retained_pct(curve, 60) == 40.0  # exact knot
-    # midpoint between year 3 (60) and year 5 (40) -> 50
-    assert _retained_pct(curve, 48) == 50.0
+    assert _retained_pct(curve, 48) == 50.0  # midpoint between month 36 and 60
 
 
 def test_retained_pct_extrapolates_clamped_to_zero():
-    curve = [DepreciationPoint(year=3, retained=60), DepreciationPoint(year=5, retained=40)]
-    # slope is -10 %/yr beyond year 5; far out it must clamp at 0, never negative
+    curve = [DepreciationPoint(month=36, retained=60), DepreciationPoint(month=60, retained=40)]
+    # extrapolating the final segment's slope far out must clamp at 0, never negative
     assert _retained_pct(curve, 1200) == 0.0
+
+
+def test_depreciation_point_accepts_legacy_year():
+    p = DepreciationPoint(year=3, retained=66)
+    assert p.month == 36.0 and p.retained == 66.0
 
 
 def test_compute_series_length_and_monotonic_cumulative():

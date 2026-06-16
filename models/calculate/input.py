@@ -42,8 +42,19 @@ class Consumption(BaseModel):
 
 
 class DepreciationPoint(BaseModel):
-    year: float
-    retained: float  # retained value as a percentage of the new price (0-100)
+    """Retained value (% of the new price) at a given age in MONTHS. The engine interpolates
+    between points at monthly resolution. A legacy {year, retained} point is accepted and
+    converted to months for backward compatibility."""
+
+    month: float
+    retained: float
+
+    @model_validator(mode="before")
+    @classmethod
+    def _accept_year(cls, data):
+        if isinstance(data, dict) and "month" not in data and "year" in data:
+            data = {**data, "month": float(data["year"]) * 12}
+        return data
 
 
 class Specs(BaseModel):
@@ -76,7 +87,9 @@ class CarData(BaseModel):
     make: str = ""
     model: str = ""
     consumption: Consumption  # L/100km for petrol/diesel/hybrid/phev; kWh/100km for bev
-    depreciation: List[DepreciationPoint]
+    # Optional per-model depreciation curve. When omitted, the engine resolves it from the
+    # brand layer, then the global per-type curve (see models/calculate/depreciation.py).
+    depreciation: Optional[List[DepreciationPoint]] = None
     service_yearly: float
     insurance_yearly: float
     tax_yearly: float = 0.0
@@ -174,14 +187,7 @@ DEFAULT_ELECTRIC_CONSUMPTION = {
     VehicleType.phev: Consumption(average=20.0, highway=24.0),
 }
 
-# https://totalcar.hu/magazin/hirek/2023/05/24/hasznalt-elektromos-autok-vizsgalat-attekinthetobb-piac/
-DEFAULT_DEPRECIATION = {
-    VehicleType.petrol: [DepreciationPoint(year=3, retained=66), DepreciationPoint(year=5, retained=46)],
-    VehicleType.diesel: [DepreciationPoint(year=3, retained=66), DepreciationPoint(year=5, retained=46)],
-    VehicleType.bev: [DepreciationPoint(year=3, retained=63), DepreciationPoint(year=5, retained=37)],
-    VehicleType.hybrid: [DepreciationPoint(year=3, retained=68), DepreciationPoint(year=5, retained=48)],
-    VehicleType.phev: [DepreciationPoint(year=3, retained=60), DepreciationPoint(year=5, retained=40)],
-}
+# Depreciation curves live in models/calculate/depreciation.py (layered: type -> brand -> model).
 
 # https://penzugyi-tudakozo.hu/ennyibe-kerul-egy-auto-fenntartasa-2023-ban/
 DEFAULT_SERVICE = {
@@ -218,7 +224,7 @@ def fallback_car_data(vtype: VehicleType, model_id: str = "") -> CarData:
         make=vtype.value,
         model=model_id or vtype.value,
         consumption=DEFAULT_CONSUMPTION[vtype],
-        depreciation=list(DEFAULT_DEPRECIATION[vtype]),
+        # depreciation left unset — resolved from the per-type curve at compute time.
         service_yearly=DEFAULT_SERVICE[vtype],
         insurance_yearly=DEFAULT_INSURANCE[vtype],
         tax_yearly=DEFAULT_TAX[vtype],
