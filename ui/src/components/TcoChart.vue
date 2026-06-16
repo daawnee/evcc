@@ -11,6 +11,7 @@ import {
   Filler,
 } from 'chart.js'
 import { fmtFt } from '../format.js'
+import { t, locale } from '../i18n.js'
 
 Chart.register(LineController, LineElement, PointElement, LinearScale, Tooltip, Legend, Filler)
 
@@ -47,7 +48,7 @@ const breakevenPlugin = {
     ctx.fillStyle = '#10b981'
     ctx.font = '600 12px system-ui, sans-serif'
     ctx.textAlign = x > (c.chartArea.left + c.chartArea.right) / 2 ? 'right' : 'left'
-    ctx.fillText(`megtérülés: ${m}. hó`, x + (ctx.textAlign === 'right' ? -6 : 6), top + 14)
+    ctx.fillText(t.breakeven(m), x + (ctx.textAlign === 'right' ? -6 : 6), top + 14)
     ctx.restore()
   },
 }
@@ -80,19 +81,19 @@ function build() {
       scales: {
         x: {
           type: 'linear',
-          title: { display: true, text: 'Birtoklás (hónap)' },
+          title: { display: true, text: t.chartX },
           ticks: { stepSize: 12 },
         },
         y: {
-          title: { display: true, text: 'Kumulált költség (Ft)' },
-          ticks: { callback: (v) => (v / 1_000_000).toLocaleString('hu-HU') + ' M' },
+          title: { display: true, text: t.chartY },
+          ticks: { callback: (v) => (v / 1_000_000).toLocaleString(locale) + ' M' },
         },
       },
       plugins: {
         legend: { labels: { usePointStyle: true } },
         tooltip: {
           callbacks: {
-            title: (items) => `${items[0].parsed.x}. hónap`,
+            title: (items) => t.tooltipMonth(items[0].parsed.x),
             label: (item) => `${item.dataset.label}: ${fmtFt(item.parsed.y)}`,
           },
         },

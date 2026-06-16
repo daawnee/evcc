@@ -27,14 +27,26 @@ body {
   color: var(--text);
 }
 
+/* Single, aligned tiled layout: every section shares the same width and gap. */
 .app {
-  max-width: 1000px;
+  max-width: 1080px;
   margin: 0 auto;
   padding: 24px 16px 48px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
 }
 
+.tile {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 16px;
+}
+
+.topbar { margin-bottom: 0; }
 .topbar h1 { margin: 0; font-size: 1.6rem; }
-.topbar .sub { margin: 4px 0 20px; color: var(--muted); }
+.topbar .sub { margin: 4px 0 0; color: var(--muted); }
 
 .pickers {
   display: grid;
@@ -45,17 +57,13 @@ body {
   .pickers { grid-template-columns: 1fr; }
 }
 
-.picker {
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-top: 3px solid var(--accent);
-  border-radius: 10px;
-  padding: 14px;
-}
+.picker { border-top: 3px solid var(--accent); }
 .picker-title { font-weight: 700; margin-bottom: 8px; color: var(--accent); }
 
 .search-wrap { position: relative; }
-.search {
+.search,
+.field input,
+.field select {
   width: 100%;
   padding: 9px 10px;
   border: 1px solid var(--border);
@@ -64,7 +72,9 @@ body {
   color: var(--text);
   font-size: 0.95rem;
 }
-.results {
+
+/* Search dropdown (renamed from .results to avoid colliding with the results section). */
+.search-results {
   position: absolute;
   z-index: 20;
   left: 0; right: 0;
@@ -78,7 +88,7 @@ body {
   border-radius: 8px;
   box-shadow: 0 8px 24px rgba(0, 0, 0, 0.18);
 }
-.results li {
+.search-results li {
   display: flex;
   align-items: center;
   gap: 10px;
@@ -86,8 +96,8 @@ body {
   border-radius: 6px;
   cursor: pointer;
 }
-.results li:hover { background: var(--bg); }
-.results img, .results .noimg {
+.search-results li:hover { background: var(--bg); }
+.search-results img, .search-results .noimg {
   width: 56px; height: 36px;
   object-fit: cover;
   border-radius: 4px;
@@ -119,38 +129,24 @@ body {
 
 .field { display: flex; flex-direction: column; gap: 3px; margin-top: 8px; font-size: 0.85rem; }
 .field span { color: var(--muted); }
-.field input {
-  padding: 8px 10px;
-  border: 1px solid var(--border);
-  border-radius: 8px;
-  background: var(--bg);
-  color: var(--text);
-  font-size: 0.95rem;
-}
 .link { background: none; border: none; color: var(--muted); cursor: pointer; font-size: 1rem; }
 
-.assumptions {
-  margin: 16px 0;
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: 10px;
-  padding: 6px 14px;
-}
-.assumptions summary { cursor: pointer; padding: 8px 0; font-weight: 600; }
+/* Assumptions tile */
+.assumptions summary { cursor: pointer; padding: 2px 0; font-weight: 600; }
 .assumptions .grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 16px;
-  padding: 8px 0 14px;
+  padding: 12px 0 4px;
 }
 @media (max-width: 720px) { .assumptions .grid { grid-template-columns: 1fr; } }
 fieldset { border: 1px solid var(--border); border-radius: 8px; }
 legend { color: var(--muted); font-size: 0.82rem; padding: 0 6px; }
 
-.results .hint, .hint { color: var(--muted); text-align: center; padding: 30px 0; }
+/* Results tile */
+.hint { color: var(--muted); text-align: center; padding: 24px 0; }
 .summary {
-  background: var(--surface);
-  border: 1px solid var(--border);
+  background: var(--bg);
   border-left: 3px solid #10b981;
   border-radius: 8px;
   padding: 14px 16px;
@@ -159,13 +155,8 @@ legend { color: var(--muted); font-size: 0.82rem; padding: 0 6px; }
 }
 .summary .diff { color: var(--muted); font-size: 0.9rem; margin-top: 6px; }
 
-.chart-box {
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: 10px;
-  padding: 14px;
-  height: 420px;
-}
+/* Chart sits inside the results tile (no separate frame) so it stays aligned. */
+.chart-box { height: 420px; }
 
 .error { color: #dc2626; }
-.foot { color: var(--muted); font-size: 0.78rem; margin-top: 28px; text-align: center; }
+.foot { color: var(--muted); font-size: 0.78rem; margin-top: 12px; text-align: center; }

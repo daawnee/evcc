@@ -5,14 +5,15 @@ import AssumptionsPanel from './components/AssumptionsPanel.vue'
 import TcoChart from './components/TcoChart.vue'
 import { getModels, calculate } from './api.js'
 import { fmtFt, fmtFtShort, monthsToYears } from './format.js'
+import { t } from './i18n.js'
 
 const HORIZON = 120 // months (fixed) — long enough to surface EV-vs-ICE break-evens
 
 const models = ref([])
 const loadError = ref('')
 
-const carA = reactive({ entry: null, data: null, price: 0, ageMonths: 12 })
-const carB = reactive({ entry: null, data: null, price: 0, ageMonths: 12 })
+const carA = reactive({ entry: null, data: null, price: 0, ageMonths: 0 })
+const carB = reactive({ entry: null, data: null, price: 0, ageMonths: 0 })
 
 const assumptions = reactive({
   mileage: { commute: 13600, travel: 3400 },
@@ -33,9 +34,7 @@ onMounted(async () => {
   }
 })
 
-const ready = computed(
-  () => carA.entry && carB.entry && carA.price > 0 && carB.price > 0
-)
+const ready = computed(() => carA.entry && carB.entry && carA.price > 0 && carB.price > 0)
 
 const names = computed(() => ({
   a: carA.entry ? `${carA.entry.make} ${carA.entry.model}` : 'A',
@@ -44,15 +43,20 @@ const names = computed(() => ({
 
 const breakeven = computed(() => result.value?.breakevens?.[0]?.month ?? null)
 
-const summary = computed(() => {
-  if (!result.value) return null
+const summaryHtml = computed(() => {
+  if (!result.value) return ''
   const [a, b] = result.value.cars
   const la = a.series[a.series.length - 1].cumulative
   const lb = b.series[b.series.length - 1].cumulative
   const cheaper = la < lb ? names.value.a : names.value.b
   const diff = Math.abs(la - lb)
+  const horizonYears = Math.round(HORIZON / 12)
   const m = breakeven.value
-  return { m, cheaper, diff, horizonYears: Math.round(HORIZON / 12) }
+  const head = m
+    ? t.summaryCross(m, monthsToYears(m), cheaper)
+    : t.summaryNoCross(horizonYears, cheaper)
+  const diffLine = t.summaryDiff(horizonYears, fmtFtShort(diff), fmtFt(diff))
+  return `${head}<div class="diff">${diffLine}</div>`
 })
 
 let timer = null
@@ -90,46 +94,28 @@ watch([carA, carB, assumptions], scheduleRecompute, { deep: true })
 <template>
   <div class="app">
     <header class="topbar">
-      <h1>EV TCO Kalkulátor</h1>
-      <p class="sub">Két autó teljes birtoklási költségének összehasonlítása</p>
+      <h1>{{ t.title }}</h1>
+      <p class="sub">{{ t.subtitle }}</p>
     </header>
 
-    <p v-if="loadError" class="error">Hiba a modellek betöltésekor: {{ loadError }}</p>
+    <p v-if="loadError" class="error tile">{{ t.loadError }}: {{ loadError }}</p>
 
     <section class="pickers">
-      <CarPicker title="Autó A" accent="#2563eb" :models="models" :state="carA" />
-      <CarPicker title="Autó B" accent="#dc2626" :models="models" :state="carB" />
+      <CarPicker :title="t.carA" accent="#2563eb" :models="models" :state="carA" />
+      <CarPicker :title="t.carB" accent="#dc2626" :models="models" :state="carB" />
     </section>
 
     <AssumptionsPanel :a="assumptions" />
 
-    <section class="results">
-      <p v-if="!ready" class="hint">
-        Válassz ki két autót és add meg a vételárakat az összehasonlításhoz.
-      </p>
-      <p v-else-if="calcError" class="error">Számítási hiba: {{ calcError }}</p>
+    <section class="results tile">
+      <p v-if="!ready" class="hint">{{ t.hint }}</p>
+      <p v-else-if="calcError" class="error">{{ t.calcError }}: {{ calcError }}</p>
       <template v-else-if="result">
-        <div class="summary">
-          <template v-if="summary.m">
-            A két görbe a <strong>{{ summary.m }}. hónapban</strong>
-            ({{ monthsToYears(summary.m) }} év) találkozik.
-            Ezen túl tartva <strong>{{ summary.cheaper }}</strong> a jobb választás.
-          </template>
-          <template v-else>
-            A görbék {{ summary.horizonYears }} év alatt nem keresztezik egymást —
-            végig <strong>{{ summary.cheaper }}</strong> az olcsóbb.
-          </template>
-          <div class="diff">
-            {{ summary.horizonYears }} év alatt a különbség
-            <strong>{{ fmtFtShort(summary.diff) }}</strong> ({{ fmtFt(summary.diff) }}).
-          </div>
-        </div>
+        <div class="summary" v-html="summaryHtml"></div>
         <TcoChart :result="result" :names="names" :breakeven="breakeven" />
       </template>
     </section>
 
-    <footer class="foot">
-      Az adatok tájékoztató jellegűek. Energia- és fenntartási árak: magyar piac, alapértelmezett értékek.
-    </footer>
+    <footer class="foot">{{ t.footer }}</footer>
   </div>
 </template>

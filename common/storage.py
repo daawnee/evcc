@@ -79,11 +79,13 @@ class BlobStore:
         return local
 
     def get_index(self) -> List[Dict[str, Any]]:
-        local = self._download("index.json")
-        if local is None:
+        # index.json is mutable (changes when cars are added), so always fetch it fresh instead of
+        # serving a stale disk-cached copy. Per-car metadata/photos stay cached (immutable by id).
+        try:
+            data = self._service.get_blob_client(self._container, "index.json").download_blob().readall()
+        except Exception:
             return []
-        with open(local, encoding="utf-8") as f:
-            return json.load(f)
+        return json.loads(data)
 
     def get_car(self, model_id: str) -> Optional[Dict[str, Any]]:
         local = self._download(f"{model_id}/metadata.json")

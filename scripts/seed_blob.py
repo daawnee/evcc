@@ -19,11 +19,19 @@ DATA_DIR = os.path.normpath(os.path.join(os.path.dirname(__file__), "..", "data"
 
 
 def main() -> int:
+    import argparse
+
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--skip-existing", action="store_true",
+                    help="skip blobs already present (index.json is always re-uploaded); "
+                         "use when adding new cars without re-pushing the whole dataset")
+    args = ap.parse_args()
+
     connection_string = os.environ.get("CARS_CONNECTION_STRING") or os.environ.get("AzureWebJobsStorage")
     if not connection_string:
         print("Set CARS_CONNECTION_STRING or AzureWebJobsStorage to the storage connection string", file=sys.stderr)
         return 1
-    print(f"uploading {DATA_DIR} -> container '{CONTAINER}'", file=sys.stderr)
+    print(f"uploading {DATA_DIR} -> container '{CONTAINER}' (skip_existing={args.skip_existing})", file=sys.stderr)
 
     service = BlobServiceClient.from_connection_string(connection_string)
     container = service.get_container_client(CONTAINER)
@@ -32,14 +40,19 @@ def main() -> int:
     except Exception:
         pass  # already exists
 
+    uploaded = skipped = 0
     for root, _dirs, files in os.walk(DATA_DIR):
         for name in files:
             local_path = os.path.join(root, name)
             blob_name = os.path.relpath(local_path, DATA_DIR).replace(os.sep, "/")
+            if args.skip_existing and blob_name != "index.json" and container.get_blob_client(blob_name).exists():
+                skipped += 1
+                continue
             with open(local_path, "rb") as f:
                 container.upload_blob(name=blob_name, data=f, overwrite=True)
-            print(f"uploaded {blob_name}")
+            uploaded += 1
 
+    print(f"uploaded {uploaded} blobs, skipped {skipped} existing")
     return 0
 
 

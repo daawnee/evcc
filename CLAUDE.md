@@ -143,6 +143,13 @@ python scripts/import_ev_database.py ev_database_org/cars_full.jl               
 because model-year/battery variants share name slugs. Hero **photos** are fetched directly from
 ev-database (the image host is *not* rate-limited, only the detail pages are).
 
+**ICE / hybrid / PHEV** data comes from **auto-data.net** (EEA's API proved unreliable). The
+`auto_data_net` spider (same Scrapy project, via Zyte) crawls allbrands → brand → model →
+generation (kept if produced ≥2015) → variant detail, scoped to a mainstream-brand allowlist;
+`scripts/import_autodata.py` classifies the powertrain (petrol/diesel/hybrid/phev), maps urban→
+`consumption.average` / extra-urban→`consumption.highway`, fills the rest from type fallbacks, and
+merges into the catalog. Re-upload with `seed_blob.py --skip-existing` to avoid re-pushing the EV photos.
+
 `scripts/import_ev_database.py` maps each scraped `Car` into a complete `CarData`
 (consumption converted Wh/km→kWh/100km; `specs` + `price_new` populated), **fills
 depreciation/service/insurance/tax from the BEV type-fallbacks** (ev-database doesn't provide them),
@@ -154,12 +161,17 @@ yet wired.
 ## Web UI
 
 A Vue 3 + Vite single-page app lives in [ui/](ui/) and is **served by the Functions app itself**
-(same origin, no CORS). It's a strict A-vs-B TCO comparator: two car pickers (search the `/models`
-catalog, thumbnail + specs), per-car price (EVs prefilled from `price_new` DE EUR × a fixed
-`EUR_HUF` rate in `ui/src/api.js`) and age, a collapsible assumptions panel (mileage split + energy
+(same origin, no CORS). It's a strict A-vs-B TCO comparator laid out as aligned tiles: two car
+pickers (search the `/models` catalog, thumbnail + specs), per-car price (EVs prefilled from
+`price_new` DE EUR × a fixed `EUR_HUF` rate in `ui/src/api.js`) and an **age-at-purchase dropdown**
+("As new", "1 month", … "1 year 2 months"), a collapsible assumptions panel (mileage split + energy
 prices), and a Chart.js cumulative-cost chart with the break-even month marked plus a plain-language
-summary. Hungarian UI, HUF formatting, auto light/dark. The UI requests a **120-month horizon** (the
+summary. Auto light/dark; HUF prices throughout. The UI requests a **120-month horizon** (the
 60-month default would hide most EV-vs-ICE break-evens).
+
+**i18n** ([ui/src/i18n.js](ui/src/i18n.js)): **English is the default**; Hungarian (`hu`) is chosen
+only when a `hu-XX` locale appears in `navigator.languages` before any `en-XX`. All UI strings,
+powertrain labels, the age dropdown, number/locale formatting, and chart labels go through `t`/`locale`.
 
 ```bash
 cd ui && npm install
