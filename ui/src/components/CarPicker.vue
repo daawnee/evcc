@@ -42,6 +42,11 @@ function setType(type) {
   open.value = true
 }
 
+function dismiss() {
+  search.value = ''
+  open.value = false
+}
+
 async function pick(entry) {
   props.state.entry = entry
   open.value = false
@@ -104,9 +109,19 @@ const specLine = computed(() => {
         v-model="search"
         @focus="open = true"
         @input="open = true"
+        @keydown.esc="dismiss"
+        @blur="open = false"
       />
-      <ul v-if="open && shown.length" class="search-results">
-        <li v-for="m in shown" :key="m.model_id" @mousedown.prevent="pick(m)">
+      <button
+        v-if="open || search"
+        class="search-x"
+        type="button"
+        aria-label="✕"
+        @mousedown.prevent
+        @click="dismiss"
+      >✕</button>
+      <ul v-if="open && shown.length" class="search-results" @mousedown.prevent>
+        <li v-for="m in shown" :key="m.model_id" @click="pick(m)">
           <img v-if="m.photo" :src="photoUrl(m.model_id)" alt="" loading="lazy" />
           <span v-else class="noimg" />
           <span class="r-name">{{ m.make }} {{ m.model }}</span>

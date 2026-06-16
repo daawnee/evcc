@@ -101,6 +101,24 @@ body {
   color: var(--text);
   font-size: 0.95rem;
 }
+.search { padding-right: 34px; }
+.search-x {
+  position: absolute;
+  top: 7px;
+  right: 6px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  border-radius: 6px;
+  background: transparent;
+  color: var(--muted);
+  font-size: 0.85rem;
+  cursor: pointer;
+}
+.search-x:hover { background: var(--border); color: var(--text); }
 
 /* Search dropdown (renamed from .results to avoid colliding with the results section). */
 .search-results {
