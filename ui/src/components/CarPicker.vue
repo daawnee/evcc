@@ -13,17 +13,34 @@ const props = defineProps({
 
 const search = ref('')
 const open = ref(false)
+const typeFilter = ref('') // '' = all powertrains
+const LIMIT = 40
 
-const matches = computed(() => {
-  const q = search.value.trim().toLowerCase()
-  if (!q) return props.models.slice(0, 30)
-  return props.models
-    .filter((m) => (m.make + ' ' + m.model).toLowerCase().includes(q))
-    .slice(0, 30)
+// Powertrain tabs, ordered; only show those present in the catalog.
+const POWERTRAINS = ['bev', 'petrol', 'diesel', 'hybrid', 'phev']
+const availableTypes = computed(() => {
+  const present = new Set(props.models.map((m) => m.type))
+  return POWERTRAINS.filter((p) => present.has(p))
 })
 
-// Age dropdown: 0 ("As new") .. 180 months (15 years).
+const filtered = computed(() => {
+  const q = search.value.trim().toLowerCase()
+  let list = props.models
+  if (typeFilter.value) list = list.filter((m) => m.type === typeFilter.value)
+  if (q) list = list.filter((m) => (m.make + ' ' + m.model).toLowerCase().includes(q))
+  return [...list].sort((a, b) =>
+    (a.make + ' ' + a.model).localeCompare(b.make + ' ' + b.model)
+  )
+})
+const shown = computed(() => filtered.value.slice(0, LIMIT))
+const overflow = computed(() => Math.max(0, filtered.value.length - LIMIT))
+
 const ageOptions = Array.from({ length: 181 }, (_, i) => i)
+
+function setType(type) {
+  typeFilter.value = typeFilter.value === type ? '' : type
+  open.value = true
+}
 
 async function pick(entry) {
   props.state.entry = entry
@@ -63,6 +80,22 @@ const specLine = computed(() => {
   <div class="picker tile" :style="{ '--accent': accent }">
     <div class="picker-title">{{ title }}</div>
 
+    <!-- Top-level browsing by powertrain -->
+    <div class="type-chips">
+      <button
+        class="chip"
+        :class="{ active: typeFilter === '' }"
+        @click="setType('')"
+      >{{ t.all }}</button>
+      <button
+        v-for="pt in availableTypes"
+        :key="pt"
+        class="chip"
+        :class="{ active: typeFilter === pt }"
+        @click="setType(pt)"
+      >{{ TYPE_LABEL[pt] || pt }}</button>
+    </div>
+
     <div class="search-wrap">
       <input
         class="search"
@@ -72,13 +105,14 @@ const specLine = computed(() => {
         @focus="open = true"
         @input="open = true"
       />
-      <ul v-if="open && matches.length" class="search-results">
-        <li v-for="m in matches" :key="m.model_id" @mousedown.prevent="pick(m)">
+      <ul v-if="open && shown.length" class="search-results">
+        <li v-for="m in shown" :key="m.model_id" @mousedown.prevent="pick(m)">
           <img v-if="m.photo" :src="photoUrl(m.model_id)" alt="" loading="lazy" />
           <span v-else class="noimg" />
           <span class="r-name">{{ m.make }} {{ m.model }}</span>
           <span class="r-type">{{ TYPE_LABEL[m.type] || m.type }}</span>
         </li>
+        <li v-if="overflow" class="r-more">{{ t.moreResults(overflow) }}</li>
       </ul>
     </div>
 
